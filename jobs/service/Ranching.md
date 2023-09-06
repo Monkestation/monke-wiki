@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-06T19:21:54.876Z
+date: 2023-09-06T19:22:50.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-06T18:48:57.738Z
 
 ## Mutation List
 
-|     | Chicken Name | Mutations |
+| Image    | Chicken Name | Mutations |
 | --- | --- | --- |
 | ![](/chickens/chickens.png) | White Chicken | [Black Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken), [White Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#white_selkie_chicken), [Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#selkie_chicken), [Brown](https://wiki.monkestation.com/en/jobs/service/Ranching#brown_chicken), [Glass](https://wiki.monkestation.com/en/jobs/service/Ranching#glass_chicken), [Onagadori](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken), [Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#clown_chicken), [Ixworth](https://wiki.monkestation.com/en/jobs/service/Ranching#ixworth_chicken), [Void](https://wiki.monkestation.com/en/jobs/service/Ranching#void_chicken) |
 | ![](/chickens/dreaming.png) | Dream Chicken | None |
@@ -44,7 +44,7 @@ dateCreated: 2023-09-06T18:48:57.738Z
 
 ## Mutation Requirements
 
-|     | Chicken Name | Happiness Requirement | Food Requirement | Reagent Requirement | Floor Requirement | Atmos Requirement | Item Requirements | Watcher Requirements |
+|   Image   | Chicken Name | Happiness Requirement | Food Requirement | Reagent Requirement | Floor Requirement | Atmos Requirement | Item Requirements | Watcher Requirements |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](/chickens/chickens.png) | White Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
 | ![](/chickens/dreaming.png) | Dream Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
