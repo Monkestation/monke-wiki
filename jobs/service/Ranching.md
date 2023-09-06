@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-06T19:29:41.095Z
+date: 2023-09-06T19:35:24.164Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -48,28 +48,28 @@ dateCreated: 2023-09-06T18:48:57.738Z
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <a name="white_chicken"></a>![](/chickens/chickens.png) | White Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
 | <a name="dream_chicken"></a>![](/chickens/dreaming.png) | Dream Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
-| ![](/chickens/brown.png) | Brown Chicken | 25  | \-  | \-  | Grass | \-  | \-  | \-  |
-| ![](/chickens/glass.png) | Glass Chicken | 50  | \-  | \-  | \-  | \-  | Large Beaker, Regular Syringe | \-  |
-| ![](/chickens/onagadori.png) | Onagadori Chicken | \-  | \-  | \-  | Grass | \-  | \-  | \-  |
-| ![](/chickens/ixworth.png) | Ixworth Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
-| ![](/chickens/white_selkie.png) | White Selkie Chicken | \-  | Apples | Meth | Grass | \-  | \-  | \-  |
-| ![](/chickens/black_selke.png) | Black Selkie Chicken | \-  | Apples | Chloral Hydrate | Grass | \-  | \-  | \-  |
-| ![](/chickens/selkie.png) | Selkie Chicken | \-  | Apples | \-  | Grass | \-  | \-  | \-  |
-| ![](/chickens/void.png) | Void Chicken | \-50 | \-  | \-  | \-  | \-  | \-  | \-  |
-| ![](/chickens/clown.png) | Clown Chicken | \-  | \-  | \-  | \-  | \-  | \-  | A True Clown |
-| ![](/chickens/spicy.png) | Spicy Chicken | \-  | Chilis | \-  | \-  | 350k - 450k Temp | \-  | \-  |
-| ![](/chickens/raptor.png) | Raptors | 55  | Monkey Meat | Blood | \-  | \-  | \-  | \-  |
-| ![](/chickens/candy.png) | Cotton Candy Chickens | 50  | \-  | Cream, Sugar, Blueberry Shake | \-  | \-  | \-  | \-  |
-| ![](/chickens/snow.png) | Snow Chickens | \-  | \-  | \-  | \-  | 0K - 24K Temp With Oxygen Present | \-  | \-  |
-| ![](/chickens/pigeon.png) | Pigeon | 30  | Corn | \-  | \-  | \-  | Station Bound Radio | \-  |
-| ![](/chickens/stone.png) | Stone Hen | \-  | Cannabis | \-  | Fake Volcanic Floor | \-  | Pickaxe | \-  |
-| ![](/chickens/wiznerd.png) | Witchen | \-  | Fly Amanitas | \-  | \-  | \-  | Fake Wizard Hat | \-  |
-| ![](/chickens/sword.png) | Shieldmaidhen | \-  | Meatwheat | \-  | \-  | \-  | Steelcap logs | \-  |
-| ![](/chickens/gold.png) | Golden Chicken | 1000 | \-  | \-  | \-  | \-  | \-  | \-  |
-| ![](/chickens/sad_clown.png) | Sad Clown Chicken | \-1000 | \-  | \-  | \-  | \-  | \-  | \-  |
-| ![](/chickens/mime.png) | Mime Chicken | \-  | Baguettes | Nothing | \-  | \-  | \-  | \-  |
-| ![](/chickens/spicy.png) | Phoenix Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Onagadori Rooster |
-| ![](/chickens/dreamsicle.png) | Dreamsicle Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Snow Rooster |
-| ![](/chickens/cockatric.png) | Cockatrice | \-  | Chicken Meat | \-  | \-  | \-  | Lizard Tail | \-  |
-| ![](/chickens/robot.png) | Robotic Chicken | 45  | \-  | Iron, Uranium | \-  | \-  | Nutrient Pump Implant | \-  |
-| ![](/chickens/rev_raptor.png) | Rev Raptor | \-  | \-  | Cuba Libre | \-  | \-  | Flash | \-  |
+| <a name="brown_chicken"></a>![](/chickens/brown.png) | Brown Chicken | 25  | \-  | \-  | Grass | \-  | \-  | \-  |
+| <a name="glass_chicken"></a>![](/chickens/glass.png) | Glass Chicken | 50  | \-  | \-  | \-  | \-  | Large Beaker, Regular Syringe | \-  |
+| <a name="onagadori_chicken"></a>![](/chickens/onagadori.png) | Onagadori Chicken | \-  | \-  | \-  | Grass | \-  | \-  | \-  |
+| <a name="ixworth_chicken"></a>![](/chickens/ixworth.png) | Ixworth Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
+| <a name="white_selkie_chicken"></a>![](/chickens/white_selkie.png) | White Selkie Chicken | \-  | Apples | Meth | Grass | \-  | \-  | \-  |
+| <a name="black_selkie_chicken"></a>![](/chickens/black_selke.png) | Black Selkie Chicken | \-  | Apples | Chloral Hydrate | Grass | \-  | \-  | \-  |
+| <a name="selkie_chicken"></a>![](/chickens/selkie.png) | Selkie Chicken | \-  | Apples | \-  | Grass | \-  | \-  | \-  |
+| <a name="void_chicken"></a>![](/chickens/void.png) | Void Chicken | \-50 | \-  | \-  | \-  | \-  | \-  | \-  |
+| <a name="clown_chicken"></a>![](/chickens/clown.png) | Clown Chicken | \-  | \-  | \-  | \-  | \-  | \-  | A True Clown |
+| <a name="spicy_chicken"></a>![](/chickens/spicy.png) | Spicy Chicken | \-  | Chilis | \-  | \-  | 350k - 450k Temp | \-  | \-  |
+| <a name="raptor_chicken"></a>![](/chickens/raptor.png) | Raptors | 55  | Monkey Meat | Blood | \-  | \-  | \-  | \-  |
+| <a name="candy_chicken"></a>![](/chickens/candy.png) | Cotton Candy Chickens | 50  | \-  | Cream, Sugar, Blueberry Shake | \-  | \-  | \-  | \-  |
+| <a name="snow_chicken"></a>![](/chickens/snow.png) | Snow Chickens | \-  | \-  | \-  | \-  | 0K - 24K Temp With Oxygen Present | \-  | \-  |
+| <a name="pigeon_chicken"></a>![](/chickens/pigeon.png) | Pigeon | 30  | Corn | \-  | \-  | \-  | Station Bound Radio | \-  |
+| <a name="stone_chicken"></a>![](/chickens/stone.png) | Stone Hen | \-  | Cannabis | \-  | Fake Volcanic Floor | \-  | Pickaxe | \-  |
+| <a name="wizard_chicken"></a>![](/chickens/wiznerd.png) | Witchen | \-  | Fly Amanitas | \-  | \-  | \-  | Fake Wizard Hat | \-  |
+| <a name="shield_chicken"></a>![](/chickens/sword.png) | Shieldmaidhen | \-  | Meatwheat | \-  | \-  | \-  | Steelcap logs | \-  |
+| <a name="gold_chicken"></a>![](/chickens/gold.png) | Golden Chicken | 1000 | \-  | \-  | \-  | \-  | \-  | \-  |
+| <a name="sad_clown_chicken"></a>![](/chickens/sad_clown.png) | Sad Clown Chicken | \-1000 | \-  | \-  | \-  | \-  | \-  | \-  |
+| <a name="mime_chicken"></a>![](/chickens/mime.png) | Mime Chicken | \-  | Baguettes | Nothing | \-  | \-  | \-  | \-  |
+| <a name="spicy_chicken"></a>![](/chickens/spicy.png) | Phoenix Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Onagadori Rooster |
+| <a name="dreamsicle_chicken"></a>![](/chickens/dreamsicle.png) | Dreamsicle Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Snow Rooster |
+| <a name="coackatrice_chicken"></a>![](/chickens/cockatric.png) | Cockatrice | \-  | Chicken Meat | \-  | \-  | \-  | Lizard Tail | \-  |
+| <a name="robot_chicken"></a>![](/chickens/robot.png) | Robotic Chicken | 45  | \-  | Iron, Uranium | \-  | \-  | Nutrient Pump Implant | \-  |
+| <a name="rev_chicken"></a>![](/chickens/rev_raptor.png) | Rev Raptor | \-  | \-  | Cuba Libre | \-  | \-  | Flash | \-  |
