@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-06T19:26:10.863Z
+date: 2023-09-06T19:27:32.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
