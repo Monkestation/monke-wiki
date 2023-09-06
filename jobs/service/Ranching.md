@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-06T19:23:59.737Z
+date: 2023-09-06T19:24:15.053Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -47,7 +47,7 @@ dateCreated: 2023-09-06T18:48:57.738Z
 |   Image   | Chicken Name | Happiness Requirement | Food Requirement | Reagent Requirement | Floor Requirement | Atmos Requirement | Item Requirements | Watcher Requirements |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](/chickens/chickens.png) | <a name="white_chicken"></a>White Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
-| ![](/chickens/dreaming.png) | Dream Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
+| ![](/chickens/dreaming.png) | <a name="dream_chicken"></a>Dream Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
 | ![](/chickens/brown.png) | Brown Chicken | 25  | \-  | \-  | Grass | \-  | \-  | \-  |
 | ![](/chickens/glass.png) | Glass Chicken | 50  | \-  | \-  | \-  | \-  | Large Beaker, Regular Syringe | \-  |
 | ![](/chickens/onagadori.png) | Onagadori Chicken | \-  | \-  | \-  | Grass | \-  | \-  | \-  |
