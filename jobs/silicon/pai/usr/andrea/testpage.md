@@ -2,7 +2,7 @@
 title: Andrea's Test Pages
 description: What are you doing here?
 published: true
-date: 2023-09-09T05:55:48.621Z
+date: 2023-09-09T18:31:08.146Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-09T03:11:03.307Z
@@ -10,11 +10,9 @@ dateCreated: 2023-09-09T03:11:03.307Z
 
 # JOB_TITLE
 
-
-
 |                             | STAFF TYPE                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Quote: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
 
 ## Main 
 Talk about the primary parts of the job here.
