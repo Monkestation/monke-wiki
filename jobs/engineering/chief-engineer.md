@@ -2,7 +2,7 @@
 title: Chief Engineer
 description: "WHO TOOK THE DAMN MODSUITS!?" - Poly and every single one of his masters
 published: true
-date: 2023-09-09T22:57:52.572Z
+date: 2023-09-09T23:01:12.733Z
 tags: command, engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T18:46:45.899Z
@@ -26,9 +26,9 @@ Ontop of herding your engineers and techs into not turning the station uninhabit
 
 ## Power generation
 This is your most important job. there are three main ways of generating power on the station.
-### The Supermatter
+### ![supermatter_shard.png](/jobs/engineering/supermatter_shard.png) The Supermatter
 This is the most common engine your station will have, its the most complex to set up but the safest to run. Do not let newbies handle this on their own.
-### The Singularity
+### ![scrungularity.png](/jobs/engineering/scrungularity.png) The Singularity
 This engine is the 2nd most complicated while being the most dangerous. If you have a choice between this or the tesla, build a tesla
-### The Tesla
+### ![moth_lamp.gif](/jobs/engineering/moth_lamp.gif) The Tesla
 The Tesla is the easiest and is much less dangerous then the Singularity. It doesnt require any upkeep after being made while producing a great ammount of electricity.
