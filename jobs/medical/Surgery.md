@@ -2,7 +2,7 @@
 title: Guide to Surgery
 description: 
 published: true
-date: 2023-09-09T17:06:32.711Z
+date: 2023-09-09T17:31:05.045Z
 tags: guides, medical, wip
 editor: markdown
 dateCreated: 2023-09-09T17:02:59.601Z
@@ -30,7 +30,7 @@ So for example:
 * Those 20 extra seconds that were removed when we capped it to 20 seconds is now your chance to fail. 
 * Result: The step takes 20 seconds and has a 20% chance to fail.
 
-## = Beginning of any Operation =
+## Beginning of any Operation
 Step 1: Undress the part of the patient that needs surgery. You can do this by dragging them onto yourself, and then clicking the clothes you want to remove from them in the pop-up. 
 * '''Important:''' The uniform the patient is wearing usually covers both legs, arms, groin and torso. Helmets, eyewear and masks always obscure the eyes, make sure to remove them if working on the eyes.
 
@@ -43,7 +43,7 @@ Step 2.1 ![longislandicedtea.png](/longislandicedtea.png) (Optional) Splash on, 
 
 Step 2.2: ![n2otank.png](/n2otank.png) (Optional) Use a '''tank of anesthetic''' and a '''breath mask''' to make your patient sleep. This way patient won't experience agonizing pain, decreasing its **mood**. 
 
-Step 3: [[File:Drapes.png|Drapes]] [[File:Bedsheet.png|Bedsheet]] Place '''drapes''' or '''bedsheet''' over the part of body you are operating.
+Step 3: ![drapes.png](/drapes.png) Place '''drapes''' or '''bedsheet''' over the part of body you are operating.
 * If you done step 1 wrong, it will tell you that you must remove clothing first. If you continue without fixing, you will stab your patient instead of doing surgery.
 
 Step 4: Turn off {{Combat_Mode}}. Pro tip: {{Rightclick}} will make you fail every surgery step on purpose.
@@ -55,49 +55,35 @@ Step 6: {{LeftclickCmodeoff}} [[File:Scalpel.png|Scalpel]] '''Do the surgery''' 
 
 '''To abort a surgery, hold a cautery in one hand and drapes in the other, and use the drapes on the patient.'''
 
-= Procedures requiring no research or computer =
+## Organ Manipulation
+This surgery covers operations to remove/insert organs (brain, heart, appendix), cyber implants and alien embryos. 
+The body part to target depends on which procedure you want to do.
 
-== Organ Manipulation  ==
-This surgery covers operations to remove/insert organs (brain, heart, appendix), cyber implants and alien embryos.<br>The body part to target depends on which procedure you want to do.<br>See below for details about each procedure.
-
-{|
-| style="width: 400px;" |'''Procedure'''||'''Ghetto Analogues'''
+See below for details about each procedure.
 |-
-|Step 1: [[File:Scalpel.png|Scalpel]] '''Scalpel''': make an incision.||[[File:Knife.png|Kitchen Knife]] (65%) [[File:Shard.png|Shard]] (45%) [[File:Sword.gif|Energy Sword]] (75%) Any other sharp item (30%)
-|-
-|Step 2: [[File:Retractor.png|Retractor]] '''Retractor''': retract the skin.||[[File:Screwdriver_tool.png|Screwdriver]] (45%) [[File:Wirecutters.png|Wirecutters]] (35%)
-|-
-|Step 3 (Head/Chest only): [[File:Saw.png|Circular Saw]] '''Circular Saw''': saw through bones.||[[File:Chainsaw.gif|Chainsaw (arm-mounted)]] (65%) [[File:Fireaxe.png|Fire Axe]] (50%) [[File:Chainsaw.gif|Chainsaw (unmounted)]] (50%) [[File:Hatchet.png|Hatchet]] (35%) [[File:Butcherknife.png|Butcher's Knife]] (25%) [[File:Arm_blade.png|Changeling's Arm Blade]] (75%) Any other sharp item (20%)
-|-
-|Step 4: [[File:Hemostat.png|Hemostat]] '''Hemostat''': clamp the bleeders.||[[File:Wirecutters.png|Wirecutters]] (60%) [[File:Package_Wrapper.png|Package Wrap]] (35%) [[File:CableCoils.png|Cable]] (15%)
-|-
-|Step 5: [[File:Scalpel.png|Scalpel]] '''Scalpel''': make an incision.||[[File:Knife.png|Kitchen Knife]] (65%) [[File:Shard.png|Shard]] (45%) [[File:Sword.gif|Energy Sword]] (75%) Any other sharp item (30%)
-|-
-|Step 6 '''Remove''': [[File:Hemostat.png|Hemostat]] '''Hemostat''': remove something.||[[File:Crowbar.png|Crowbar]] (55%) [[File:Fork.png|Fork]] (35%)
-|-
-|Step 6 '''Insert''': [[File:Hud-hands.gif|Hands]] '''Hands''': insert something. 
-|-
-|Step 7: [[File:Cautery.png|Cautery]] '''Cautery''': seal the wound.||[[File:Laser_gun.png|Laser]] (90%) [[File:Welder.png|Welder]] (70%) [[File:Lighter.png|Lighter]] (45%) [[File:Match.png|Match]] (20%)
-|}
+|Step 1: ![drapes.png](/drapes.png) **Scalpel**: make an incision.
+|Step 2: ![drapes.png](/drapes.png) **Retractor**: retract the skin.
+|Step 3 (Head/Chest only): ![drapes.png](/drapes.png) **Circular Saw**: saw through bones.
+|Step 4: ![drapes.png](/drapes.png) **Hemostat**: clamp the bleeders.
+|Step 5: ![drapes.png](/drapes.png) **Scalpel**: make an incision.
+|Step 6 Remove: ![drapes.png](/drapes.png) **Hemostat**: remove something
+|Step 6 Insert: ![drapes.png](/drapes.png) **Hands**: insert something.
+|Step 7: ![drapes.png](/drapes.png) **Cautery**: seal the wound.
 
 
-=== Ordinary organs that require Organ Manipulation ===
+### Ordinary organs that require Organ Manipulation
+These organs are present in every normal human, and can be removed or transferred through the **Organ Manipulation** surgery type.
 
-These organs are present in every normal human, and can be removed or transferred through the [[#Organ_Manipulation|Organ Manipulation]] surgery type.
+#### Brain ![drapes.png](/drapes.png) ![drapes.png](/drapes.png)
 
-==== Brain [[File:Brain.png|Brain]][[File:Alien_brain.png|Alien brain]] ====
+The source of consciousness, and where the player actually resides. Removing the brain from a body will make it unrevivable through normal means. The brain can also be inserted into an **MMI** to allow it to speak, and to prepare it to be inserted into a **Cyborg** or an **AI**. Or it can be transferred into another body, which can then be **revived**. 
 
-The source of consciousness, and where the player actually resides. Removing the brain from a body will make it [[Guide_to_medicine#Revival_methods|unrevivable]] through normal means. The brain can also be inserted into an [[MMI]] to allow it to speak, and to prepare it to be inserted into a [[Cyborg]] or an [[AI]]. Or it can be transferred into another body, which can then be [[Guide_to_medicine#Revival_methods|revived]]. 
+Changelings' brains are vestigial, and they can survive without them. Beheading a changeling will not prevent one from reviving.
 
-[[Changeling]]s' brains are vestigial, and they can survive without them. Beheading a changeling will not prevent one from reviving.
+![drapes.png](/drapes.png) **Target: Head**
+**Note:** Brains can also be removed by beheading the target and using a sharp object on the head to extract the brain.
 
-[[File:Hud_target_head.gif]] '''Target: Head'''
-
-'''Note:''' Brains can also be removed by beheading the target and using a sharp object on the head to extract the brain.
-
-
-
-==== Heart [[File:Heart.png]] ====
+#### Heart ![drapes.png](/drapes.png) ====
 
 Required for basic survival, removing it will cause a heart attack, dealing huge amounts of oxygen damage until a new, beating, heart is inserted, or death. This can be delayed with [[epinephrine]], if you need more time. This will not keep someone conscious, but will make them suffocate slower.
 
