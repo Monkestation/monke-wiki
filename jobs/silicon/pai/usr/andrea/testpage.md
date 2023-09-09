@@ -2,7 +2,7 @@
 title: Andrea's Test Pages
 description: What are you doing here?
 published: true
-date: 2023-09-09T03:29:25.550Z
+date: 2023-09-09T03:30:32.253Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-09T03:11:03.307Z
@@ -10,7 +10,7 @@ dateCreated: 2023-09-09T03:11:03.307Z
 
 # JOB_TITLE
 
-| STAFF TYPE |
+|                   | STAFF TYPE |
 | :---------------: |
 | \[ job_image ] <br> job title | Access: <br> Additional Access: <br> Difficulty: <br> Supervisors: <br> Duties: <br> Guides: <br> Quote: <br> |
 
