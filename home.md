@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-09-09T18:02:09.375Z
+date: 2023-09-09T19:29:13.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -120,7 +120,7 @@ The whole goal of the server is to create roleplay scenarios for everyone to int
 
 Security members should be focused on protecting the crew and maintaining the rule of law. Security can also escalate with their actions, such as drawing their weapon and pointing at the person being engaged. Security should still treat players fairly and engage them appropriately based on the situation. A clear and active threat to the station may be engaged with more harshly compared to a normal crewmember. Crew vs crew escalation must have clear consequences for actions and be consensual between the two crewmembers.
 
-Actively murdering an excessive amount of people outside of your objectives is not permitted. In cases where you are forced to defend yourself against aggression against yourself, that is permitted so long as you arenâ€™t obviously baiting for kills.
+Actively murdering an excessive amount of people outside of your objectives is not permitted. In cases where you are forced to defend yourself against aggression against yourself, that is permitted so long as you aren't obviously baiting for kills.
 
 > Validhuntable antags are exempt from escalation and excessive rule except for Revolutionaries. Revolutionaries should not kill non revs with the exception of people opposing the revolution.
 {.is-info}
