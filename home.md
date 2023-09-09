@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-09-09T23:25:44.362Z
+date: 2023-09-09T23:26:50.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -133,3 +133,5 @@ References to video games, shows, movies, books, or other fictional creations ar
 Dragging an admin's decision into other channels, Twitch, Discord, etc. will not help your case and can result in time being banned.
 
 > Appeals are only considered for permanent bans and will only be accepted after a month. If you wish to complain about admins, use a discord report or message me directly (ook).
+
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
