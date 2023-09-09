@@ -1,8 +1,8 @@
 ---
-title: Temp Landing Page
+title: Wiki Landing Page
 description: Temporary landing page for the ss13 wiki
 published: true
-date: 2023-09-09T18:01:24.523Z
+date: 2023-09-09T18:01:47.319Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
