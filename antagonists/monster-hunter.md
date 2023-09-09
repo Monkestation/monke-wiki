@@ -2,8 +2,8 @@
 title: Monster Hunter
 description: Description on the unique antag monster hunter.
 published: true
-date: 2023-09-06T06:06:52.212Z
-tags: 
+date: 2023-09-09T19:20:12.002Z
+tags: antagonist, jobs, wip
 editor: markdown
 dateCreated: 2023-09-03T04:45:33.189Z
 ---
