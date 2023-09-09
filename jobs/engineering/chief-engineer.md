@@ -2,7 +2,7 @@
 title: Chief Engineer
 description: "WHO TOOK THE DAMN MODSUITS!?" - Poly and every single one of his masters
 published: true
-date: 2023-09-09T23:01:12.733Z
+date: 2023-09-09T23:05:03.149Z
 tags: command, engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T18:46:45.899Z
@@ -25,7 +25,7 @@ Ontop of herding your engineers and techs into not turning the station uninhabit
 
 
 ## Power generation
-This is your most important job. there are three main ways of generating power on the station.
+This is engineering's most important job so it is also your most important job. there are three main ways of generating power on the station.
 ### ![supermatter_shard.png](/jobs/engineering/supermatter_shard.png) The Supermatter
 This is the most common engine your station will have, its the most complex to set up but the safest to run. Do not let newbies handle this on their own.
 ### ![scrungularity.png](/jobs/engineering/scrungularity.png) The Singularity
