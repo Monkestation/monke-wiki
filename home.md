@@ -2,19 +2,13 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-09-09T21:56:59.555Z
+date: 2023-09-09T22:00:35.312Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
 ---
 
-<iframe
-    src="https://player.twitch.tv/?channel=thedukeofook&parent=streamernews.example.com&muted=true"
-    height="720"
-    width="1280"
-    parent = "wiki.monkestation.com"
-    allowfullscreen>
-</iframe>
+<div id="ook_player" />
 
 # Rules
 
