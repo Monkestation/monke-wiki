@@ -2,7 +2,7 @@
 title: Andrea's Test Pages
 description: What are you doing here?
 published: true
-date: 2023-09-09T03:56:16.703Z
+date: 2023-09-09T05:55:48.621Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-09T03:11:03.307Z
@@ -45,3 +45,8 @@ Template for... the job table? I guess?
 |  Non-human  | AI, Cyborg, Positronic Brain, Drone, Personal AI, Construct, Imaginary Friend, Split Personality, Ghost                                                                                                                                                                                                                                                 |
 | Antagonists | Traitor, Malfunctioning AI, Changeling, Nuclear Operative, Blood Cultist, Heretic, Revolutionary, Wizard, Family, Blob, Abductor, Holoparasite, Xenomorph, Spider, Revenant, Morph, Nightmare, Space Ninja, Slaughter Demon, Pirate, Sentient Disease, Obsessed, Fugitives, Hunters, Space Dragon, Elite Mobs, Sentient Slime, Regal Rat, Paradox Clone |
 |   Special   | CentCom Official, Death Squad Officer, Emergency Response Officer, Chrono Legionnaire, Highlander, Ian, Lavaland Role, CentCom Intern                                                                                                                                                                                                                   |
+
+END OF TEMPLATE
+
+---
+
