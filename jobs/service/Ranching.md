@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-09T19:18:07.666Z
+date: 2023-09-09T19:22:42.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -112,3 +112,13 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 | <a name="coackatrice_chicken"></a>![](/chickens/cockatric.png) | Cockatrice | \-  | Chicken Meat | \-  | \-  | \-  | Lizard Tail | \-  |
 | <a name="robot_chicken"></a>![](/chickens/robot.png) | Robotic Chicken | 45  | \-  | Iron, Uranium | \-  | \-  | Nutrient Pump Implant | \-  |
 | <a name="rev_chicken"></a>![](/chickens/rev_raptor.png) | Rev Raptor | \-  | \-  | Cuba Libre | \-  | \-  | Flash | \-  |
+
+## Chemical Infusion Interactions
+<a name="chemical_list"></a>
+| Chemical Name | Happiness Modifier | Fertility Modifier | Egg Laying Modifier | Instability Modifier |
+| --- | --- | --- | --- | --- |
+| Sugar | 0.1 | - | - | -|
+| Nutriment | -  | 0.5 max 25 | - | - |
+| Meth | 0.5 | - | - | - |
+| Growth Serum | - | - | 1 max 25 | - |
+| Unstable Mutagen | - | - | - | 1 max 25 |
