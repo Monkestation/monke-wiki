@@ -2,17 +2,17 @@
 title: Chief Engineer
 description: "WHO TOOK THE DAMN MODSUITS!?" - Poly and every single one of his masters
 published: true
-date: 2023-09-09T22:28:56.012Z
+date: 2023-09-09T22:57:52.572Z
 tags: command, engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T18:46:45.899Z
 ---
 
-# Chief Engineer
+
 
 |                             | ENGINEERING & COMMAND STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access: Engineering, Telecommunications, Maintenence, Bridge, Brig, Airlocks<br>Additional Access:<br>Difficulty: Hard<br>Supervisors: Captain<br>Duties: Coordinate Engineers and Atmos-techs, Keep the engine alive, Keep telecommunications alive<br>Guides:<br>Alternate Titles: |
+| ![generic_ce.png](/jobs/engineering/generic_ce.png) | Access: Engineering, Telecommunications, Maintenence, Bridge, Brig, Airlocks<br>Additional Access:<br>Difficulty: Hard<br>Supervisors: Captain<br>Duties: Coordinate Engineers and Atmos-techs, Keep the engine alive, Keep telecommunications alive<br>Guides:<br>Alternate Titles: |
 
 ## Job Description 
 The Chief Engineer is suppossed to be a senior engineer that has the know how to keep the engineering department functional. Ontop of maintaining engineering the Chief Engineer is excpected to be able to assist and teach others in how to keep the most important department of the station alive.
