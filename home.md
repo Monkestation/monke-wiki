@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-09-09T19:29:13.303Z
+date: 2023-09-09T19:29:29.844Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -88,7 +88,7 @@ Players must not hunt down streamers in-game for the purposes of harassment.
 
 If you're ever wondering your gimmick is leaning too far into self antag territory, consider if you're negatively effecting another player's round. You can also adminhelp if you want our opinion on it as well. Coming to us willingly will be treated better than if we had to bwoink you.
 
-Being a criminal within your characterâ€™s RP is one thing, but you are still employed by NT. Act to keep your job. Robbing random people is not RP. It's self-antagonizing. Stealing shit and breaking into places consistently is self antagging as well as crossing RULE 2. Most of the time this should be dealt with IC. However, if you chronically abuse this fact it will result in action against you.
+Being a criminal within your character's RP is one thing, but you are still employed by NT. Act to keep your job. Robbing random people is not RP. It's self-antagonizing. Stealing shit and breaking into places consistently is self antagging as well as crossing RULE 2. Most of the time this should be dealt with IC. However, if you chronically abuse this fact it will result in action against you.
 
 > Prisoners without an added role such as Traitors or heretics are not antagonists Prisoners require extra escalation for any sort of aggression versus security. This is up to admin interpretation.
 {.is-info}
@@ -116,7 +116,7 @@ Ninjas, heretics, Revs, final objective traitors, Cultist with halos, doomsday A
 {.is-warning}
 
 
-The whole goal of the server is to create roleplay scenarios for everyone to interact with. Antagonists and non-antagonists must create situations that can be roleplayed and engaged with by others. Antagonists are the villains of the round, theyâ€™re the focus of the story and the driver of the round. Greentexting should not be the goal of antagonists. You should give players a sense of dread, either visually or verbally, and create an obvious motive or clear-cut situation where something bad is going to happen.
+The whole goal of the server is to create roleplay scenarios for everyone to interact with. Antagonists and non-antagonists must create situations that can be roleplayed and engaged with by others. Antagonists are the villains of the round, they're the focus of the story and the driver of the round. Greentexting should not be the goal of antagonists. You should give players a sense of dread, either visually or verbally, and create an obvious motive or clear-cut situation where something bad is going to happen.
 
 Security members should be focused on protecting the crew and maintaining the rule of law. Security can also escalate with their actions, such as drawing their weapon and pointing at the person being engaged. Security should still treat players fairly and engage them appropriately based on the situation. A clear and active threat to the station may be engaged with more harshly compared to a normal crewmember. Crew vs crew escalation must have clear consequences for actions and be consensual between the two crewmembers.
 
