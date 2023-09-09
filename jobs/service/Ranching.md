@@ -2,15 +2,21 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-06T20:42:13.995Z
+date: 2023-09-09T18:34:16.588Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
 ---
 
+# Rancher
+
+|                             | Service                                                                               |
+|-----------------------------|----------------------------------------------------------------------------------------------|
+| \[ job_image ]<br>Rancher | Access:<br>Additional Access:<br>Difficulty: **Medium**<br>Supervisors: **Head of Personnel**<br>Duties: **Raise Chickens**<br>Guides:<br>Alternate Titles: Botanist|
+
 # General Information
 ## Introduction
-Ranching is a unique sub-department of Botany, It focuses on the raising and mutation of chickens. Unlike the similar sub-department Xenobiology, Ranching requires specific circumstances for chickens to raise. See [Mutation List](https://wiki.monkestation.com/en/jobs/service/Ranching#mutation_list) for specific mutations for each chicken, and see the links on each mutation for the requirements of said mutation.
+Ranching is a unique sub-department of Botany, It focuses on the raising and mutation of chickens. Unlike the similar sub-department Xenobiology, Ranching requires specific circumstances for chickens to raise. See [Chicken Information](https://wiki.monkestation.com/en/jobs/service/Ranching#chicken_info) for specific mutations for each chicken, and see the links on each mutation for the requirements of said mutation.
 ## Before We Start
 There are a few important things we need to know to ensure your raching success. What each chickens favorite food is, this is important for raising a chickens happiness which is a crucial piece in getting them to follow your commands, and for getting specific mutations. The opposite is also true, making them mad will also eventually lower you out of friendship and prevent you from controlling them, and in some cases will allow Hostile Chickens to attack you IE Raptors.
 
