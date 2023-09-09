@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-09T18:34:16.588Z
+date: 2023-09-09T19:18:07.666Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-06T18:48:57.738Z
 
 |                             | Service                                                                               |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>Rancher | Access:<br>Additional Access:<br>Difficulty: **Medium**<br>Supervisors: **Head of Personnel**<br>Duties: **Raise Chickens**<br>Guides:<br>Alternate Titles: Botanist|
+|  ![](/jobs/service/botanist.png)<br> | Access:<br>Additional Access:<br>Difficulty: **Medium**<br>Supervisors: **Head of Personnel**<br>Duties: **Raise Chickens**<br>Guides:<br>Alternate Titles: Botanist|
 
 # General Information
 ## Introduction
@@ -49,37 +49,37 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 
 # Tables
 
-## Mutation List
-<a name="mutation_list"></a>
-| Image    | Chicken Name | Mutations |
-| --- | --- | --- |
-| ![](/chickens/chickens.png) | White Chicken | [Black Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken), [White Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#white_selkie_chicken), [Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#selkie_chicken), [Brown](https://wiki.monkestation.com/en/jobs/service/Ranching#brown_chicken), [Glass](https://wiki.monkestation.com/en/jobs/service/Ranching#glass_chicken), [Onagadori](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken), [Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#clown_chicken), [Ixworth](https://wiki.monkestation.com/en/jobs/service/Ranching#ixworth_chicken), [Void](https://wiki.monkestation.com/en/jobs/service/Ranching#void_chicken) |
-| ![](/chickens/dreaming.png) | Dream Chicken | None |
-| ![](/chickens/brown.png) | Brown Chicken | [Spicy](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken), [Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#raptor_chicken), [Gold](https://wiki.monkestation.com/en/jobs/service/Ranching#gold_chicken), [Robot](https://wiki.monkestation.com/en/jobs/service/Ranching#robot_chicken) |
-| ![](/chickens/glass.png) | Glass Chicken | [Wizard](https://wiki.monkestation.com/en/jobs/service/Ranching#wizard_chicken), [Stone](https://wiki.monkestation.com/en/jobs/service/Ranching#stone_chicken) |
-| ![](/chickens/onagadori.png) | Onagadori Chicken | [Sword](https://wiki.monkestation.com/en/jobs/service/Ranching#shield_chicken) |
-| ![](/chickens/ixworth.png) | Ixworth Chicken | None |
-| ![](/chickens/white_selkie.png) | White Selkie Chicken | [Snowy](https://wiki.monkestation.com/en/jobs/service/Ranching#snow_chicken) |
-| ![](/chickens/black_selke.png) | Black Selkie Chicken | [Dream (Must die of old Age)](https://wiki.monkestation.com/en/jobs/service/Ranching#dream_chicken) |
-| ![](/chickens/selkie.png) | Selkie Chicken | [Cotton Candy](https://wiki.monkestation.com/en/jobs/service/Ranching#candy_chicken), [Pigeon](https://wiki.monkestation.com/en/jobs/service/Ranching#pigeon_chicken) |
-| ![](/chickens/void.png) | Void Chicken | None |
-| ![](/chickens/clown.png) | Clown Chicken | [Sad Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#sad_clown_chicken) |
-| ![](/chickens/spicy.png) | Spicy Chicken | [Phoenix](https://wiki.monkestation.com/en/jobs/service/Ranching#phoenix_chicken) |
-| ![](/chickens/raptor.png) | Raptors | [Rev Raptors](https://wiki.monkestation.com/en/jobs/service/Ranching#rev_chicken) |
-| ![](/chickens/candy.png) | Cotton Candy Chickens | [Dreamsicle](https://wiki.monkestation.com/en/jobs/service/Ranching#dreamsicle_chicken) |
-| ![](/chickens/snow.png) | Snow Chickens | None |
-| ![](/chickens/pigeon.png) | Pigeon | None |
-| ![](/chickens/stone.png) | Stone Hen | [Cockatrice](https://wiki.monkestation.com/en/jobs/service/Ranching#cockatrice_chicken) |
-| ![](/chickens/wiznerd.png) | Witchen | None |
-| ![](/chickens/sword.png) | Shieldmaidhen | None |
-| ![](/chickens/gold.png) | Golden Chicken | None |
-| ![](/chickens/sad_clown.png) | Sad Clown Chicken | None |
-| ![](/chickens/mime.png) | Mime Chicken | None |
-| ![](/chickens/spicy.png) | Phoenix Chicken | None |
-| ![](/chickens/dreamsicle.png) | Dreamsicle Chicken | None |
-| ![](/chickens/cockatric.png) | Cockatrice | None |
-| ![](/chickens/robot.png) | Robotic Chicken | None |
-| ![](/chickens/rev_raptor.png) | Rev Raptor | None |
+## Chicken Information
+<a name="chicken_info"></a>
+| Image    | Chicken Name | Mutations | Favorite Food | Disliked Foods |
+| --- | --- | --- | --- | --- |
+| ![](/chickens/chickens.png) | White Chicken | [Black Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken), [White Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#white_selkie_chicken), [Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#selkie_chicken), [Brown](https://wiki.monkestation.com/en/jobs/service/Ranching#brown_chicken), [Glass](https://wiki.monkestation.com/en/jobs/service/Ranching#glass_chicken), [Onagadori](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken), [Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#clown_chicken), [Ixworth](https://wiki.monkestation.com/en/jobs/service/Ranching#ixworth_chicken), [Void](https://wiki.monkestation.com/en/jobs/service/Ranching#void_chicken) | TBA | TBA |
+| ![](/chickens/dreaming.png) | Dream Chicken | None | Apples | TBA |
+| ![](/chickens/brown.png) | Brown Chicken | [Spicy](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken), [Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#raptor_chicken), [Gold](https://wiki.monkestation.com/en/jobs/service/Ranching#gold_chicken), [Robot](https://wiki.monkestation.com/en/jobs/service/Ranching#robot_chicken) | Chilis | TBA |
+| ![](/chickens/glass.png) | Glass Chicken | [Wizard](https://wiki.monkestation.com/en/jobs/service/Ranching#wizard_chicken), [Stone](https://wiki.monkestation.com/en/jobs/service/Ranching#stone_chicken) |  Rice | TBA |
+| ![](/chickens/onagadori.png) | Onagadori Chicken | [Sword](https://wiki.monkestation.com/en/jobs/service/Ranching#shield_chicken) |  TBA | TBA |
+| ![](/chickens/ixworth.png) | Ixworth Chicken | None |  Tomatoes | TBA |
+| ![](/chickens/white_selkie.png) | White Selkie Chicken | [Snowy](https://wiki.monkestation.com/en/jobs/service/Ranching#snow_chicken) | Synthmeat | TBA |
+| ![](/chickens/black_selke.png) | Black Selkie Chicken | [Dream (Must die of old Age)](https://wiki.monkestation.com/en/jobs/service/Ranching#dream_chicken) | Apples | TBA |
+| ![](/chickens/selkie.png) | Selkie Chicken | [Cotton Candy](https://wiki.monkestation.com/en/jobs/service/Ranching#candy_chicken), [Pigeon](https://wiki.monkestation.com/en/jobs/service/Ranching#pigeon_chicken) | Synthmeat | TBA |
+| ![](/chickens/void.png) | Void Chicken | None | TBA | TBA |
+| ![](/chickens/clown.png) | Clown Chicken | [Sad Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#sad_clown_chicken) | Bananas | TBA |
+| ![](/chickens/spicy.png) | Spicy Chicken | [Phoenix](https://wiki.monkestation.com/en/jobs/service/Ranching#phoenix_chicken) | Chilis | TBA |
+| ![](/chickens/raptor.png) | Raptors | [Rev Raptors](https://wiki.monkestation.com/en/jobs/service/Ranching#rev_chicken) | Chicken Meat | TBA |
+| ![](/chickens/candy.png) | Cotton Candy Chickens | [Dreamsicle](https://wiki.monkestation.com/en/jobs/service/Ranching#dreamsicle_chicken) | Sugar Cane | TBA |
+| ![](/chickens/snow.png) | Snow Chickens | None | Chilly Pepper | TBA
+| ![](/chickens/pigeon.png) | Pigeon | None | TBA | TBA |
+| ![](/chickens/stone.png) | Stone Hen | [Cockatrice](https://wiki.monkestation.com/en/jobs/service/Ranching#cockatrice_chicken) | Cannabis | TBA |
+| ![](/chickens/wiznerd.png) | Witchen | None | TBA | TBA
+| ![](/chickens/sword.png) | Shieldmaidhen | None | TBA | TBA
+| ![](/chickens/gold.png) | Golden Chicken | None | Gold Apples | TBA |
+| ![](/chickens/sad_clown.png) | Sad Clown Chicken | None | TBA | TBA |
+| ![](/chickens/mime.png) | Mime Chicken | None | TBA | TBA
+| ![](/chickens/spicy.png) | Phoenix Chicken | None | Chilis | TBA |
+| ![](/chickens/dreamsicle.png) | Dreamsicle Chicken | None | TBA | TBA |
+| ![](/chickens/cockatric.png) | Cockatrice | None | TBA | TBA |
+| ![](/chickens/robot.png) | Robotic Chicken | None | TBA | TBA |
+| ![](/chickens/rev_raptor.png) | Rev Raptor | None | TBA | TBA |
 
 ## Mutation Requirements
 
