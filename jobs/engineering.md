@@ -2,7 +2,7 @@
 title: Engineering
 description: "The most dangerous place on the station that we don't care about." 
 published: true
-date: 2023-09-09T23:38:08.483Z
+date: 2023-09-10T06:17:30.247Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-09-09T23:38:08.483Z
@@ -31,3 +31,6 @@ This room is behind blast doors that can only be opened with CE access (or turn 
 Tech storage contains a horde of pre printed boards of which many require technology to print more of, besides the boards and electrical supplies, there is a reinforced room inside containing high value boards such as communications and AI uploads.
 ### ![gravity_generator.png](/jobs/engineering/gravity_generator.png) Gravity Generator
 Gravity Generator (Grav gen) is how the station keeps feet on the floor without the use of magboots, the area is secured with reinforced walls and as an internal SMES to keep itself powered. It takes a bit to recharge once it dies.
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
