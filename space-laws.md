@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-09-10T02:44:04.718Z
+date: 2023-09-10T02:51:48.191Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -273,6 +273,6 @@ Only the **Captain** can authorize an **Execution** or **Forced Cyborgization**.
 | 502 | ![Insurection.png](https://static.miraheze.org/monkestationwiki/thumb/d/db/Insurection.png/96px-Insurection.png) | **Insurrection** | **To knowingly lead a mob of individuals in a manner which seeks to unseat the current chain of command, or otherwise revolt against Nanotrasen.** | **Heads of any revolutionary or anarchist movements are here.** |
 | 503 | ![BioTerror.png](https://static.miraheze.org/monkestationwiki/thumb/6/68/BioTerror.png/96px-BioTerror.png) | **Biological Terror** | **To knowingly release, cause, or otherwise cause the station to become affected by a disease, plant, or other biological form which may spread uncontained and or cause serious physical harm**. | **Don't immediately lynch the virologist, but an investigation might be a good idea.** |
 | 504 | ![EOTCmoment.png](https://static.miraheze.org/monkestationwiki/thumb/5/5f/EOTCmoment.png/96px-EOTCmoment.png) | **Priority Threat** | **To be a high priority threat to the station.** | **To be a member of any of the following organizations: Hostile boarding parties, Wizards, Changeling Hiveminds, cults, A member of a bloodsucker clan, or other non-authorized religious practitioners (heretics).** |
-
+{.table-crimson}
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
