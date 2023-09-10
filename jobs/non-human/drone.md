@@ -2,8 +2,8 @@
 title: Drone
 description: Aww what a cute little- HEY THAT FUCKIN' DRONE JUST STOLE THE RCD!!
 published: true
-date: 2023-09-09T21:08:10.582Z
-tags: jobs, silicon, drone
+date: 2023-09-10T06:06:07.412Z
+tags: drone, jobs, silicon
 editor: markdown
 dateCreated: 2023-09-09T21:08:10.582Z
 ---
@@ -20,3 +20,6 @@ Talk about the primary parts of the job here.
 
 ### Sub-categories
 Talk about the subcategories here. Use many for different parts of the job that need to be here and not on a separate guide page.
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
