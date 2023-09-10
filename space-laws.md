@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-09-10T02:43:37.534Z
+date: 2023-09-10T02:44:04.718Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -267,12 +267,6 @@ Only the **Captain, HoS, and Warden** can authorize a **Permanent Sentence**.
 
 Only the **Captain** can authorize an **Execution** or **Forced Cyborgization**.
 
-<style>
-tr:nth-child(even) {
-  background-color: #b2b2b2!important;
-  color: #f4f4f4!important;
-}
-</style>
 | Code |     | Crime | Description | Notes |
 | --- | --- | --- | --- | --- |
 | 501 | ![Prime murder.png](https://static.miraheze.org/monkestationwiki/thumb/a/a3/Prime_murder.png/95px-Prime_murder.png) | **Prime Murder** | To commit the act of murder, with clear intent to kill, and clear intent or to have materially take steps to prevent the revival of the victim | **This includes debraining a corpse with purpose other than cloning.** |
