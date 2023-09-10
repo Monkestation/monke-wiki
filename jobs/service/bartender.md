@@ -2,7 +2,7 @@
 title: Bartender
 description: Drinks up kids! And stay off my bar.
 published: true
-date: 2023-09-09T20:37:31.469Z
+date: 2023-09-10T06:00:23.533Z
 tags: jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T20:37:31.469Z
@@ -20,3 +20,6 @@ Talk about the primary parts of the job here.
 
 ### Sub-categories
 Talk about the subcategories here. Use many for different parts of the job that need to be here and not on a separate guide page.
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
