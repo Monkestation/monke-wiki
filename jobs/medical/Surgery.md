@@ -2,7 +2,7 @@
 title: Guide to Surgery
 description: 
 published: true
-date: 2023-09-10T06:11:55.890Z
+date: 2023-09-10T06:12:21.269Z
 tags: guides, medical, wip
 editor: markdown
 dateCreated: 2023-09-09T17:02:59.601Z
@@ -1200,3 +1200,6 @@ Revives a corpse into an infectious zombie which will probably munch your face o
 | Step 4:<br><br>![Hemostat](https://tgstation13.org/wiki/images/4/48/Hemostat.png)<br><br> **Hemostat**: clamp bleeders. | ![Wirecutters](https://tgstation13.org/wiki/images/8/8c/Wirecutters.png)<br><br>(60%) <br><br>![Package Wrap](https://tgstation13.org/wiki/images/c/cc/Package_Wrapper.png)<br><br>(35%) <br><br>![Cable](https://tgstation13.org/wiki/images/c/c6/CableCoils.png)<br><br>(15%) |
 | Step 5: <br><br>![Syringe](https://tgstation13.org/wiki/images/1/17/Syringe.png)<br><br>**Bionecrosize**: perform the revival procedure. | ![Pen](https://tgstation13.org/wiki/images/4/4f/Pen.png)<br><br>(50%) |
 | Step 6: <br><br>![Cautery](https://tgstation13.org/wiki/images/5/54/Cautery.png)<br><br>**Cautery**: seal the wound. | ![Laser](https://tgstation13.org/wiki/images/b/b1/Laser_gun.png)<br><br>(90%) <br><br>![Welder](https://tgstation13.org/wiki/images/9/9a/Welder.png)<br><br>(70%) <br><br>![Lighter](https://tgstation13.org/wiki/images/c/c4/Lighter.png)<br><br>(45%) <br><br>![Match](https://tgstation13.org/wiki/images/d/d0/Match.png)<br><br>(20%) |
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
