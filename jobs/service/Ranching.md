@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-09T19:22:42.403Z
+date: 2023-09-10T05:00:01.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -122,3 +122,6 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 | Meth | 0.5 | - | - | - |
 | Growth Serum | - | - | 1 max 25 | - |
 | Unstable Mutagen | - | - | - | 1 max 25 |
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
