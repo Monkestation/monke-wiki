@@ -2,8 +2,8 @@
 title: Chaplain
 description: There's something about the vast infinity of space that turns men to prayer. Especially if they get thrown into it without a space suit.
 published: true
-date: 2023-09-09T20:53:25.458Z
-tags: jobs, service, chaplain
+date: 2023-09-10T06:00:09.061Z
+tags: chaplain, jobs, service
 editor: markdown
 dateCreated: 2023-09-09T20:53:25.458Z
 ---
@@ -20,3 +20,6 @@ Talk about the primary parts of the job here.
 
 ### Sub-categories
 Talk about the subcategories here. Use many for different parts of the job that need to be here and not on a separate guide page.
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
