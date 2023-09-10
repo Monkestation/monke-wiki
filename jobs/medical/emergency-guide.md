@@ -2,8 +2,8 @@
 title: Emergency Medical Guide
 description: Someone's bleeding and you're clueless on what to do
 published: true
-date: 2023-09-07T09:30:55.795Z
-tags: medical, guides, wip
+date: 2023-09-10T06:08:22.312Z
+tags: guides, medical, wip
 editor: markdown
 dateCreated: 2023-09-07T09:30:55.795Z
 ---
@@ -41,3 +41,6 @@ dateCreated: 2023-09-07T09:30:55.795Z
 
 > TO DO: pictures, likely a partial rewrite for brevity.
 {.is-warning}
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
