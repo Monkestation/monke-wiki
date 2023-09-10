@@ -2,7 +2,7 @@
 title: Shaft Miner
 description: I don't need the GPS, right? - miner who was captured by legion 5 minutes into the shift.
 published: true
-date: 2023-09-09T20:26:15.470Z
+date: 2023-09-10T05:57:23.887Z
 tags: cargonia, jobs, supply, wip
 editor: markdown
 dateCreated: 2023-09-09T20:26:15.470Z
@@ -19,4 +19,7 @@ Talk about the primary parts of the job here.
 
 
 ### Sub-categories
-Talk about the subcategories here. Use many for different parts of the job that need to be here and not on a separate guide page.
+Talk about the subcategories here. Use many for different parts of the job that need to be here and not on a separate guide page.\
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
