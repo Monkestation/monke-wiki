@@ -2,7 +2,7 @@
 title: Guide to Coding
 description: brief guide on how to code, will be updated with modularization standards as they come
 published: true
-date: 2023-09-06T06:05:58.486Z
+date: 2023-09-10T06:29:01.830Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T04:53:18.766Z
@@ -112,3 +112,6 @@ I'm tired and don't feel like explaining the rest thoroughly so figure it out yo
 Test often, commit often, and maybe you'll figure it out. Good luck.
 
 Use git commit to tell git to hold onto your changes. Use git push to send them to github. Open github and open pull requests. ehhh thats all for today, figure it out lmao
+        
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
