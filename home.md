@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-09-10T01:12:23.969Z
+date: 2023-09-10T01:17:40.302Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -168,5 +168,5 @@ Dragging an admin's decision into other channels, Twitch, Discord, etc. will not
 > Appeals are only considered for permanent bans and will only be accepted after a month. If you wish to complain about admins, use a discord report or message me directly (ook).
 {.is-warning}
 
-
+# The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
