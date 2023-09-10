@@ -2,7 +2,7 @@
 title: Station Engineer
 description: I'll fix the power as soon as I'm off my lunch break.
 published: true
-date: 2023-09-10T00:47:02.700Z
+date: 2023-09-10T06:14:28.311Z
 tags: engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T19:33:25.023Z
@@ -27,3 +27,6 @@ Advanced Duties: Know how to fix Tcomms, know enough about atmos to annoy the te
 
 ## Round start - Looting frenzy
 Talk about the subcategories here. Use many for different parts of the job that need to be here and not on a separate guide page.
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
