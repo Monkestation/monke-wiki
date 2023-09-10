@@ -2,7 +2,7 @@
 title: Jobs
 description: The go-to starting place for wanting to know yer job!
 published: true
-date: 2023-09-10T20:43:21.510Z
+date: 2023-09-10T21:36:40.889Z
 tags: jobs
 editor: markdown
 dateCreated: 2023-09-10T20:43:21.510Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-10T20:43:21.510Z
 
 |             | Jobs on MonkeStation|
 |:-----------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   Command   | [Captain](/jobs/command/captain), [Head of Personnel](/jobs/service/head-of-personnel), [Head of Security](jobs/security/head-of-security), [Chief Engineer](jobs/engineering/chief-engineer), [Research Director](/jobs/science/research-director), [Chief Medical Officer](/jobs/medical/chief-medical-officer), [Quartermaster](/jobs/supply/quartermaster)|
+|   Command   | [Captain](/jobs/command/captain), [Head of Personnel](/jobs/service/head-of-personnel), [Head of Security], [Chief Engineer], [Research Director](/jobs/science/research-director), [Chief Medical Officer](/jobs/medical/chief-medical-officer), [Quartermaster](/jobs/supply/quartermaster)|
 |   Security  | [Head of Security](/jobs/security/head-of-security), [Security Officer](/jobs/security/security-officer), [Warden](/jobs/security/warden), [Detective](/jobs/security/detective), [Prisoner](/jobs/security/prisoner) |
 | Engineering | [Chief Engineer](/jobs/engineering/chief-engineer), [Station Engineer](/jobs/engineering/station-engineer), [Atmospheric Technician](/jobs/engineering/atmospheric-technician)|
 |   Science   | [Research Director](/jobs/science/research-director), [Geneticist](/jobs/science/geneticist), [Scientist](/jobs/science/scientist), [Roboticist](/jobs/science/roboticist)|
