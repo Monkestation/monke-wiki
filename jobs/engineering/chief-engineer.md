@@ -2,7 +2,7 @@
 title: Chief Engineer
 description: "WHO TOOK THE DAMN MODSUITS!?" - Poly and every single one of his masters
 published: true
-date: 2023-09-09T23:05:03.149Z
+date: 2023-09-10T06:14:46.505Z
 tags: command, engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T18:46:45.899Z
@@ -32,3 +32,6 @@ This is the most common engine your station will have, its the most complex to s
 This engine is the 2nd most complicated while being the most dangerous. If you have a choice between this or the tesla, build a tesla
 ### ![moth_lamp.gif](/jobs/engineering/moth_lamp.gif) The Tesla
 The Tesla is the easiest and is much less dangerous then the Singularity. It doesnt require any upkeep after being made while producing a great ammount of electricity.
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
