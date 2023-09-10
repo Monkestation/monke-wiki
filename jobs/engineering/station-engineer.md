@@ -2,17 +2,17 @@
 title: Station Engineer
 description: I'll fix the power as soon as I'm off my lunch break.
 published: true
-date: 2023-09-10T06:30:38.887Z
+date: 2023-09-10T06:35:04.301Z
 tags: engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T19:33:25.023Z
 ---
 
-# Station Engineer
+
 
 |                             | ENGINEERING STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>Station Engineer | Access: Engineering, Telecommunications, Airlocks, Maintence<br>Additional Access:Atmospherics<br>Difficulty:Medium<br>Supervisors:Chief Engineer, Captain<br>Duties:Keep the power on, fix breaches, ~~Build a deathtrap~~<br>Guides:<br>Alternate Titles: Assistant 2.0 |
+| \[ job_image ]<br>Station Engineer | Access: Engineering, Telecommunications, Airlocks, Maintence<br>Additional Access:Atmospherics<br>Difficulty:Medium<br>Supervisors:[Chief-engineer](/jobs/engineering/chief-engineer), [Captain](/jobs/command/captain)<br>Duties:Keep the power on, fix breaches, ~~Build a deathtrap~~<br>Guides:<br>Alternate Titles: Assistant 2.0 |
 
 # HEADS UP! This is also the Guide to Engineering
 
