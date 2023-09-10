@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-09-10T01:11:21.032Z
+date: 2023-09-10T01:12:23.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -170,9 +170,3 @@ Dragging an admin's decision into other channels, Twitch, Discord, etc. will not
 
 
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-<iframe
-  id="chat_embed"
-  src="https://www.twitch.tv/embed/thedukeofook/chat?parent=wiki.monkestation.com"
-  height="378"
-  width="620">
-</iframe>
