@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T05:45:16.901Z
+date: 2023-09-11T05:48:25.260Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -247,6 +247,22 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
      | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Reagents:** Cuba Libre <br> **Required Items:** Flash
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Cockatrice
+   | --- | --- | --- |
+  <a name="coackatrice_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/cockatric.png" width = 96 height = 96> <br>Cockatrice <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/stone.png)[Stone](https://wiki.monkestation.com/en/jobs/service/Ranching#stone_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1>**Required Items:** Lizard Tail
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA| 
+
+## Dreamsicle
+   | --- | --- | --- |
+  <a name="dreamsicle_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/dreamsicle.png" width = 96 height = 96> <br>Dreamsicle <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/candy.png)[Cotton Candy](https://wiki.monkestation.com/en/jobs/service/Ranching#candy_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1>**Required Rooster:** ![](/chickens/snow.png)[Snowy Rooster](https://wiki.monkestation.com/en/jobs/service/Ranching#snow_chicken)
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|      
 <a name="chicken_info"></a>
 | Image    | Chicken Name | Mutations | Favorite Food | Disliked Foods |
 | --- | --- | --- | --- | --- |
@@ -259,8 +275,6 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <a name="dreamsicle_chicken"></a>![](/chickens/dreamsicle.png) | Dreamsicle Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Snow Rooster |
 | <a name="coackatrice_chicken"></a>![](/chickens/cockatric.png) | Cockatrice | \-  | Chicken Meat | \-  | \-  | \-  | Lizard Tail | \-  |
-| <a name="rev_chicken"></a>![](/chickens/rev_raptor.png) | Rev Raptor | \-  | \-  | Cuba Libre | \-  | \-  | Flash | \-  |
-
 ## Chemical Infusion Interactions
 <a name="chemical_list"></a>
 | Chemical Name | Happiness Modifier | Fertility Modifier | Egg Laying Modifier | Instability Modifier |
