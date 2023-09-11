@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T06:03:14.235Z
+date: 2023-09-11T20:58:02.234Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -99,7 +99,7 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 ## Onagadori Chicken
    | --- | --- | --- |
   <a name="onagadori_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/onagadori.png" width = 96 height = 96> <br>Onagadori Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
-    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_chicken) | ![](/chickens/sword.png)[Sword](https://wiki.monkestation.com/en/jobs/service/Ranching#shield_chicken)
+    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_chicken) | ![](/chickens/sword.png)[Sword](https://wiki.monkestation.com/en/jobs/service/Ranching#sword_chicken)
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
      | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Floor:** Grass
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
