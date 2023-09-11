@@ -2,7 +2,7 @@
 title: Guide Helpers
 description: place where guide templates will be stored
 published: true
-date: 2023-09-11T06:37:02.171Z
+date: 2023-09-11T06:38:55.276Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T02:35:44.467Z
@@ -18,6 +18,7 @@ dateCreated: 2023-09-11T02:35:44.467Z
      
 
 # Generic Surgery
+change the row span to the number of steps and add more br's o the starting td in order to have this scale down for all surgeries
 | --- | --- |
 	<td colspan=2 rowspan=5> <center> **Feature Manipulation** <br>Lets you transfer<br>features to new hosts,<br>effects carry over.<br><br>  **Target** <br><img src="/minified-icons/surgery/hud-target.gif" width = 96 height = 96> <br>Head, chest, groin, arms | ![](/minified-icons/surgery/scalpel.png) Make an incision. | ![](/minified-icons/surgery/shard.png) 45%, ![](/minified-icons/surgery/knife.png)65%, ![](/minified-icons/surgery/sword.gif) 75%
     | |![](/minified-icons/surgery/retractor.png) Retract the skin. | ![screwdriver_tool.png](/minified-icons/surgery/screwdriver_tool.png) 45%, ![wirecutters.png](/minified-icons/surgery/wirecutters.png) 35% |
