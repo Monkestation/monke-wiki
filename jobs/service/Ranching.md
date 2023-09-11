@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T05:48:57.766Z
+date: 2023-09-11T05:49:58.244Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -220,7 +220,7 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 ## Phoenix
    | --- | --- | --- |
   <a name="phoenix_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/spicy.png" width = 96 height = 96> <br>Phoenix <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
-    | | ![](/chickens/black_selke.png)[Spicy Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken) | None
+    | | ![](/chickens/spicy.png)[Spicy Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken) | None
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
      | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Rooster:** ![](/chickens/onagadori.png)[Onagadori Rooster](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken)
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
