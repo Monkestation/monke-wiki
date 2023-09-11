@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T05:50:44.626Z
+date: 2023-09-11T06:00:30.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -44,6 +44,23 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 > There we go, we now have the chicken we wanted to get, this can be applied to most if not all of the chickens in the game some may take longer than this as this is only a second tier chicken we wanted to get.
 {.is-success}
 
+## Helpful Information
+> When a mutation is layed, you only have 1 chance to fufill its requirements, this makes things like snow, and spicy chickens time sensitive. If you miss it, you can freely eat or use the egg elsewhere.
+{.is-info}
+
+> Chickens will lay mutations even if they don't fufill the requirements for them, but have an increased chance to lay mutations they fufill all the requirements for
+
+> Chickens will panic if you break open a stone egg near them, make sure to move the eggs to a closed off area.
+{.is-danger}
+
+
+> Chickens can quickly overpopulate if you dump your feed into a pen, its advised to feed them periodically, and to routinely cull chickens that you don't need. The chef will enjoy the extra meat.
+{.is-warning}
+
+> You can mark chickens with Alt-Click
+
+> If you are friendly enough with chickens you can use Pet Commands to command them, which includes: Attack, Fetch, Sit, Loose, Stay.
+{.is-info}
 
 # Chicken Information
 <a name="chicken_info"></a>
