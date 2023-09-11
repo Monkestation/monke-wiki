@@ -2,7 +2,7 @@
 title: Engineering
 description: "The most dangerous place on the station that we don't care about." 
 published: true
-date: 2023-09-10T06:17:30.247Z
+date: 2023-09-11T08:26:06.860Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-09-09T23:38:08.483Z
