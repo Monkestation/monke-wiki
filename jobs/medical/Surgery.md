@@ -2,7 +2,7 @@
 title: Guide to Surgery
 description: 
 published: true
-date: 2023-09-11T17:05:32.533Z
+date: 2023-09-11T18:10:16.708Z
 tags: guides, medical, wip
 editor: markdown
 dateCreated: 2023-09-09T17:02:59.601Z
@@ -165,24 +165,17 @@ Step 6: 
     | |![](/minified-icons/surgery/hud-hands.gif) Insert Feature | |
     | | ![](/minified-icons/surgery/cautery.png) Seal the Wound |![laser_gun.png](/minified-icons/surgery/laser_gun.png) 90%, ![welder.png](/minified-icons/surgery/welder.png) 70%, ![lighter.png](/minified-icons/surgery/lighter.png) 45%, ![match.png](/minified-icons/surgery/match.png) 20%|
     
+
+
 ## Lobectomy
-
-This surgery is an extended organ manipulation, cutting open the chest cavity and removing a disfunctional lobe within the [lungs](https://tgstation13.org/wiki/Guide_to_medicine#Organ_damage). This restores health to the [lungs](https://tgstation13.org/wiki/Guide_to_medicine#Organ_damage), and makes them operable, if they weren't before. Be warned, however, that this surgery can only be done once per set of lungs. Can only be performed if the patient's lungs are above 60 damage, which is a tad past severe damage thresholds. Do NOT confuse this surgery with lobotomy!
-
-![Hud target chest.gif](https://tgstation13.org/wiki/images/b/b3/Hud_target_chest.gif)
-
-**Target: Chest**
-
-|     |     |
 | --- | --- |
-| **Procedure** | **Ghetto Analogues** |
-| Step 1: <br><br>![Scalpel](https://tgstation13.org/wiki/images/2/2c/Scalpel.png)<br><br>**Scalpel**: make an incision. | ![Kitchen Knife](https://tgstation13.org/wiki/images/5/58/Knife.png)<br><br>(65%) <br><br>![Shard](https://tgstation13.org/wiki/images/1/18/Shard.png)<br><br>(45%) <br><br>![Energy Sword](https://tgstation13.org/wiki/images/1/1f/Sword.gif)<br><br>(75%) Any other sharp item (30%) |
-| Step 2: <br><br>![Retractor](https://tgstation13.org/wiki/images/c/c8/Retractor.png)<br><br>**Retractor**: retract the skin. | ![Screwdriver](https://tgstation13.org/wiki/images/9/92/Screwdriver_tool.png)<br><br>(45%) <br><br>![Wirecutters](https://tgstation13.org/wiki/images/8/8c/Wirecutters.png)<br><br>(35%) |
-| Step 3 <br><br>![Circular Saw](https://tgstation13.org/wiki/images/0/0a/Saw.png)<br><br>**Circular Saw**: saw through bones. | ![Chainsaw (arm-mounted)](https://tgstation13.org/wiki/images/0/0f/Chainsaw.gif)<br><br>(65%) <br><br>![Fire Axe](https://tgstation13.org/wiki/images/a/ab/Fireaxe.png)<br><br>(50%) <br><br>![Chainsaw (unmounted)](https://tgstation13.org/wiki/images/0/0f/Chainsaw.gif)<br><br>(50%) <br><br>![Hatchet](https://tgstation13.org/wiki/images/e/ef/Hatchet.png)<br><br>(35%) <br><br>![Butcher's Knife](https://tgstation13.org/wiki/images/9/9a/Butcherknife.png)<br><br>(25%) <br><br>![Changeling's Arm Blade](https://tgstation13.org/wiki/images/3/3f/Arm_blade.png)<br><br>(75%) Any other sharp item (20%) |
-| Step 4: <br><br>![Hemostat](https://tgstation13.org/wiki/images/4/48/Hemostat.png)<br><br>**Hemostat**: clamp the bleeders. | ![Wirecutters](https://tgstation13.org/wiki/images/8/8c/Wirecutters.png)<br><br>(60%) <br><br>![Package Wrap](https://tgstation13.org/wiki/images/c/cc/Package_Wrapper.png)<br><br>(35%) <br><br>![Cable](https://tgstation13.org/wiki/images/c/c6/CableCoils.png)<br><br>(15%) |
-| Step 5: <br><br>![Scalpel](https://tgstation13.org/wiki/images/2/2c/Scalpel.png)<br><br>**Scalpel**: excise the damage lung node. (95%) | ![Energy Sword](https://tgstation13.org/wiki/images/1/1f/Sword.gif)<br><br>(45%) <br><br>![Kitchen Knife](https://tgstation13.org/wiki/images/5/58/Knife.png)<br><br>(45%) <br><br>![Shard](https://tgstation13.org/wiki/images/1/18/Shard.png)<br><br>(25%) |
-| Step 6: <br><br>![Cautery](https://tgstation13.org/wiki/images/5/54/Cautery.png)<br><br>**Cautery**: seal the wound. | ![Laser](https://tgstation13.org/wiki/images/b/b1/Laser_gun.png)<br><br>(90%) <br><br>![Welder](https://tgstation13.org/wiki/images/9/9a/Welder.png)<br><br>(70%) <br><br>![Lighter](https://tgstation13.org/wiki/images/c/c4/Lighter.png)<br><br>(45%) <br><br>![Match](https://tgstation13.org/wiki/images/d/d0/Match.png)<br><br>(20%) |
-
+	<td colspan=2 rowspan=6> <center> **Lobectomy** <br>Removes disfunctional<br>lobe from lungs<br><br>**Requires**<br>60+ Damage Lungs<br><br>  **Target** <br><img src="/minified-icons/surgery/hud-target.gif" width = 96 height = 96> <br>Chest|![](/minified-icons/surgery/scalpel.png) Make an incision. | ![](/minified-icons/surgery/shard.png) 45%, ![](/minified-icons/surgery/knife.png)65%, ![](/minified-icons/surgery/sword.gif) 75%
+    | |![](/minified-icons/surgery/retractor.png) Retract the skin. | ![screwdriver_tool.png](/minified-icons/surgery/screwdriver_tool.png) 45%, ![wirecutters.png](/minified-icons/surgery/wirecutters.png) 35% |
+    | |![](/minified-icons/saw.png) Saw through bone | ![](/minified-icons/chainsaw.gif) 65%, ![](/minified-icons/fireaxe.png) 50%, ![](/minified-icons/hatchet.png) 35%, ![](/minified-icons/butcherknife.png) 25%, ![](/minified-icons/arm_blade.png) 75%|
+    | |![](/minified-icons/surgery/hemostat.png) Stop the bleeding |  ![wirecutters.png](/minified-icons/surgery/wirecutters.png) 60%, ![](/minified-icons/package_wrapper.png) 35%, ![](/minified-icons/cablecoils.png) 15%|
+    | | ![](/minified-icons/surgery/scalpel.png) Cut lobe out. | ![](/minified-icons/surgery/shard.png) 25%, ![](/minified-icons/surgery/knife.png)45%, ![](/minified-icons/surgery/sword.gif) 45%
+    | | ![](/minified-icons/surgery/cautery.png) Seal the Wound |![laser_gun.png](/minified-icons/surgery/laser_gun.png) 90%, ![welder.png](/minified-icons/surgery/welder.png) 70%, ![lighter.png](/minified-icons/surgery/lighter.png) 45%, ![match.png](/minified-icons/surgery/match.png) 20%|
+    
 ## Coronary Bypass
 
 This surgery is an extended organ manipulation, cutting open the chest cavity and grafting a bypass onto the patient's [heart](https://tgstation13.org/wiki/Guide_to_medicine#Organ_damage). This restores health to the heart, and makes it operable, if it was not before. Be warned, however, that this surgery can only be done once per heart, and that incising the heart and attaching the graft are not guaranteed successes. Keep bandages on hand in the event of failing the step, which will result in massive amounts of bleeding. Can only be performed if the heart has more than 60 damage (tad past severe damage threshold).
