@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T05:49:58.244Z
+date: 2023-09-11T05:50:44.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -251,7 +251,7 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 
 ## Cockatrice
    | --- | --- | --- |
-  <a name="coackatrice_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/cockatric.png" width = 96 height = 96> <br>Cockatrice <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+  <a name="cockatrice_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/cockatric.png" width = 96 height = 96> <br>Cockatrice <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
     | | ![](/chickens/stone.png)[Stone](https://wiki.monkestation.com/en/jobs/service/Ranching#stone_chicken) | None
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
      | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1>**Required Items:** Lizard Tail
