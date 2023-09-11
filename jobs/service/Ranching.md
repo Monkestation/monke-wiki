@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T05:14:02.190Z
+date: 2023-09-11T05:34:14.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -154,51 +154,100 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 
 ## Raptor
    | --- | --- | --- |
-  <a name="raptor_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/spicy.png" width = 96 height = 96> <br>Raptor <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
-    | | ![](/chickens/brown.png)[Brown Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#rev_chicken) | ![](/chickens/spicy.png)[Phoenix](https://wiki.monkestation.com/en/jobs/service/Ranching#phoenix_chicken)
+  <a name="raptor_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/raptor.png" width = 96 height = 96> <br>Raptor <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/brown.png)[Brown Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#brown_chicken) | ![](/chickens/rev_raptor.png)[Rev Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#rev_chicken)
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
-     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Temperature:** 350K to 450K <br> **Required Food:** Chilis
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Happiness:** 55 <br> **Required Food:** Monkey Meat <br> **Required Reagents:** Blood
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|     
+
+## Golden Chicken
+   | --- | --- | --- |
+  <a name="gold_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/gold.png" width = 96 height = 96> <br>Golden Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/brown.png)[Brown Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#brown_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Happiness:** 1000
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|     
+     
+## Robot Chicken
+   | --- | --- | --- |
+  <a name="robot_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/robot.png" width = 96 height = 96> <br>Robot Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/brown.png)[Brown Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#brown_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Happiness:** 45 <br> **Required Reagents:** Iron, Uranium <br> **Required Items:** Nutrient Pump Implant
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|      
+
+## Sword Chicken
+   | --- | --- | --- |
+  <a name="sword_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/sword.png" width = 96 height = 96> <br>Sword Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/onagadori.png)[Onagadori Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Food:** Meatwheat <br> **Required Items:** Steelcap Logs
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Stone Chicken
+   | --- | --- | --- |
+  <a name="stone_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/stone.png" width = 96 height = 96> <br>Stone Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/glass.png)[Glass Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#glass_chicken) | ![](/chickens/cockatric.png)[Cockatrice](https://wiki.monkestation.com/en/jobs/service/Ranching#cockatrice_chicken)
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Food:** Cannabis <br> **Required Items:** Pickaxe <br> **Required Floor:** Fake Volanic Floor
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Witchen
+   | --- | --- | --- |
+  <a name="wizard_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/wiznerd.png" width = 96 height = 96> <br>Witchen <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/glass.png)[Glass Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#glass_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Food:**	Fly Amanitas <br> **Required Items:** Fake Wizard Hat
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Snowy Chicken
+   | --- | --- | --- |
+  <a name="snow_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/snow.png" width = 96 height = 96> <br>Snowy Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/white_selkie.png)[White Selkie Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_selkie_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Temperature:**	0K - 24K with Oxygen present
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Dream Chicken
+   | --- | --- | --- |
+  <a name="dream_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/dreaming.png" width = 96 height = 96> <br>Dream Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/black_selke.png)[Black Selkie Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> Dream Chickens can only be gotten from a black selkie dying of old age
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Phoenix
+   | --- | --- | --- |
+  <a name="phoenix_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/spicy.png" width = 96 height = 96> <br>Phoenix <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/black_selke.png)[Spicy Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Rooster:** ![](/chickens/onagadori.png)[Onagadori Rooster](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken)
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Cotton Candy Chicken
+   | --- | --- | --- |
+  <a name="candy_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/candy.png" width = 96 height = 96> <br>Phoenix <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/black_selke.png)[Spicy Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Rooster:** ![](/chickens/onagadori.png)[Onagadori Rooster](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken)
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
 <a name="chicken_info"></a>
 | Image    | Chicken Name | Mutations | Favorite Food | Disliked Foods |
 | --- | --- | --- | --- | --- |
-| ![](/chickens/dreaming.png) | Dream Chicken | None | Apples | TBA |
-| ![](/chickens/raptor.png) | Raptors | [Rev Raptors](https://wiki.monkestation.com/en/jobs/service/Ranching#rev_chicken) | Chicken Meat | TBA |
 | ![](/chickens/candy.png) | Cotton Candy Chickens | [Dreamsicle](https://wiki.monkestation.com/en/jobs/service/Ranching#dreamsicle_chicken) | Sugar Cane | TBA |
-| ![](/chickens/snow.png) | Snow Chickens | None | Chilly Pepper | TBA
 | ![](/chickens/pigeon.png) | Pigeon | None | TBA | TBA |
-| ![](/chickens/stone.png) | Stone Hen | [Cockatrice](https://wiki.monkestation.com/en/jobs/service/Ranching#cockatrice_chicken) | Cannabis | TBA |
-| ![](/chickens/wiznerd.png) | Witchen | None | TBA | TBA
-| ![](/chickens/sword.png) | Shieldmaidhen | None | TBA | TBA
-| ![](/chickens/gold.png) | Golden Chicken | None | Gold Apples | TBA |
-| ![](/chickens/spicy.png) | Phoenix Chicken | None | Chilis | TBA |
 | ![](/chickens/dreamsicle.png) | Dreamsicle Chicken | None | TBA | TBA |
 | ![](/chickens/cockatric.png) | Cockatrice | None | TBA | TBA |
-| ![](/chickens/robot.png) | Robotic Chicken | None | TBA | TBA |
 | ![](/chickens/rev_raptor.png) | Rev Raptor | None | TBA | TBA |
 
 ## Mutation Requirements
 
 |   Image   | Chicken Name | Happiness Requirement | Food Requirement | Reagent Requirement | Floor Requirement | Atmos Requirement | Item Requirements | Watcher Requirements |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <a name="dream_chicken"></a>![](/chickens/dreaming.png) | Dream Chicken | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
-| <a name="white_selkie_chicken"></a>![](/chickens/white_selkie.png) | White Selkie Chicken | \-  | Apples | Meth | Grass | \-  | \-  | \-  |
-| <a name="black_selkie_chicken"></a>![](/chickens/black_selke.png) | Black Selkie Chicken | \-  | Apples | Chloral Hydrate | Grass | \-  | \-  | \-  |
-| <a name="spicy_chicken"></a>![](/chickens/spicy.png) | Spicy Chicken | \-  | Chilis | \-  | \-  | 350k - 450k Temp | \-  | \-  |
-| <a name="raptor_chicken"></a>![](/chickens/raptor.png) | Raptors | 55  | Monkey Meat | Blood | \-  | \-  | \-  | \-  |
 | <a name="candy_chicken"></a>![](/chickens/candy.png) | Cotton Candy Chickens | 50  | \-  | Cream, Sugar, Blueberry Shake | \-  | \-  | \-  | \-  |
-| <a name="snow_chicken"></a>![](/chickens/snow.png) | Snow Chickens | \-  | \-  | \-  | \-  | 0K - 24K Temp With Oxygen Present | \-  | \-  |
 | <a name="pigeon_chicken"></a>![](/chickens/pigeon.png) | Pigeon | 30  | Corn | \-  | \-  | \-  | Station Bound Radio | \-  |
-| <a name="stone_chicken"></a>![](/chickens/stone.png) | Stone Hen | \-  | Cannabis | \-  | Fake Volcanic Floor | \-  | Pickaxe | \-  |
-| <a name="wizard_chicken"></a>![](/chickens/wiznerd.png) | Witchen | \-  | Fly Amanitas | \-  | \-  | \-  | Fake Wizard Hat | \-  |
-| <a name="shield_chicken"></a>![](/chickens/sword.png) | Shieldmaidhen | \-  | Meatwheat | \-  | \-  | \-  | Steelcap logs | \-  |
-| <a name="gold_chicken"></a>![](/chickens/gold.png) | Golden Chicken | 1000 | \-  | \-  | \-  | \-  | \-  | \-  |
-| <a name="sad_clown_chicken"></a>![](/chickens/sad_clown.png) | Sad Clown Chicken | \-1000 | \-  | \-  | \-  | \-  | \-  | \-  |
-| <a name="mime_chicken"></a>![](/chickens/mime.png) | Mime Chicken | \-  | Baguettes | Nothing | \-  | \-  | \-  | \-  |
-| <a name="spicy_chicken"></a>![](/chickens/spicy.png) | Phoenix Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Onagadori Rooster |
 | <a name="dreamsicle_chicken"></a>![](/chickens/dreamsicle.png) | Dreamsicle Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Snow Rooster |
 | <a name="coackatrice_chicken"></a>![](/chickens/cockatric.png) | Cockatrice | \-  | Chicken Meat | \-  | \-  | \-  | Lizard Tail | \-  |
-| <a name="robot_chicken"></a>![](/chickens/robot.png) | Robotic Chicken | 45  | \-  | Iron, Uranium | \-  | \-  | Nutrient Pump Implant | \-  |
 | <a name="rev_chicken"></a>![](/chickens/rev_raptor.png) | Rev Raptor | \-  | \-  | Cuba Libre | \-  | \-  | Flash | \-  |
 
 ## Chemical Infusion Interactions
