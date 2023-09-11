@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T03:05:17.286Z
+date: 2023-09-11T03:18:57.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -47,16 +47,37 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 
 
 
-# Tables
-
-## Chicken Information
-
-### White Chicken
+# Chicken Information
+## White Chicken
    | --- | --- | --- |
-  <a name="white_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/chickens.png" width = 96 height = 96> <br>White Chicken | <center> Mutates From | <center> Mutates Into |
-    | | Base Chicken | ![](/chickens/black_selke.png)[Black Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken), ![](/chickens/white_selkie.png)[White Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#white_selkie_chicken), ![](/chickens/selkie.png)[Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#selkie_chicken), ![](/chickens/brown.png)[Brown](https://wiki.monkestation.com/en/jobs/service/Ranching#brown_chicken), <br>![](/chickens/glass.png)[Glass](https://wiki.monkestation.com/en/jobs/service/Ranching#glass_chicken), ![](/chickens/onagadori.png)[Onagadori](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken), ![](/chickens/clown.png) [Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#clown_chicken), ![](/chickens/ixworth.png)[Ixworth](https://wiki.monkestation.com/en/jobs/service/Ranching#ixworth_chicken), ![](/chickens/void.png)[Void](https://wiki.monkestation.com/en/jobs/service/Ranching#void_chicken)
+  <a name="white_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/chickens.png" width = 96 height = 96> <br>White Chicken <td width=225> <center> Mutates From <td width=450> <center> Mutates Into |
+    | | Base Chicken | ![](/chickens/black_selke.png)[Black Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken), ![](/chickens/white_selkie.png)[White Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#white_selkie_chicken), ![](/chickens/selkie.png)[Selkie](https://wiki.monkestation.com/en/jobs/service/Ranching#selkie_chicken), ![](/chickens/brown.png)[Brown](https://wiki.monkestation.com/en/jobs/service/Ranching#brown_chicken), <br>![](/chickens/glass.png)[Glass](https://wiki.monkestation.com/en/jobs/service/Ranching#glass_chicken), ![](/chickens/onagadori.png)[Onagadori](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken), ![](/chickens/clown.png) [Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#clown_chicken), ![](/chickens/ixworth.png)[Ixworth](https://wiki.monkestation.com/en/jobs/service/Ranching#ixworth_chicken),<br> ![](/chickens/void.png)[Void](https://wiki.monkestation.com/en/jobs/service/Ranching#void_chicken)
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
      | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> N/A
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
+
+## Brown Chicken
+   | --- | --- | --- |
+  <a name="brown_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/brown.png" width = 96 height = 96> <br>Brown Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken) | ![](/chickens/spicy.png)[Spicy](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken), ![](/chickens/raptor.png)[Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#raptor_chicken), ![](/chickens/gold.png)[Gold](https://wiki.monkestation.com/en/jobs/service/Ranching#gold_chicken), ![](/chickens/robot.png)[Robot](https://wiki.monkestation.com/en/jobs/service/Ranching#robot_chicken)
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Floor:** Grass <br> **Required Happiness** 25
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
+
+## Clown Chicken
+   | --- | --- | --- |
+  <a name="clown_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/clown.png" width = 96 height = 96> <br>Clown Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken) | ![](/chickens/sad_clown.png)[Sad Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#sad_clown_chicken)
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Watcher:** A True Clown
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
+
+## Ixworth Chicken
+   | --- | --- | --- |
+  <a name="ixworth_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/ixworth.png" width = 96 height = 96> <br>Ixworth Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_chicken) | ![](/chickens/sad_clown.png)[Sad Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#sad_clown_chicken)
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Watcher:** A True Clown
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
      
 <a name="chicken_info"></a>
