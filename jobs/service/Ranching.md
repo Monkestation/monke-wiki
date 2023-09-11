@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T05:48:25.260Z
+date: 2023-09-11T05:48:57.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -46,6 +46,7 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 
 
 # Chicken Information
+<a name="chicken_info"></a>
 ## White Chicken
    | --- | --- | --- |
   <a name="white_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/chickens.png" width = 96 height = 96> <br>White Chicken <td width=225> <center> Mutates From <td width=450> <center> Mutates Into |
@@ -263,19 +264,7 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
      | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1>**Required Rooster:** ![](/chickens/snow.png)[Snowy Rooster](https://wiki.monkestation.com/en/jobs/service/Ranching#snow_chicken)
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|      
-<a name="chicken_info"></a>
-| Image    | Chicken Name | Mutations | Favorite Food | Disliked Foods |
-| --- | --- | --- | --- | --- |
-| ![](/chickens/dreamsicle.png) | Dreamsicle Chicken | None | TBA | TBA |
-| ![](/chickens/cockatric.png) | Cockatrice | None | TBA | TBA |
-
-## Mutation Requirements
-
-|   Image   | Chicken Name | Happiness Requirement | Food Requirement | Reagent Requirement | Floor Requirement | Atmos Requirement | Item Requirements | Watcher Requirements |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <a name="dreamsicle_chicken"></a>![](/chickens/dreamsicle.png) | Dreamsicle Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Snow Rooster |
-| <a name="coackatrice_chicken"></a>![](/chickens/cockatric.png) | Cockatrice | \-  | Chicken Meat | \-  | \-  | \-  | Lizard Tail | \-  |
-## Chemical Infusion Interactions
+# Chemical Infusion Interactions
 <a name="chemical_list"></a>
 | Chemical Name | Happiness Modifier | Fertility Modifier | Egg Laying Modifier | Instability Modifier |
 | --- | --- | --- | --- | --- |
