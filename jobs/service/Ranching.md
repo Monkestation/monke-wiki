@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T05:34:14.769Z
+date: 2023-09-11T05:45:16.901Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -226,26 +226,37 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 
 ## Cotton Candy Chicken
    | --- | --- | --- |
-  <a name="candy_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/candy.png" width = 96 height = 96> <br>Phoenix <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
-    | | ![](/chickens/black_selke.png)[Spicy Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken) | None
+  <a name="candy_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/candy.png" width = 96 height = 96> <br>Cotton Candy Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/selkie.png)[Selkie Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#selkie_chicken) | ![](/chickens/dreamsicle.png)[Dreamsicle](https://wiki.monkestation.com/en/jobs/service/Ranching#dreamsicle_chicken)
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
-     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Rooster:** ![](/chickens/onagadori.png)[Onagadori Rooster](https://wiki.monkestation.com/en/jobs/service/Ranching#onagadori_chicken)
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Happiness:** 50 <br> **Required Reagents:** Cream, Sugar, Blueberry Shake
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Pigeon
+   | --- | --- | --- |
+  <a name="pigeon_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/pigeon.png" width = 96 height = 96> <br>Pigeon <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/selkie.png)[Selkie Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#selkie_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Happiness:** 30 <br> **Required Food:** Corn <br> **Required Items:** Station Bound Radio
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
+
+## Rev Raptor
+   | --- | --- | --- |
+  <a name="rev_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/rev_raptor.png" width = 96 height = 96> <br>Rev Raptor <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/raptor.png)[Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#raptor_chicken) | None
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Reagents:** Cuba Libre <br> **Required Items:** Flash
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|   
 <a name="chicken_info"></a>
 | Image    | Chicken Name | Mutations | Favorite Food | Disliked Foods |
 | --- | --- | --- | --- | --- |
-| ![](/chickens/candy.png) | Cotton Candy Chickens | [Dreamsicle](https://wiki.monkestation.com/en/jobs/service/Ranching#dreamsicle_chicken) | Sugar Cane | TBA |
-| ![](/chickens/pigeon.png) | Pigeon | None | TBA | TBA |
 | ![](/chickens/dreamsicle.png) | Dreamsicle Chicken | None | TBA | TBA |
 | ![](/chickens/cockatric.png) | Cockatrice | None | TBA | TBA |
-| ![](/chickens/rev_raptor.png) | Rev Raptor | None | TBA | TBA |
 
 ## Mutation Requirements
 
 |   Image   | Chicken Name | Happiness Requirement | Food Requirement | Reagent Requirement | Floor Requirement | Atmos Requirement | Item Requirements | Watcher Requirements |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <a name="candy_chicken"></a>![](/chickens/candy.png) | Cotton Candy Chickens | 50  | \-  | Cream, Sugar, Blueberry Shake | \-  | \-  | \-  | \-  |
-| <a name="pigeon_chicken"></a>![](/chickens/pigeon.png) | Pigeon | 30  | Corn | \-  | \-  | \-  | Station Bound Radio | \-  |
 | <a name="dreamsicle_chicken"></a>![](/chickens/dreamsicle.png) | Dreamsicle Chicken | \-  | \-  | \-  | \-  | \-  | \-  | Snow Rooster |
 | <a name="coackatrice_chicken"></a>![](/chickens/cockatric.png) | Cockatrice | \-  | Chicken Meat | \-  | \-  | \-  | Lizard Tail | \-  |
 | <a name="rev_chicken"></a>![](/chickens/rev_raptor.png) | Rev Raptor | \-  | \-  | Cuba Libre | \-  | \-  | Flash | \-  |
