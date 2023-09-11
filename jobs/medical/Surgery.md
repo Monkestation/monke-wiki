@@ -2,7 +2,7 @@
 title: Guide to Surgery
 description: 
 published: true
-date: 2023-09-10T06:12:21.269Z
+date: 2023-09-11T16:54:38.791Z
 tags: guides, medical, wip
 editor: markdown
 dateCreated: 2023-09-09T17:02:59.601Z
@@ -136,6 +136,18 @@ Step 6: 
 
 # Procedures requiring no research or computer
 
+## Organ Manipulation
+| --- | --- |
+	<td colspan=2 rowspan=8> <center> **Organ Manipulation** <br>Remove or Insert<br>organs, from selected<br>bodypart.<br><br>**Includes**: Cyber<br>Implant, Alien<br>Embryos, and<br>Regular Organs<br><br> **Target** <br><img src="/minified-icons/surgery/hud-target.gif" width = 96 height = 96> <br>Head, chest, groin | ![](/minified-icons/surgery/scalpel.png) Make an incision. | ![](/minified-icons/surgery/shard.png) 45%, ![](/minified-icons/surgery/knife.png)65%, ![](/minified-icons/surgery/sword.gif) 75%
+    | |![](/minified-icons/surgery/retractor.png) Retract the skin. | ![screwdriver_tool.png](/minified-icons/surgery/screwdriver_tool.png) 45%, ![wirecutters.png](/minified-icons/surgery/wirecutters.png) 35% |
+    | |![](/minified-icons/saw.png) Saw through bone | ![](/minified-icons/chainsaw.gif) 65%, ![](/minified-icons/fireaxe.png) 50%, ![](/minified-icons/hatchet.png) 35%, ![](/minified-icons/butcherknife.png) 25%, ![](/minified-icons/arm_blade.png) 75%|
+  | |![](/minified-icons/surgery/hemostat.png) Stop the bleeding |  ![wirecutters.png](/minified-icons/surgery/wirecutters.png) 60%, ![](/minified-icons/package_wrapper.png) 35%, ![](/minified-icons/cablecoils.png) 15%|
+    | | ![](/minified-icons/surgery/scalpel.png) Make an incision. | ![](/minified-icons/surgery/shard.png) 45%, ![](/minified-icons/surgery/knife.png)65%, ![](/minified-icons/surgery/sword.gif) 75%
+     | |![](/minified-icons/surgery/hemostat.png) Remove Feature or | ![crowbar.png](/minified-icons/surgery/crowbar.png) 55%, ![fork.png](/minified-icons/surgery/fork.png) 35%|
+  | |![](/minified-icons/surgery/hud-hands.gif) Insert Feature | |
+  | | ![](/minified-icons/surgery/cautery.png) Seal the Wound |![laser_gun.png](/minified-icons/surgery/laser_gun.png) 90%, ![welder.png](/minified-icons/surgery/welder.png) 70%, ![lighter.png](/minified-icons/surgery/lighter.png) 45%, ![match.png](/minified-icons/surgery/match.png) 20%|
+   
+  
 ## Organ Manipulation
 
 This surgery covers operations to remove/insert organs (brain, heart, appendix), cyber implants and alien embryos.  
