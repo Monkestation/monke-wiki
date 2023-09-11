@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T03:18:57.791Z
+date: 2023-09-11T03:20:29.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -59,7 +59,7 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 ## Brown Chicken
    | --- | --- | --- |
   <a name="brown_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/brown.png" width = 96 height = 96> <br>Brown Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
-    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken) | ![](/chickens/spicy.png)[Spicy](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken), ![](/chickens/raptor.png)[Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#raptor_chicken), ![](/chickens/gold.png)[Gold](https://wiki.monkestation.com/en/jobs/service/Ranching#gold_chicken), ![](/chickens/robot.png)[Robot](https://wiki.monkestation.com/en/jobs/service/Ranching#robot_chicken)
+    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_chicken) | ![](/chickens/spicy.png)[Spicy](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken), ![](/chickens/raptor.png)[Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#raptor_chicken), ![](/chickens/gold.png)[Gold](https://wiki.monkestation.com/en/jobs/service/Ranching#gold_chicken), ![](/chickens/robot.png)[Robot](https://wiki.monkestation.com/en/jobs/service/Ranching#robot_chicken)
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
      | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Floor:** Grass <br> **Required Happiness** 25
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
@@ -67,7 +67,7 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 ## Clown Chicken
    | --- | --- | --- |
   <a name="clown_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/clown.png" width = 96 height = 96> <br>Clown Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
-    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#black_selkie_chicken) | ![](/chickens/sad_clown.png)[Sad Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#sad_clown_chicken)
+    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_chicken) | ![](/chickens/sad_clown.png)[Sad Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#sad_clown_chicken)
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
      | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Watcher:** A True Clown
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
@@ -75,24 +75,21 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 ## Ixworth Chicken
    | --- | --- | --- |
   <a name="ixworth_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/ixworth.png" width = 96 height = 96> <br>Ixworth Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
-    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_chicken) | ![](/chickens/sad_clown.png)[Sad Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#sad_clown_chicken)
+    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_chicken) |None
    <td colspan=2> <center> Food Information | <center> Mutation Requirements |
-     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Watcher:** A True Clown
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> N/A
      | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
      
 <a name="chicken_info"></a>
 | Image    | Chicken Name | Mutations | Favorite Food | Disliked Foods |
 | --- | --- | --- | --- | --- |
 | ![](/chickens/dreaming.png) | Dream Chicken | None | Apples | TBA |
-| ![](/chickens/brown.png) | Brown Chicken | [Spicy](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken), [Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#raptor_chicken), [Gold](https://wiki.monkestation.com/en/jobs/service/Ranching#gold_chicken), [Robot](https://wiki.monkestation.com/en/jobs/service/Ranching#robot_chicken) | Chilis | TBA |
 | ![](/chickens/glass.png) | Glass Chicken | [Wizard](https://wiki.monkestation.com/en/jobs/service/Ranching#wizard_chicken), [Stone](https://wiki.monkestation.com/en/jobs/service/Ranching#stone_chicken) |  Rice | TBA |
 | ![](/chickens/onagadori.png) | Onagadori Chicken | [Sword](https://wiki.monkestation.com/en/jobs/service/Ranching#shield_chicken) |  TBA | TBA |
-| ![](/chickens/ixworth.png) | Ixworth Chicken | None |  Tomatoes | TBA |
 | ![](/chickens/white_selkie.png) | White Selkie Chicken | [Snowy](https://wiki.monkestation.com/en/jobs/service/Ranching#snow_chicken) | Synthmeat | TBA |
 | ![](/chickens/black_selke.png) | Black Selkie Chicken | [Dream (Must die of old Age)](https://wiki.monkestation.com/en/jobs/service/Ranching#dream_chicken) | Apples | TBA |
 | ![](/chickens/selkie.png) | Selkie Chicken | [Cotton Candy](https://wiki.monkestation.com/en/jobs/service/Ranching#candy_chicken), [Pigeon](https://wiki.monkestation.com/en/jobs/service/Ranching#pigeon_chicken) | Synthmeat | TBA |
 | ![](/chickens/void.png) | Void Chicken | None | TBA | TBA |
-| ![](/chickens/clown.png) | Clown Chicken | [Sad Clown](https://wiki.monkestation.com/en/jobs/service/Ranching#sad_clown_chicken) | Bananas | TBA |
 | ![](/chickens/spicy.png) | Spicy Chicken | [Phoenix](https://wiki.monkestation.com/en/jobs/service/Ranching#phoenix_chicken) | Chilis | TBA |
 | ![](/chickens/raptor.png) | Raptors | [Rev Raptors](https://wiki.monkestation.com/en/jobs/service/Ranching#rev_chicken) | Chicken Meat | TBA |
 | ![](/chickens/candy.png) | Cotton Candy Chickens | [Dreamsicle](https://wiki.monkestation.com/en/jobs/service/Ranching#dreamsicle_chicken) | Sugar Cane | TBA |
