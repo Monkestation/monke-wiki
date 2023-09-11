@@ -2,7 +2,7 @@
 title: Sentient Disease
 description: Shut... down... EVERYTHING
 published: true
-date: 2023-09-10T01:40:12.634Z
+date: 2023-09-11T17:31:33.748Z
 tags: antagonist, jobs, medical, virology
 editor: markdown
 dateCreated: 2023-09-10T01:40:12.634Z
@@ -15,7 +15,7 @@ dateCreated: 2023-09-10T01:40:12.634Z
 | \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
 
 ## Main 
-Talk about the primary parts of the job here.
+The Sentient disease has a few objectives but the main one is to get off the station in a person.
 
 
 ### Sub-categories
