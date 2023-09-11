@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T03:20:29.757Z
+date: 2023-09-11T03:23:33.119Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -43,8 +43,6 @@ Finally and probably most important is the effects of unhappiness, aging, and cr
 7. Lets now say we have our glass chicken which is cool in itself but not what we want we now make feed infused with Cannabis and place that down the glass chickens will eat this and again after 4 eatings will have a chance at laying stone eggs, when those hatch we have completed the chicken we want!
 > There we go, we now have the chicken we wanted to get, this can be applied to most if not all of the chickens in the game some may take longer than this as this is only a second tier chicken we wanted to get.
 {.is-success}
-
-
 
 
 # Chicken Information
