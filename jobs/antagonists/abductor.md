@@ -2,8 +2,8 @@
 title: Abductor
 description: Ayy lmao
 published: true
-date: 2023-09-10T00:29:04.033Z
-tags: antagonist, jobs, wip, ayy lmao
+date: 2023-09-11T17:30:15.100Z
+tags: antagonist, ayy lmao, jobs, wip
 editor: markdown
 dateCreated: 2023-09-10T00:29:04.033Z
 ---
@@ -15,7 +15,7 @@ dateCreated: 2023-09-10T00:29:04.033Z
 | \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
 
 ## Main 
-Talk about the primary parts of the job here.
+These grey aliens, will abduct people and do stuff to them.
 
 
 ### Sub-categories
