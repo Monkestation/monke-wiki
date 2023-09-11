@@ -2,7 +2,7 @@
 title: Guide to Tesla/Singularity
 description: Lets store a deathtrap behind 1 layer of energy walls! What could go wrong?
 published: true
-date: 2023-09-11T04:00:07.804Z
+date: 2023-09-11T04:40:08.354Z
 tags: engineering, guides
 editor: markdown
 dateCreated: 2023-09-11T02:30:12.624Z
@@ -16,6 +16,8 @@ dateCreated: 2023-09-11T02:30:12.624Z
 
 ## Description 
 The Singularity and tesla are Nanotrassen's old but much more deadly sources of powering the entire station. Many stations have either been turned to dust or erased entirely by one of these getting loose for any odd reasons. Its your job to not let that happen, while still extracting as much juice as you can from them.
+
+Note: If a Tesla and a Singularity colide it just makes a tiny explosion and erases eachother. Dont destroy both your generators trying to be cool.
 
 
 ## ![warningsign.png](/jobs/engineering/warningsign.png) The Setup
