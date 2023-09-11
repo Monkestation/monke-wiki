@@ -2,7 +2,7 @@
 title: Ranching
 description: The Chicken Cheat Sheet
 published: true
-date: 2023-09-11T06:00:30.122Z
+date: 2023-09-11T06:03:14.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T18:48:57.738Z
@@ -13,7 +13,6 @@ dateCreated: 2023-09-06T18:48:57.738Z
 |                             | Service                                                                               |
 |-----------------------------|----------------------------------------------------------------------------------------------|
 |  ![](/jobs/service/botanist.png)<br> | Access:<br>Additional Access:<br>Difficulty: **Medium**<br>Supervisors: **Head of Personnel**<br>Duties: **Raise Chickens**<br>Guides:<br>Alternate Titles: Botanist|
-
 # General Information
 ## Introduction
 Ranching is a unique sub-department of Botany, It focuses on the raising and mutation of chickens. Unlike the similar sub-department Xenobiology, Ranching requires specific circumstances for chickens to raise. See [Chicken Information](https://wiki.monkestation.com/en/jobs/service/Ranching#chicken_info) for specific mutations for each chicken, and see the links on each mutation for the requirements of said mutation.
