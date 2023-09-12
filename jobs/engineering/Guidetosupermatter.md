@@ -2,7 +2,7 @@
 title: Guide to Supermatter
 description: Oohhhh shiny!
 published: true
-date: 2023-09-12T14:14:05.904Z
+date: 2023-09-12T14:23:17.095Z
 tags: engineering, guides
 editor: markdown
 dateCreated: 2023-09-12T02:34:07.729Z
@@ -55,6 +55,10 @@ This tutorial on how to tame the SM will use the most clasic setup using N2 or n
 |![sm_part_1.png](/jobs/engineering/sm_part_9.png) <br> Now set the scrubbers.| ![sm_part_2.png](/jobs/engineering/sm_part_10.png) <br> Finally after every other step is done, start the power generation!  
 
 Good job! you just started a Supermatter! Now get the hell out of there as the SM has been started by the emitter fire and will produce radiation.
+
+## Gas interactions
+The supermatter will influence and get influenced by the various gases in the SM, the reason roundstart uses N2 is because it does not boost the SM in any way and is decent at keeping it cool.
+Here is every interacting gas and what it will do
 
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
