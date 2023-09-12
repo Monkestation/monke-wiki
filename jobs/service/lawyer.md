@@ -2,7 +2,7 @@
 title: Lawyer
 description: I will have evidence and there will be consequences.
 published: true
-date: 2023-09-10T05:58:50.840Z
+date: 2023-09-12T04:56:21.341Z
 tags: jobs, lawyer, space law, wip
 editor: markdown
 dateCreated: 2023-09-09T20:57:04.333Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:57:04.333Z
 
 |                             | SERVICE & SECURITY STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Internal Affairs Agent, Human Resources Agent, Defence Attorney, Public Defender, Barrister, Prosecutor, Legal Clerk|
 
 ## Main 
 Talk about the primary parts of the job here.
