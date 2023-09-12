@@ -2,7 +2,7 @@
 title: Chemist
 description: I probably shouldn't mix this, but what will the clown do?
 published: true
-date: 2023-09-10T06:13:48.795Z
+date: 2023-09-12T03:07:32.612Z
 tags: jobs, medical, wip
 editor: markdown
 dateCreated: 2023-09-09T20:12:27.739Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:12:27.739Z
 
 |                             | MEDICAL STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Pharmacist, Pharmacologist, Trainee Pharmacist |
 
 ## Main 
 Talk about the primary parts of the job here.
