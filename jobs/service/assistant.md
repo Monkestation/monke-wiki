@@ -2,7 +2,7 @@
 title: Assistant
 description: GREYTIDE WORLDWIDE! -tider before being thrown out the airlock nekkid.
 published: true
-date: 2023-09-10T06:00:35.250Z
+date: 2023-09-12T04:55:41.134Z
 tags: greytide, jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T20:55:59.099Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:55:59.099Z
 
 |                             | SERVICE STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Civilian, Tourist, Businessman, Businesswoman, Trader, Entertainer, Freelancer, Artist, Off-Duty Staff, Off-Duty Crew|
 
 ## Main 
 Talk about the primary parts of the job here.
