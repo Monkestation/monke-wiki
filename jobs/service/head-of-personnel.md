@@ -2,7 +2,7 @@
 title: Head of Personnel
 description: Paramedic, was it? I have a better idea. Congratulations on your promotion to Head of Sanitary Hygiene!
 published: true
-date: 2023-09-10T05:59:15.108Z
+date: 2023-09-12T02:29:06.490Z
 tags: command, jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T18:40:42.733Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T18:40:42.733Z
 
 |                             | SERVICE & COMMAND STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Executive Officer, Crew Supervisor, Employment Officer|
 
 ## Main 
 Talk about the primary parts of the job here.
