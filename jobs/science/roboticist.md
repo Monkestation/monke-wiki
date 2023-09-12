@@ -2,7 +2,7 @@
 title: Roboticist
 description: Alright, who wants to donate their brain to science?
 published: true
-date: 2023-09-10T06:03:26.726Z
+date: 2023-09-12T03:03:46.090Z
 tags: jobs, science, wip
 editor: markdown
 dateCreated: 2023-09-09T19:40:05.547Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:40:05.547Z
 
 |                             | STAFF TYPE                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Biomechanical Engineer, Mechatronic Engineer, Apprentice Roboticist |
 
 ## Main 
 Talk about the primary parts of the job here.
