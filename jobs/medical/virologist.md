@@ -2,7 +2,7 @@
 title: Virologist
 description: Someone started having the sniffles? Get the flamer. -Head of Security
 published: true
-date: 2023-09-10T06:07:15.467Z
+date: 2023-09-12T03:08:04.331Z
 tags: jobs, medical, wip
 editor: markdown
 dateCreated: 2023-09-09T20:15:20.810Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:15:20.810Z
 
 |                             | MEDICAL STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Pathologist, Junior Pathologist |
 
 ## Main 
 Talk about the primary parts of the job here.
