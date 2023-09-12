@@ -2,7 +2,7 @@
 title: Prisoner
 description: "What are you in for?"
 published: true
-date: 2023-09-10T06:02:31.984Z
+date: 2023-09-12T02:57:08.301Z
 tags: jobs, security, wip
 editor: markdown
 dateCreated: 2023-09-09T19:32:32.607Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:32:32.607Z
 
 |                             | SECURED STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Minimum/Maximum/SuperMax Security Prisoner, Protective Custody Prisoner, Convict, Felon, Inmate|
 
 ## Main 
 Talk about the primary parts of the job here.
