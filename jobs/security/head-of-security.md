@@ -2,7 +2,7 @@
 title: Head of Security
 description: Alright you knuckleheads, stop beating up the assistants and get back to work. And make sure those tasers are fully charged! I hear the bartender is serving up Gargle Blasters today, and things could get messy.
 published: true
-date: 2023-09-10T06:02:42.179Z
+date: 2023-09-12T02:48:30.266Z
 tags: command, jobs, security, wip
 editor: markdown
 dateCreated: 2023-09-09T18:45:38.296Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T18:45:38.296Z
 
 |                             | SECURITY & COMMAND TYPE                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Chief of Security, Chief Constable, Sheriff, Security Commander|
 
 ## Main 
 Talk about the primary parts of the job here.
