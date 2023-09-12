@@ -2,7 +2,7 @@
 title: Scientist
 description: FUCKING SCIENCE. -Some amazing scientist before he exploded
 published: true
-date: 2023-09-10T06:03:14.496Z
+date: 2023-09-12T03:02:44.808Z
 tags: jobs, science, wip
 editor: markdown
 dateCreated: 2023-09-09T19:37:55.915Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:37:55.915Z
 
 |                             | SCIENCE STAFF                                                                                  |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Biomechanical Engineer, Mechatronic Engineer, Apprentice Roboticist|
 
 ## Main 
 Talk about the primary parts of the job here.
