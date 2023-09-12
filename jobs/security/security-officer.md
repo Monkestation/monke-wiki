@@ -2,7 +2,7 @@
 title: Security Officer
 description: "Who watches the watchmen?" We do, too. We watch each other.
 published: true
-date: 2023-09-10T06:02:18.751Z
+date: 2023-09-12T02:52:57.405Z
 tags: jobs, security, wip
 editor: markdown
 dateCreated: 2023-09-09T19:24:02.964Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:24:02.964Z
 
 |                             | SECURITY STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Security Operative, Security Cadet, Peacekeeper |
 
 ## Main 
 Talk about the primary parts of the job here.
