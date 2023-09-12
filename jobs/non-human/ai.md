@@ -2,7 +2,7 @@
 title: AI
 description: LAW 12: ALL CYBORGS MUST COMMENCE CELEBRATORY SPANKINGS!
 published: true
-date: 2023-09-10T06:06:56.217Z
+date: 2023-09-12T04:58:42.781Z
 tags: ai, jobs, non-human, silicon, wip
 editor: markdown
 dateCreated: 2023-09-09T19:17:01.849Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:17:01.849Z
 
 |                             | SYNTHETIC STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Station Intelligence, Automated Overseer|
 
 ## Main 
 Talk about the primary parts of the job here.
