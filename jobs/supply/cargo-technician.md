@@ -2,7 +2,7 @@
 title: Cargo Technician
 description: I get pushed around more than the cargo.
 published: true
-date: 2023-09-10T05:57:52.615Z
+date: 2023-09-12T03:13:20.442Z
 tags: cargonia, jobs, supply, wip
 editor: markdown
 dateCreated: 2023-09-09T20:21:43.990Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:21:43.990Z
 
 |                             | SUPPLY STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Union Associate, Inventory Associate, Mailman, Deck Worker, Warehouse Technician|
 
 ## Main 
 Talk about the primary parts of the job here.
