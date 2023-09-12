@@ -2,7 +2,7 @@
 title: Shaft Miner
 description: I don't need the GPS, right? - miner who was captured by legion 5 minutes into the shift.
 published: true
-date: 2023-09-10T05:57:23.887Z
+date: 2023-09-12T03:13:48.782Z
 tags: cargonia, jobs, supply, wip
 editor: markdown
 dateCreated: 2023-09-09T20:26:15.470Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:26:15.470Z
 
 |                             | SUPPLY STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Prospector, Drill Technician, Spelunker, Excavator, Union Miner|
 
 ## Main 
 Talk about the primary parts of the job here.
