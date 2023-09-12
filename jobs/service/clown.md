@@ -2,7 +2,7 @@
 title: Clown
 description: HONK!
 published: true
-date: 2023-09-10T05:59:55.342Z
+date: 2023-09-12T04:52:45.066Z
 tags: clown, jobs, service
 editor: markdown
 dateCreated: 2023-09-09T20:51:07.333Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:51:07.333Z
 
 |                             | SERVICE STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Jester, Joker, Comedian|
 
 ## Main 
 Talk about the primary parts of the job here.
