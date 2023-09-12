@@ -2,7 +2,7 @@
 title: Paramedic
 description: How does it taste? -Question posed to station paramedics by paramilitary forces
 published: true
-date: 2023-09-10T06:07:26.966Z
+date: 2023-09-12T03:07:04.874Z
 tags: jobs, medical, wip
 editor: markdown
 dateCreated: 2023-09-09T20:10:39.778Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:10:39.778Z
 
 |                             | MEDICAL STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Emergency Medican Technician, Search and Rescue Technician|
 
 ## Main 
 Talk about the primary parts of the job here.
