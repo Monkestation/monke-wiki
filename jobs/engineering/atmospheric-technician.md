@@ -2,7 +2,7 @@
 title: Atmospheric Technician
 description: I am at work. I can't leave work. Work is breathing. I am testing air quality. - Manfred Hayden, Atmospheric Technician
 published: true
-date: 2023-09-10T06:15:51.344Z
+date: 2023-09-12T02:59:10.439Z
 tags: engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T19:34:26.241Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:34:26.241Z
 
 |                             | ENGINEERING STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Life Support Technician, Emergency Fire Technician, Firefighter|
 
 ## Main 
 Talk about the primary parts of the job here.
