@@ -2,7 +2,7 @@
 title: Positronic Brain
 description: Domo arigato, Mr. Roboto.
 published: true
-date: 2023-09-12T05:20:29.864Z
+date: 2023-09-12T05:20:58.365Z
 tags: jobs, non-human, silicon, wip
 editor: markdown
 dateCreated: 2023-09-09T21:03:39.419Z
@@ -11,8 +11,8 @@ dateCreated: 2023-09-09T21:03:39.419Z
 # Positronic Brain
 
 |                             | SYNTHETIC STAFF                                                                                   |
-|-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access: N/A<br>Additional Access: N/A<br>Difficulty: Medium<br>Supervisors: The crew<br>Duties:Serve the crew<br>Guides:No external guides<br> |
+|:-----------------------------:|----------------------------------------------------------------------------------------------|
+| \[ job_image ]<br>Positronic Brain | Access: N/A<br>Additional Access: N/A<br>Difficulty: Medium<br>Supervisors: The crew<br>Duties:Serve the crew<br>Guides:No external guides<br> |
 
 ## Main 
 A positronic brain is an adorable little cube similar to a Man-Machine Interface -- but unlike the former, which relies on a brain yanked out of a real life crewmate, the positronic brain replicates a human mind from scratch, with the power of SCIENCE!
