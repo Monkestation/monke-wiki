@@ -2,7 +2,7 @@
 title: Blob
 description: Confirmed outbreak of level 5 biohazard aboard the station. All personnel must contain the outbreak.
 published: true
-date: 2023-09-12T22:18:00.513Z
+date: 2023-09-12T22:19:05.894Z
 tags: antagonist, jobs, level 5 biohazard, wip
 editor: markdown
 dateCreated: 2023-09-10T00:26:11.387Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-10T00:26:11.387Z
 
 | | EXTRATERRESTRIAL STAFF |
 |:---:|---|
-| \[ job_image ]<br>The Blob | Access: Anywhere you can eat your way into.<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>The Blob | Access: Anywhere you can eat your way into.<br>Difficulty: Hard<br>Supervisors: N/A<br>Duties: Spread onto the whole station<br>Guides: No external guides |
 
 Blob is a random event where a large blob infests the station and starts destroying everything its path, including walls, fixtures and creatures. The crew must destroy the blob to prevent it from destroying a pre-determined amount of the station, currently 400 tiles. Once the blob reaches critical mass, the blob has a minute or so to absolutely devour the station with its now insane spread rate and infinite resources. Only thing to do as crew at that point is to launch yourself to lavaland in an escape pod. 
 
