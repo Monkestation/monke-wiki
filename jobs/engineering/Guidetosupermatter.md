@@ -2,7 +2,7 @@
 title: Guide to Supermatter
 description: Oohhhh shiny!
 published: true
-date: 2023-09-12T02:34:07.729Z
+date: 2023-09-12T02:39:08.262Z
 tags: engineering, guides
 editor: markdown
 dateCreated: 2023-09-12T02:34:07.729Z
@@ -37,6 +37,8 @@ For Round start setup you will need
  
 ### The Classic
 This tutorial on how to tame the SM will use the most clasic setup using N2 or nitrogen gas to cool the SM
+
+TO BE FINISHED.
 
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
