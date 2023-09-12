@@ -2,7 +2,7 @@
 title: Research Director
 description: Nobody has seen the scientist who was working with the B.E.P.I.S. lately, the Toxins lab is gone and took my office with it, R&D looks like a bizarro town of machines and Robotics has enough firepower to take over the station. 
 published: true
-date: 2023-09-10T06:03:38.144Z
+date: 2023-09-12T02:50:39.253Z
 tags: command, jobs, science, wip
 editor: markdown
 dateCreated: 2023-09-09T19:01:40.456Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:01:40.456Z
 
 |                             | RESEARCH & COMMAND STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Silicon Administrator, Lead Researcher, Biorobotics Director, Research Supervisor, Chief Science Officer |
 
 ## Main 
 Talk about the primary parts of the job here.
