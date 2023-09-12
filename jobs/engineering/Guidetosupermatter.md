@@ -2,7 +2,7 @@
 title: Guide to Supermatter
 description: Oohhhh shiny!
 published: true
-date: 2023-09-12T14:23:34.408Z
+date: 2023-09-12T14:23:58.178Z
 tags: engineering, guides
 editor: markdown
 dateCreated: 2023-09-12T02:34:07.729Z
@@ -37,7 +37,7 @@ For Round start setup you will need
  
 ### The Classic
 This tutorial on how to tame the SM will use the most clasic setup using N2 or nitrogen gas to cool the SM
-| |The Classic Part 1|
+| The Classic Part 1
 |-----------------------|
 |![sm_part_1.png](/jobs/engineering/sm_part_1.png) <br> Pumps bad.| ![sm_part_2.png](/jobs/engineering/sm_part_2.png) <br> Pipes good! Remove the bypass entirely. 
 
