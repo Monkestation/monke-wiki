@@ -2,7 +2,7 @@
 title: Guide to Supermatter
 description: Oohhhh shiny!
 published: true
-date: 2023-09-12T14:04:19.662Z
+date: 2023-09-12T14:14:05.904Z
 tags: engineering, guides
 editor: markdown
 dateCreated: 2023-09-12T02:34:07.729Z
@@ -37,9 +37,24 @@ For Round start setup you will need
  
 ### The Classic
 This tutorial on how to tame the SM will use the most clasic setup using N2 or nitrogen gas to cool the SM
+| |The Classic Part 1|
+|-----------------------|
+|![sm_part_1.png](/jobs/engineering/sm_part_1.png) <br> Pumps bad.| ![sm_part_2.png](/jobs/engineering/sm_part_2.png) <br> Pipes good! Remove the bypass entirely. 
 
+ |The Classic Part 2|
+||
+|![sm_part_1.png](/jobs/engineering/sm_part_3.png) <br> Filters and Pumps bad.| ![sm_part_2.png](/jobs/engineering/sm_part_4.png) <br> Use layer connectors for upgrade potential. 
+ |The Classic Part 3|
+||
+|![sm_part_1.png](/jobs/engineering/sm_part_5.png) <br> The pumps arent good either| ![sm_part_2.png](/jobs/engineering/sm_part_6.png) <br> So we replace with more pipes!
+ |The Classic Part 4|
+||
+|![sm_part_1.png](/jobs/engineering/sm_part_7.png) <br> Wrench the N2 Tanks and turn on those pumps, they're good.| ![sm_part_2.png](/jobs/engineering/sm_part_8.png) <br> Go to the air alarm next to the SM. Vent controls should be like this.
+ |The Classic Part 5|
+||
+|![sm_part_1.png](/jobs/engineering/sm_part_9.png) <br> Now set the scrubbers.| ![sm_part_2.png](/jobs/engineering/sm_part_10.png) <br> Finally after every other step is done, start the power generation!  
 
-
+Good job! you just started a Supermatter! Now get the hell out of there as the SM has been started by the emitter fire and will produce radiation.
 
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
