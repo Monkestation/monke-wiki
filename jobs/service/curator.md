@@ -2,7 +2,7 @@
 title: Curator
 description: This belongs in the museum!
 published: true
-date: 2023-09-10T05:59:28.568Z
+date: 2023-09-12T04:54:44.858Z
 tags: curator, jobs, service
 editor: markdown
 dateCreated: 2023-09-09T20:54:11.064Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:54:11.064Z
 
 |                             | SERVICE STAFF                                                                                 |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Librarian, Journalist, Activist|
 
 ## Main 
 Talk about the primary parts of the job here.
