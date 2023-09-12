@@ -2,7 +2,7 @@
 title: Cook
 description: No, officer - I'm using their corpses for food.
 published: true
-date: 2023-09-10T05:59:41.846Z
+date: 2023-09-12T04:51:57.755Z
 tags: jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T20:48:07.468Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:48:07.468Z
 
 |                             | SERVICE STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Chef, Butcher, Culinary Artist, Sous-Chef|
 
 ## Main 
 Talk about the primary parts of the job here.
