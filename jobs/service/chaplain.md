@@ -2,7 +2,7 @@
 title: Chaplain
 description: There's something about the vast infinity of space that turns men to prayer. Especially if they get thrown into it without a space suit.
 published: true
-date: 2023-09-10T06:00:09.061Z
+date: 2023-09-12T04:53:32.305Z
 tags: chaplain, jobs, service
 editor: markdown
 dateCreated: 2023-09-09T20:53:25.458Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:53:25.458Z
 
 |                             | SERVICE STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Priest, Preacher, Reverend, Oracle, Pontifex, Magister, High Priest, Imam, Rabbi, Monk|
 
 ## Main 
 Talk about the primary parts of the job here.
