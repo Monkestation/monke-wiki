@@ -2,7 +2,7 @@
 title: Station Engineer
 description: I'll fix the power as soon as I'm off my lunch break.
 published: true
-date: 2023-09-12T02:58:48.033Z
+date: 2023-09-12T14:27:59.994Z
 tags: engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T19:33:25.023Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:33:25.023Z
 
 |                             | ENGINEERING STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>Station Engineer | Access: Engineering, Telecommunications, Airlocks, Maintence<br>Additional Access:Atmospherics<br>Difficulty:Medium<br>Supervisors:[Chief-engineer](/jobs/engineering/chief-engineer), [Captain](/jobs/command/captain)<br>Duties:Keep the power on, fix breaches, ~~Build a deathtrap~~<br>Guides:[Guide to the Tesla and Singularity](/jobs/engineering/GuidetoTesSing)<br>Alternate Titles: Assistant 2.0 \(meme, totally not in game), Emergency Damage Control Technician, Electrician, Engine Technician, EVA Technician, Mechanic, Apprentice Engineer, Engineering Trainee |
+| \[ job_image ]<br>Station Engineer | Access: Engineering, Telecommunications, Airlocks, Maintence<br>Additional Access:Atmospherics<br>Difficulty:Medium<br>Supervisors:[Chief-engineer](/jobs/engineering/chief-engineer), [Captain](/jobs/command/captain)<br>Duties:Keep the power on, fix breaches, ~~Build a deathtrap~~<br>Guides:[Guide to the Tesla and Singularity](/jobs/engineering/GuidetoTesSing), [Guide to the Supermatter](/jobs/engineering/Guidetosupermatter)<br>Alternate Titles: Assistant 2.0 \(meme, totally not in game), Emergency Damage Control Technician, Electrician, Engine Technician, EVA Technician, Mechanic, Apprentice Engineer, Engineering Trainee |
 
 # HEADS UP! This is also the Guide to Engineering
 
@@ -40,7 +40,7 @@ These 3 main items will allow you to observe, manipulate, and ~~control the stat
 There are other items in engineering that can greatly assist your work but are in much more limited supply, an example is the engineering hardsuits (only 3) which wont be enough if the station is full of engineers. These pieces of equipment should be perserved due to how useful they are for preforming critical repairs.
 ### Looting over, work now.
 Step 1 - **START THE ENGINE**
-Whether its the {SM LINK}Sm or [Tesla/Singularity](/jobs/engineering/GuidetoTesSing) you need to get the power generation started fast, as the station really likes sucking whatever little power the SMES start with. PS: dont forget to set the SMES!
+Whether its the [SM](/jobs/engineering/Guidetosupermatter) or [Tesla/Singularity](/jobs/engineering/GuidetoTesSing) you need to get the power generation started fast, as the station really likes sucking whatever little power the SMES start with. PS: dont forget to set the SMES!
 
 Step 2 - Backup power systems.
 The main backup power system in the station is the solar arrays, you will need a spaceproof suit and plenty of extra wire. These systems do not generate enough power to supply the station on its own, but will delay power loss in an emergency.
