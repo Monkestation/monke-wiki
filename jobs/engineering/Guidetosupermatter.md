@@ -2,7 +2,7 @@
 title: Guide to Supermatter
 description: Oohhhh shiny!
 published: true
-date: 2023-09-12T14:23:17.095Z
+date: 2023-09-12T14:23:34.408Z
 tags: engineering, guides
 editor: markdown
 dateCreated: 2023-09-12T02:34:07.729Z
@@ -59,6 +59,8 @@ Good job! you just started a Supermatter! Now get the hell out of there as the S
 ## Gas interactions
 The supermatter will influence and get influenced by the various gases in the SM, the reason roundstart uses N2 is because it does not boost the SM in any way and is decent at keeping it cool.
 Here is every interacting gas and what it will do
+
+STILL WIP, EXPECT SOON.
 
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
