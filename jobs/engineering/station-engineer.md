@@ -2,7 +2,7 @@
 title: Station Engineer
 description: I'll fix the power as soon as I'm off my lunch break.
 published: true
-date: 2023-09-11T04:02:21.477Z
+date: 2023-09-12T02:58:48.033Z
 tags: engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T19:33:25.023Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:33:25.023Z
 
 |                             | ENGINEERING STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>Station Engineer | Access: Engineering, Telecommunications, Airlocks, Maintence<br>Additional Access:Atmospherics<br>Difficulty:Medium<br>Supervisors:[Chief-engineer](/jobs/engineering/chief-engineer), [Captain](/jobs/command/captain)<br>Duties:Keep the power on, fix breaches, ~~Build a deathtrap~~<br>Guides:[Guide to the Tesla and Singularity](/jobs/engineering/GuidetoTesSing)<br>Alternate Titles: Assistant 2.0 |
+| \[ job_image ]<br>Station Engineer | Access: Engineering, Telecommunications, Airlocks, Maintence<br>Additional Access:Atmospherics<br>Difficulty:Medium<br>Supervisors:[Chief-engineer](/jobs/engineering/chief-engineer), [Captain](/jobs/command/captain)<br>Duties:Keep the power on, fix breaches, ~~Build a deathtrap~~<br>Guides:[Guide to the Tesla and Singularity](/jobs/engineering/GuidetoTesSing)<br>Alternate Titles: Assistant 2.0 \(meme, totally not in game), Emergency Damage Control Technician, Electrician, Engine Technician, EVA Technician, Mechanic, Apprentice Engineer, Engineering Trainee |
 
 # HEADS UP! This is also the Guide to Engineering
 
