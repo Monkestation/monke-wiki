@@ -2,7 +2,7 @@
 title: Chief Engineer
 description: "WHO TOOK THE DAMN MODSUITS!?" - Poly and every single one of his masters
 published: true
-date: 2023-09-12T02:49:52.964Z
+date: 2023-09-12T14:28:57.202Z
 tags: command, engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T18:46:45.899Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T18:46:45.899Z
 
 |                             | ENGINEERING & COMMAND STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| ![generic_ce.png](/jobs/engineering/generic_ce.png) | Access: Engineering, Telecommunications, Maintenence, Bridge, Brig, Airlocks<br>Additional Access:<br>Difficulty: Hard<br>Supervisors: [Captain](/jobs/command/captain)<br>Duties: Coordinate [Engineers](/jobs/engineering/station-engineer) and [Atmos-techs](/jobs/engineering/atmospheric-technician), Keep the engine alive, Keep telecommunications alive<br>Guides:[Guide to the Tesla and Singularity](/jobs/engineering/GuidetoTesSing)<br>Alternate Titles: Head of Engineering, Engineering Foreman |
+| ![generic_ce.png](/jobs/engineering/generic_ce.png) | Access: Engineering, Telecommunications, Maintenence, Bridge, Brig, Airlocks<br>Additional Access:<br>Difficulty: Hard<br>Supervisors: [Captain](/jobs/command/captain)<br>Duties: Coordinate [Engineers](/jobs/engineering/station-engineer) and [Atmos-techs](/jobs/engineering/atmospheric-technician), Keep the engine alive, Keep telecommunications alive<br>Guides:[Guide to the Tesla and Singularity](/jobs/engineering/GuidetoTesSing), [Guide to the Supermatter](/jobs/engineering/Guidetosupermatter)<br>Alternate Titles: Head of Engineering, Engineering Foreman |
 
 ## Job Description 
 The Chief Engineer is suppossed to be a senior engineer that has the know how to keep the engineering department functional. Ontop of maintaining engineering the Chief Engineer is excpected to be able to assist and teach others in how to keep the most important department of the station alive.
