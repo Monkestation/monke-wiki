@@ -2,7 +2,7 @@
 title: Psychologist
 description: Show me on the moth plush where the clown touched you.
 published: true
-date: 2023-09-10T05:58:23.297Z
+date: 2023-09-12T04:56:50.259Z
 tags: drugs, jobs, medical, psychologist, service
 editor: markdown
 dateCreated: 2023-09-09T20:58:20.989Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:58:20.989Z
 
 |                             | SERVICE & MEDICAL STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Therapist, Psychiatrist, Counsellor|
 
 ## Main 
 Talk about the primary parts of the job here.
