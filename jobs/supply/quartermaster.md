@@ -2,17 +2,17 @@
 title: Quartermaster
 description: Cargo, move cargo. Miners, don't die. -Legendary Quartermaster
 published: true
-date: 2023-09-10T05:57:38.360Z
+date: 2023-09-12T02:51:57.020Z
 tags: command, jobs, supply
 editor: markdown
 dateCreated: 2023-09-09T19:15:36.944Z
 ---
 
-# JOB_TITLE
+# Quartermaster
 
 |                             | SUPPLY & COMMAND STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Union Requisitions Officer, Deck Chief, Warehouse Supervisor, Supply Foreman, Head of Supply, Logistics Coordinator |
 
 ## Main 
 Talk about the primary parts of the job here.
