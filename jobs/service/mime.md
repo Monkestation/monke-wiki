@@ -2,7 +2,7 @@
 title: Mime
 description: ...
 published: true
-date: 2023-09-10T05:58:36.959Z
+date: 2023-09-12T04:52:59.006Z
 tags: jobs, mime, service
 editor: markdown
 dateCreated: 2023-09-09T20:51:45.502Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:51:45.502Z
 
 |                             | SERVICE STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Pantomimist|
 
 ## Main 
 Talk about the primary parts of the job here.
