@@ -2,7 +2,7 @@
 title: Detective
 description: I'm gonna find the bastard that did this...
 published: true
-date: 2023-09-10T06:02:54.945Z
+date: 2023-09-12T02:56:24.536Z
 tags: jobs, security, wip
 editor: markdown
 dateCreated: 2023-09-09T19:31:09.049Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:31:09.049Z
 
 |                             | SECURITY STAFF                                                                                  |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Forensic Scientist, Forensic Technician, Private Investigator |
 
 ## Main 
 Talk about the primary parts of the job here.
