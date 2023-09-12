@@ -2,7 +2,7 @@
 title: Medical Doctor
 description: Doktor, turn off my pain inhibitors! -Cybernetically Enhanced Bodyguard
 published: true
-date: 2023-09-10T06:07:38.106Z
+date: 2023-09-12T03:05:50.678Z
 tags: jobs, medical
 editor: markdown
 dateCreated: 2023-09-09T20:08:35.590Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:08:35.590Z
 
 |                             | MEDICAL STAFF                                                                                  |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Surgeon, Nurse, General Practitioner, Medical Resident, Physician |
 
 ## Main 
 Talk about the primary parts of the job here.
