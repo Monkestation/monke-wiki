@@ -2,7 +2,7 @@
 title: Botanist
 description: This is the Captain speaking, a reward will be issued for whoever brings in the Botanist who littered the hallways with miniature banana peels, thank you.
 published: true
-date: 2023-09-10T05:02:14.827Z
+date: 2023-09-12T04:52:23.808Z
 tags: botany, jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T20:43:22.865Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:43:22.865Z
 
 |                             | SERVICE STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Hydroponicist, Gardener, Botanical Researcher, Herbalist, Florist, Rancher|
 
 ## Main 
 Talk about the primary parts of the job here.
