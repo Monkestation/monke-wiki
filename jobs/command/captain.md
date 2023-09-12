@@ -2,7 +2,7 @@
 title: Captain
 description: Captain is condom. -AI
 published: true
-date: 2023-09-10T06:18:17.395Z
+date: 2023-09-12T02:27:04.627Z
 tags: command, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T18:33:46.578Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T18:33:46.578Z
 
 |                             | COMMAND STAFF                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Site Manager, Station Commander, Commanding Officer |
 
 ## Main 
 Talk about the primary parts of the job here.
