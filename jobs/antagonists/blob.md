@@ -2,7 +2,7 @@
 title: Blob
 description: Confirmed outbreak of level 5 biohazard aboard the station. All personnel must contain the outbreak.
 published: true
-date: 2023-09-12T22:19:05.894Z
+date: 2023-09-13T21:09:34.215Z
 tags: antagonist, jobs, level 5 biohazard, wip
 editor: markdown
 dateCreated: 2023-09-10T00:26:11.387Z
@@ -192,3 +192,6 @@ Atmospheric Technician: Grab a welder and fight the blob. Don't you fucking dare
 ### Security
 
 Grab lasers from the armory, unwrench some rechargers, set them out near the blob, pew pew pew pew. Pretty damn self-explanatory what you should be doing. 
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
