@@ -2,7 +2,7 @@
 title: Holoparasite
 description: ATATATATATATATATATATAT
 published: true
-date: 2023-09-13T02:10:14.958Z
+date: 2023-09-13T21:09:57.402Z
 tags: antagonist, dusty shard, guardian spirit, jobs, power miner, wip
 editor: markdown
 dateCreated: 2023-09-10T00:30:19.637Z
@@ -92,3 +92,6 @@ Has two modes, and can deploy a bluespace beacon and warp targets to it (includi
 ## Healer
 
 Heals instead of damages, but has low damage resist and slow movement. 
+
+# The Duke Themselves
+<iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
