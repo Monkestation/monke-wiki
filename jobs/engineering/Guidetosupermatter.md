@@ -2,7 +2,7 @@
 title: Guide to Supermatter
 description: Oohhhh shiny!
 published: true
-date: 2023-09-14T21:21:36.911Z
+date: 2023-09-14T21:44:58.842Z
 tags: engineering, guides
 editor: markdown
 dateCreated: 2023-09-12T02:34:07.729Z
@@ -59,7 +59,16 @@ Good job! you just started a Supermatter! Now get the hell out of there as the S
 ## Gas interactions
 The supermatter will influence and get influenced by the various gases in the SM, the reason roundstart uses N2 is because it does not boost the SM in any way and is decent at keeping it cool.
 Here is every interacting gas and what it will do
-
-
+| Gas    | Danger |Description |Notables |Effects |
+|-|-|-|-|-|
+| ![hyper_nob.png](/jobs/engineering/hyper_nob.png)  <br> Hyper-nobelium   | -100%       |Stops gas reactions (Like fires) when more then 5 moles are present per tile. Decreases waste output of SM and Increases power gen a bit. | - Effectively stops waste production <br> - 1 part of resonance cascade |- Power Transmission +30% <br> - Waste Multiplier -1400% <Br> - Heat Power Gen -100%|
+| ![helium.png](/jobs/engineering/helium.png) <br> Helium  | -100%       |Completely non reactive gas to cool the SM |None |N/A |
+| ![freon.png](/jobs/engineering/freon.png) <br> Freon  | -50%  | When the SM gasses become 30% freon power transmission will stop. This will cause the SM to rapidly cool, also has a higher heat capacity then plasma so great for absorbing heat. When very cool it will turn into hot ice which can cause a plasma fire if not handled with caution.|Great at cooling, can become disasterous if not managed |- Power Transmission -300% <br> - Waste Multiplier -900% <br> - Heat Powergain -100% |
+| ![protonitr.png](/jobs/engineering/protonitr.png) <br> Proto-Nitrate  | -30%        | This gas is just a good worker. Increases power generation while adding heat resistance to the SM. It will also make more power at the higher heats you can now achive! |No Downsides. | - Power Transmission +150% <br> - Waste Multiplier -400% <br> - Heat Resistance +400% (You can have the SM on fire and be fine) <br> - Heat Powergain +100% |
+| ![n2.png](/jobs/engineering/n2.png) <br> Nitrogen  | 0% (baseline)        | Nitrogen gas is your run of the mill safe gas for long term SM use. Even hampers plasma generation from the sm! | Abundant and safe! |- Waste Multiplier -250% <br> - Heat Powergain -100% |
+| ![pluox.png](/jobs/engineering/pluox.png) <br> Pluoxium | 0%        | This gas while useful for internals mainly distrupts CO2 SMs by canceling out any benefits of CO2, then acts like Nitrogen. Get it out of your SM asap. | A worse Nitrogen |- Power transmission -50% <br> - Waste Multiplier -150% <br> - Heat Powergain -100% |
+| Paragraph   | Text        |Description |Description |Description |
+| Paragraph   | Text        |Description |Description |Description |
+| Paragraph   | Text        |Description |Description |Description |
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
