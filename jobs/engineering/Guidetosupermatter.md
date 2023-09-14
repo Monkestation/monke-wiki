@@ -2,7 +2,7 @@
 title: Guide to Supermatter
 description: Oohhhh shiny!
 published: true
-date: 2023-09-14T21:44:58.842Z
+date: 2023-09-14T22:05:40.624Z
 tags: engineering, guides
 editor: markdown
 dateCreated: 2023-09-12T02:34:07.729Z
@@ -67,6 +67,15 @@ Here is every interacting gas and what it will do
 | ![protonitr.png](/jobs/engineering/protonitr.png) <br> Proto-Nitrate  | -30%        | This gas is just a good worker. Increases power generation while adding heat resistance to the SM. It will also make more power at the higher heats you can now achive! |No Downsides. | - Power Transmission +150% <br> - Waste Multiplier -400% <br> - Heat Resistance +400% (You can have the SM on fire and be fine) <br> - Heat Powergain +100% |
 | ![n2.png](/jobs/engineering/n2.png) <br> Nitrogen  | 0% (baseline)        | Nitrogen gas is your run of the mill safe gas for long term SM use. Even hampers plasma generation from the sm! | Abundant and safe! |- Waste Multiplier -250% <br> - Heat Powergain -100% |
 | ![pluox.png](/jobs/engineering/pluox.png) <br> Pluoxium | 0%        | This gas while useful for internals mainly distrupts CO2 SMs by canceling out any benefits of CO2, then acts like Nitrogen. Get it out of your SM asap. | A worse Nitrogen |- Power transmission -50% <br> - Waste Multiplier -150% <br> - Heat Powergain -100% |
+| ![n2o.png](/jobs/engineering/n2o.png) <br> Nitrous Oxide | 10%        |N~2~O is great at stopping a delamination from heat. Except that it decays at high heat into O2 and N2, Oxygen of course is bad for the SM and should be avoided. Use this to stop a heat delam in its tracks. | Great heat resistance |- Heat Resistance +500%|
+| ![o2.png](/jobs/engineering/o2.png) <br> Oxygen  | 20%        |Oxygen is the first of the gases that can make a SM run better. Thanks to it being a very low level booster it doesnt have active downsides but can spell disaster for an unprepared engineer. The SM produces small amounts of plasma and high oxygen plasma fires trigger tritium production, Tritium fires are horifying on their own. Inside a sm? You better call the shuttle. | Doesnt technically have a downside |- Power Transmission +15% <br> - Heat powergain +100% |
+| ![miasma.png](/jobs/engineering/miasma.png) <br> Miasma | 20%        |Consumed by the sm directly to produce more power. About 10Mev/Cm^3 per mole |Directly consumed by SM |- Heat Powergain +50% |
+| ![healium.png](/jobs/engineering/healium.png) <br> Healium | 30%        |Healium is pretty bad in the SM, therfore do not waste it on the SM, the atmos techs and their HFR can use it alot more then you. Its benefits are very much weighed down by its penalties. |Much better uses outside SM |- Power Trasnmission +24% <br> - Waste Multiplier +300% <br> - Heat Powergain +100% |
+| ![halon.png](/jobs/engineering/halon.png) <br> halon  | 35%        | Just like Healium this gas has much better uses outside the SM. But this gas provide **Nothing** to the SM, all it does is create much more dangerous gasses with less dangerous ones.| Turns O2 into CO2 |Nothing |
+| ![co2.png](/jobs/engineering/co2.png) <br> Carbon Dioxide| 30%        |CO2 is what many engineers make their SM on if they need power. CO2 will greatly increase power generation but is very dangerous to run as it is quite easy to charge delam (Read: Tesloose). Make sure you have backup cooling systems and are ready to cut the emitters if using this gas. |Suprisingly little active downsides, Still dangerous |- Waste Multiplier +100% <br> - Heat Powergain +100% <br> - Power Decay Negation +100% |
+| ![zauk.png](/jobs/engineering/zauk.png) <br> Zauker  | 40%        |Zauker is a much better CO2 but its downsides didnt scale as much. Only problem is finding this rare gas. |Extreme energy boost for downsides |- Power Transmission +200% <br> - Waste Multiplier +400% <br> - Heat Powergeneration +100% |
+| ![bz.png](/jobs/engineering/bz.png) <br> BZ | 50%  (DANGER)   |Do you want to get bwoinked? Use this gas! It shoots fusion particles that penetrate radsuits and even the CE's Modsuit. It also drops power transmission. |Weaponizes the SM |- Power Transmission -20% <br> - Waste Multiplier +400% <br> - Heat Powergain + 100% |
+| ![h2o.png](/jobs/engineering/h2o.png) <br> H~2~O  | 55% (DANGER)       |BZ gas but even angrier. Gets made in the SM during plasma fires. GET THIS OUT OF THE SM FAST. |Doesnt have the BZ fusion particles |- Power Transmission -25% <br> - Waste Multiplier +**1100%** <br> - Heat Power Generation +100%|
 | Paragraph   | Text        |Description |Description |Description |
 | Paragraph   | Text        |Description |Description |Description |
 | Paragraph   | Text        |Description |Description |Description |
