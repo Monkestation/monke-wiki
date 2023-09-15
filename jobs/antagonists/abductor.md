@@ -2,7 +2,7 @@
 title: Abductor
 description: Ayy lmao
 published: true
-date: 2023-09-14T17:53:56.617Z
+date: 2023-09-15T03:09:04.330Z
 tags: antagonist, ayy lmao, jobs, wip
 editor: markdown
 dateCreated: 2023-09-10T00:29:04.033Z
@@ -97,7 +97,14 @@ Step 5: Do the surgery (see the steps below!).
 
 ## Experimental Organ Replacement
 
-[ table ]
+| --- | --- |
+<td colspan=2 rowspan=7> <center> **Experimental Organ Replacement** <br>Lets you place<br>alien organs into<br>a target subject.<br><br>  **Target** <br><img src="/minified-icons/surgery/hud-target.gif" width = 96 height = 96> <br>Chest | ![](/minified-icons/surgery/scalpel.png) Make an incision. | ![](/minified-icons/surgery/shard.png) 45%, ![](/minified-icons/surgery/knife.png)65%, ![](/minified-icons/surgery/sword.gif) 75% |
+| |![](/minified-icons/surgery/retractor.png) Retract the skin. | ![screwdriver_tool.png](/minified-icons/surgery/screwdriver_tool.png) 45%, ![wirecutters.png](/minified-icons/surgery/wirecutters.png) 35% |
+| |![](/minified-icons/surgery/hemostat.png) Clamp bleeders |![crowbar.png](/minified-icons/surgery/crowbar.png) 55%, ![fork.png](/minified-icons/surgery/fork.png) 35%|
+| |![](/minified-icons/surgery/scalpel.png) Make an incision. |![](/minified-icons/surgery/shard.png) 45%, ![](/minified-icons/surgery/knife.png)65%, ![](/minified-icons/surgery/sword.gif) 75% |
+| |![](/minified-icons/surgery/hud-hands.gif) Remove unnecessary organs | |
+| |Place chosen gland into target | |
+| |![](/minified-icons/surgery/cautery.png) Seal the Wound |![laser_gun.png](/minified-icons/surgery/laser_gun.png) 90%, ![welder.png](/minified-icons/surgery/welder.png) 70%, ![lighter.png](/minified-icons/surgery/lighter.png) 45%, ![match.png](/minified-icons/surgery/match.png) 20%|
 
 # Ship Equipment
 
