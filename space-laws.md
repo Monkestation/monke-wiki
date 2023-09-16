@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-09-16T20:25:11.877Z
+date: 2023-09-16T20:28:23.404Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -31,7 +31,7 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 | 11  |     | Disruptive Communications | Discriminatory Language | Insubordination | Corporate Fraud |     |     |
 | 12  |     |     | Fine Evasion | Fraud | Identity Theft |     |     |
 | 13  |     |     |     | Genetic Mutilation |     |     |     |
-{.css2}
+{.red-table}
   
  
 
