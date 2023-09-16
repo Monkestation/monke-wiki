@@ -2,7 +2,7 @@
 title: Atmospheric Technician
 description: I am at work. I can't leave work. Work is breathing. I am testing air quality. - Manfred Hayden, Atmospheric Technician
 published: true
-date: 2023-09-16T07:08:36.582Z
+date: 2023-09-16T07:32:44.516Z
 tags: engineering, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T19:34:26.241Z
@@ -189,6 +189,24 @@ DO NOT spray a Supermatter engine with atmos resin if you don't want it to delam
 - The Fire Axe Cabinet can be opened with a multitool.
 - You can disable fire alarms by multitooling them.
 - You can trigger fire alarms by shooting them with a projectile or hitting them with anything.
+
+# Oxygen is Overrated
+
+Traitor atmos techs have the potential to become one of the most devastating forces on station. If you know what you're doing, you can pretty much flood the station with whatever harmful gas you want. If you do, remember to take measures against the AI messing with your work, and always keep your internals on. This means either subverting the AI or cutting its access. If you're feeling particularly daring, you can unwrench the pipes and rearrange them, ensuring the AI cannot fix it. Bolt the doors, or set the room on fire to prevent humans from fixing it too. Depending on how bad it's going to be, you might want to procure a space suit to escape the hell you've created.
+
+Your powers aren't just limited to grand sabotage of the station's life support and air. Using gas synthesis, the Hyper-torus Fusion Reactor and the Crystallizer you can make some pretty nifty gasses and items from said gas! Super flammable gas, stun immunity stimulant gasses, healing gas, crystallized N2O gas grenades, Elder Atmosian armor and many more things. Sure, it'll take forever to make any of this stuff compared to just flooding a place with deadly gas, but the cool and style factor by knowing how to make these things will grant you respect even amongst your enemies. 
+
+## Tips for Traitoring
+
+- Again, ninety-plus percent of people don't know jack shit about Atmospherics.
+- There are some people that know about atmospherics, you can ask the Chief Engineer or certain atmospheric technicians.
+- The incinerator can easily be used to create canisters of pure death.
+- Plasma + N2O is extremely deadly if you can get someone to use it as internals/force them to use it. They won't even be able to scream.
+- Wielded fire-axes break grilles and reinforced windows. In one shot. And open unpowered doors and kill people fairly reliably.
+- You can change sensor settings on air alarms so it doesn't cause an alarm by setting the value to 1, which turns that sensor off. Do it for all sensors and you can get rid of pesky alarms that are pretty much already fixed, or hide atmos fuckery.
+- Make Tier 2 Burn mix canisters with heating 15% plasma, 85% oxygen in a tier 2 canister, wait until it's ready then drag it somewhere and crack it open at max before running, it will cause a hellacious plasma fire that will mass-melt the floor and people into space.
+- flood the station with harmful gasses by putting the "plasma to pure" pipe at max, "Grey pure to mix" at max, "plasma mixture node 2" to 100%, "Pure to Mix" at max, "Mix to Distro" at max. For a fine touch, turn on "Mix to engine", set it to max if you feel generous with plasma. then you set all the fire alarm hazard thresholds for plasma at -1.00 and set the thing to draught to flood, repeat for every fire alarm.
+- You can make a powerful single-tank bomb assembly gas mix by pumping in 2553kPa of plasma heated to 698.15 Kelvin into an empty handheld oxygen tank (not the small emergency ones).
 
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
