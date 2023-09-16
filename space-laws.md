@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-09-16T20:24:03.399Z
+date: 2023-09-16T20:25:11.877Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -14,15 +14,6 @@ Space Law is a collection of rules and regulations enacted by Nanotrasen which h
 
 # The Law: Crime Codes
 
-<style>
-  .css2 {
-    background-color: tomato;
-}
-/* overwrite background again */
-.css2 tbody tr + tr td + td + td { 
-    background-color: inherit;
-}
- </style>
 Refer to Glossary of Crimes at the end for a description of each crime.
 
 | Code | MXX - Modifier | 0XX - Infraction | 1XX - Minor | 2XX - Medium | 3XX - Major | 4XX - Felony | XXX - Capital |
