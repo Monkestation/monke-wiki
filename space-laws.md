@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-09-16T20:38:06.616Z
+date: 2023-09-16T20:44:08.931Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -11,9 +11,6 @@ dateCreated: 2023-09-06T06:05:09.947Z
 # Summary
 
 Space Law is a collection of rules and regulations enacted by Nanotrasen which has oversight through CentCom and is enforced by the Sec Officers on the station. Space Law applies to all ranks and positions on station, from the lowliest Assistant to the highest Captain, all are equal under the eyes of the Law and ultimately answer to it. As such, a good working knowledge of Space Law is important for any person on the station, though a  more in-depth understanding of space law is required for such positions as the Lawyer, Warden, and the Head of Security.
-<style>
-  .theme--dark .v-main .contents table tr td:nth-child(2n){background-color:red}
-  </style>
 # The Law: Crime Codes
 
 Refer to Glossary of Crimes at the end for a description of each crime.
@@ -33,7 +30,7 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 | 11  |     | Disruptive Communications | Discriminatory Language | Insubordination | Corporate Fraud |     |     |
 | 12  |     |     | Fine Evasion | Fraud | Identity Theft |     |     |
 | 13  |     |     |     | Genetic Mutilation |     |     |     |
- 
+{.test} 
 
 ---
 
