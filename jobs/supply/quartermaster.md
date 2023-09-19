@@ -2,7 +2,7 @@
 title: Quartermaster
 description: Cargo, move cargo. Miners, don't die. -Legendary Quartermaster
 published: true
-date: 2023-09-19T06:04:29.393Z
+date: 2023-09-19T06:48:13.791Z
 tags: command, jobs, supply
 editor: markdown
 dateCreated: 2023-09-09T19:15:36.944Z
@@ -63,6 +63,41 @@ You start with quite a few credits, so here are some good first choices for the 
 Eventually, you'll get a feel for what different people want. The Roboticist will almost always want either metal and glass, while the Virologist will perhaps want a Virus crate. The Bartender might want to borrow a circular saw for his shotgun, and the Botanist might want seeds.
 
 One of the marks of a good Quartermaster is the ability to anticipate someone's order and have it ready for them. This often means keeping a stock of insulated gloves and welding masks (if you're the type to hand those out to certain people) and checking out who walks in. If you just hand out everything to everyone, you are a security risk. Use your own judgement - an Assistant should not have an RCD, but an Engineer definitely should. Likewise, the clown should not have a combat shotgun, but Security can have one if they want it.
+
+## Requisition Me a Beat(ing)
+
+"Fun is Contraband. And we're all about contraband."
+
+Many members of the station know that the QM can make things they aren't supposed to, and most security officers will overlook a little recreational hacking, especially with your new command status. Hack the Autolathe to make nifty toys like RCDs and Flamethrowers. You don't even need a multitool for this. Just snip and fix till you find the one that turns off the blue light - Remember your rubber gloves, because the green light makes it shock you. As long as you don't try to wall off Cargonia with an RCD, most people will forgive you for being prepared.
+
+It's common for the Quartermaster to, at the very least, enable the MULEbots' nonstandard cargo and speed the motor up, though you can also upgrade the power cell if you have spares. The MULE is one of your best tools as a Quartermaster, and can make your life (and subsequently the lives of the rest of the crew) so much better. 
+
+## More Mundane Contraband
+
+Contraband posters contain inappropriate themes that Nanotrasen has deemed too vulgar and have subsequently banned them from their space stations.
+
+How to obtain:
+
+- Get the circuitboard of your supply computer
+- Multitool it and set its receiver to the appropriate spectrum
+- Put it back in. You can now order contraband
+- Note that contraband is illegal. Security can do whatever they wish to it, and therefore you for bringing it on board
+
+## Being a good quest giver
+
+As a Quartermaster, your meta-job is to provide others around you with something to do. You should delegate as many tasks as you can instead of doing everything yourself. If done properly, it actually makes your life easier, and others' lives more interesting. While people are completing your quests, you should oversee the process and possibly reward them for being good at it.
+
+Here are some tasks worth delegating:
+
+- Unloading the cargo shuttle when it arrives. Look at what has been delivered so that nothing gets stolen, and watch your Cargo Technicians unload everything. Rip shipping manifests and stamp them -- for the sake of security, it's better to do the paperwork yourself.
+- One of your primary tasks is earning money through bounties.
+- The first step of delegating your needs is, of course, asking the roboticist to build that Ripley mech instead of doing it yourself.
+- If a miner gets downed, send somebody to fetch a miners' body. A miner is considered down if they don't respond to radio for more than a few minutes after entering lavaland. It's a good idea to always tell your miners to take a GPS and rename it to their in-game name with an ! at the front of it so its at the top of the list.
+- If something bad happens and the Detective wants to know who ordered guns, well, make sure that you always keep the requisition forms. Or, if you know too much about where it leads to, make sure nobody finds the forms and shipping manifests...
+
+Stay active in the Supplies radio channel. Make sure you always know what your people are doing.
+
+If you follow these tips, other players will like you and remember that shift when they were working with you. 
 
 # Tips
 
