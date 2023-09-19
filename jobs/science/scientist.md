@@ -2,7 +2,7 @@
 title: Scientist
 description: FUCKING SCIENCE. -Some amazing scientist before he exploded
 published: true
-date: 2023-09-19T03:31:43.776Z
+date: 2023-09-19T03:33:11.896Z
 tags: jobs, science, wip
 editor: markdown
 dateCreated: 2023-09-09T19:37:55.915Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:37:55.915Z
 
 | | SCIENCE STAFF |
 |:---:|------|
-| \[ job_image ]<br>Scientist | Access: Research Division, Xenobiology, Laboratories, Ordnance Storage<br>Additional Access: Robotics, Tech Storage, Genetics<br>Difficulty: Medium<br>Supervisors: Research Director<br>Duties:<br>Guides:<br>Alternate Titles: Circuitry Designer, Xenobiologist, Cytologist, Plasma Researcher, Anomalist, Lab Technician, Theoretical Physicist, Ordnance Technician, Xenoarchaeologist, Research Assistant, Graduate Student |
+| \[ job_image ]<br>Scientist | Access: Research Division, Xenobiology, Laboratories, Ordnance Storage<br>Additional Access: Robotics, Tech Storage, Genetics<br>Difficulty: Medium<br>Supervisors: Research Director<br>Duties: Do experiments, research, feed the slimes, and make bombs!<br>Guides: Guide to Research and Development, Guide to Ordnance, Guide to xenobiology, E.X.P.E.R.I-MENTOR, Guide to cytology, Guide to Circuits<br>Alternate Titles: Circuitry Designer, Xenobiologist, Cytologist, Plasma Researcher, Anomalist, Lab Technician, Theoretical Physicist, Ordnance Technician, Xenoarchaeologist, Research Assistant, Graduate Student |
 
 Scientist is one of the most feared and fun jobs on station. Being a scientist means you can either make a buttload of delicious weapons, tools and gadgets through research, breed colorful slimes, make delicious fun-packing bombs, or experiment with time and space themselves. As it is predictable with the station, most scientists are not satisfied with just blowing up their testing area and frequently go and spread their flavor of fun throughout the station. This is of course a really bad idea, often resulting in jobbans - but then again, delicious bombs.
 
