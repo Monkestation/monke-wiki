@@ -2,7 +2,7 @@
 title: Janitor
 description: Alright, who spilled the whole monkey on the floor?
 published: true
-date: 2023-09-11T01:12:00.168Z
+date: 2023-09-19T16:11:31.456Z
 tags: jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T20:28:37.285Z
@@ -10,9 +10,9 @@ dateCreated: 2023-09-09T20:28:37.285Z
 
 # Janitor
 
-|                             | SERVICE STAFF                                                                                   |
-|-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>Janitor | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors: Head of Personnel<br>Duties: Clean up the station, replace lights<br>Guides:<br>Alternate Titles: Custodian, Custodial Technician, Sanitational Technician, Maintenance Technician, Concierge, Maid|
+| | SERVICE STAFF |
+|-----|-------|
+| \[ job_image ]<br>Janitor | Access: Janitor's Closet, Maintenance<br>Additional Access: N/A<br>Difficulty: Easy<br>Supervisors: Head of Personnel<br>Duties: Clean up the station, replace lights<br>Guides: N/A<br>Alternate Titles: Custodian, Custodial Technician, Sanitational Technician, Maintenance Technician, Concierge, Maid|
 
 ## It's time to clean!
 As a Janitor you should be trying to keep the station sanitary, well lit, and prevent it from being covered in blood and gibs! You have several tools for doing this, such as a mop, a bucket, and soap. Some areas that you may find need your "special attention" are: the Medbay, the Bar, and the Brig. Remember to keep a good grip on your jani-cart, and a pushbroom handy.
