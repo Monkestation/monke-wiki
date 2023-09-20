@@ -2,7 +2,7 @@
 title: Clown
 description: HONK!
 published: true
-date: 2023-09-20T04:37:53.954Z
+date: 2023-09-20T04:39:15.764Z
 tags: clown, jobs, service
 editor: markdown
 dateCreated: 2023-09-09T20:51:07.333Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T20:51:07.333Z
 
 | | SERVICE STAFF |
 |:------:|-------|
-| \[ job_image ]<br>Clown | Access: Theatre<br>Additional Access: N/A<br>Difficulty: HONK!<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Jester, Joker, Comedian|
+| \[ job_image ]<br>Clown | Access: Theatre<br>Additional Access: N/A<br>Difficulty: HONK!<br>Supervisors: Head of Personnel, The Honkmother<br>Duties: Entertain the crew, make bad jokes, go on a holy quest to find bananium, HONK!<br>Guides: HONK!<br>Alternate Titles: Jester, Joker, Comedian|
 
 You are... well... the funny person of the station! Honk honk! This usually means you play harmless pranks on people to remind them that life on the station is not to be taken too seriously. The Clown doesn't have to do anything must spread the word of the Honkmother through honks and elaborate pranks. Basically the clown's job is to goof off, much like an assistant, but clowns don't usually listen to anyone because they have places to be, and things to HONK!
 
