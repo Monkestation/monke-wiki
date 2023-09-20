@@ -2,7 +2,7 @@
 title: Florida Man
 description: Universe's Worst Superhero
 published: true
-date: 2023-09-09T20:38:31.293Z
+date: 2023-09-20T00:56:59.088Z
 tags: antagonist, florida man, jobs
 editor: markdown
 dateCreated: 2023-09-09T20:22:43.216Z
@@ -10,14 +10,20 @@ dateCreated: 2023-09-09T20:22:43.216Z
 
 # Florida Man
 
-|                             | LOST STAFF                                                                                   |
-|-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:Access your job has.<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: New florida people, Homo Floridian |
+| | LOST STAFF |
+|:-----:|-----|
+| \[ job_image ]<br>Florida Man | Access:None!<br>Additional Access: Whatever you can crash into, get an ID for, whatever Florida Man does!<br>Difficulty: Florida Man<br>Supervisors: Space Florida<br>Duties: Whatever brought you to the station<br>Guides: This is it<br>Alternate Titles: Space Florida People, Homo Floridian |
 
-## Antag Description
-This is an antag role where you basically got a good number of objects. That will most of the time be completely different each time you are in this role. But it is sure going to be a crazy and unique experience to have this role. It has 3 abilities
+The people of Space Florida have broken loose from their containment on the world of New Florida. They have arrived to Monkestation with the intent of chaos! What's that chaos you ask? Find out!
 
+# Rise Space Florida!
+This is an antag role where you basically can do just about anything with proper escalation. The Florida Man can have any number of different objectives, such as:
 
+- Now's your chance to be a big shot! Sell X to make a few bucks, in the name of Florida.
+- Find and wrestle with as many Security Officers as you can.
+- Your belly is rumbling, only X can fill your hunger...
+
+Almost any sort of objective could appear, and they can be absolute blast to play.
 
 ### Abilities
 It has an ability to get a random drug into your body(Can be either good or bad).
