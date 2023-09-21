@@ -2,7 +2,7 @@
 title: Curator
 description: This belongs in the museum!
 published: true
-date: 2023-09-21T17:35:49.603Z
+date: 2023-09-21T20:28:07.816Z
 tags: curator, jobs, service
 editor: markdown
 dateCreated: 2023-09-09T20:54:11.064Z
@@ -75,12 +75,12 @@ Your loadout. This will decide your adventuring destiny:
 "Braveheart, the Scottish rebel - 1300's": A kit containing a patriotic Scottish Outfit. Wearing it fills you with a hatred of the English. This box contains:
 - An unarmored Kilt with matching sandals.
 - A Claymore with average damage and a chance to block incoming attacks.
-- A can of War Spray paint.
+- A can of ~~War~~ Spray paint.
 
 "Courageous Tomb Raider - 1940's": A set containing the gear of the infamous Indiana Jones. Perfect for the curator with a prize on his mind. Every set contains:
-- A Full Treasure Hunter's garb. A Stylish hat, a Rugged armored Coat, a Classy Suit, and a pair of Boots designed for the rough outdoors.
+- A Full Treasure Hunter's garb. A Stylish hat, a treasure hunter's armored Coat, a Classy Suit, and a pair of mining boots designed for the rough outdoors.
 - A Whip with average damage and a high chance to disarm opponents.
-
+w
 "Carp Hunter, Wildlife Expert - 2506": A kit containing everything you need to become a World-Renowned* Carp Hunter! Each kit has:
 - A battered Carp Space suit. Still space worthy, but if you want protection, you'd be better off wearing nothing.
 - A Carp Face Mask. Pairs well with the suit.
