@@ -2,7 +2,7 @@
 title: Chaplain
 description: There's something about the vast infinity of space that turns men to prayer. Especially if they get thrown into it without a space suit.
 published: true
-date: 2023-09-20T11:21:57.725Z
+date: 2023-09-21T16:22:16.488Z
 tags: chaplain, jobs, service
 editor: markdown
 dateCreated: 2023-09-09T20:53:25.458Z
@@ -124,11 +124,18 @@ You have candles and crayons in your locker. Candles can be set anywhere and lit
 
 Do not expect any prayers to be answered. Gods are fickle beings. Nobody knows what they are going to do next in their great designs.
 
-## GET BEHIND ME NAR-NAR RATVAR
+## GET BEHIND ME ~~NAR-NAR~~ RATVAR
 
 During a cult invasion, you will suddenly find yourself a vital part of the station's security force, and also a target. You will want to ensure Security has a stock of holy water to deconvert cultists -- remember that your bible can bless any water it comes into contact with -- and Security may want your null rod as well. Your bible can be used to detect nearby hidden runes by hitting the floor with it. This can be invaluable in finding suspected cult bases. Finally, you are immune to cult magic, which will help you if you decide to go BATTLE PALADIN and valid save everyone. For more information, go here.
 
 If your god hates you enough, you may also encounter a Revenant, an undead ghost creature that wants your souls. Again, your null rod is incredibly robust against these creatures.
+
+# Tips
+
+- You can use your starting bible in your hand to change its sprite.
+- Alternative sprites include a Quaran, a white Bible, a clown bible, the Necronomicon and more!
+- Your bible, despite starting with some useless junk, can be emptied and filled with a complete set of tools or other similarly sized items only one small item because coderbus hates fun. Best of all, it fits in your hoodie's suit storage!
+- Healing en-masse during blob rounds is extremely effective, as you can get people back into the fight quickly and easily. Besides, who needs proper cognitive function to fight the blob?
 
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
