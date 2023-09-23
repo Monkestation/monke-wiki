@@ -2,7 +2,7 @@
 title: Botanist
 description: This is the Captain speaking, a reward will be issued for whoever brings in the Botanist who littered the hallways with miniature banana peels, thank you.
 published: true
-date: 2023-09-12T04:52:23.808Z
+date: 2023-09-23T20:45:02.841Z
 tags: botany, jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T20:43:22.865Z
@@ -21,7 +21,15 @@ Talk about the primary parts of the job here.
 ### Sub-categories
 Talk about the subcategories here. Use many for different parts of the job that need to be here and not on a separate guide page.
 
-
+# Mutations
+## Brown Chicken
+   | --- | --- | --- |
+  <a name="brown_chicken"></a><td rowspan=2 width = 300px height=150px> <center> <img src ="/chickens/brown.png" width = 96 height = 96> <br>Brown Chicken <td width=225> <center> Mutates From <td width=450> <center>Mutates Into |
+    | | ![](/chickens/chickens.png)[White Chicken](https://wiki.monkestation.com/en/jobs/service/Ranching#white_chicken) | ![](/chickens/spicy.png)[Spicy](https://wiki.monkestation.com/en/jobs/service/Ranching#spicy_chicken), ![](/chickens/raptor.png)[Raptor](https://wiki.monkestation.com/en/jobs/service/Ranching#raptor_chicken), ![](/chickens/gold.png)[Gold](https://wiki.monkestation.com/en/jobs/service/Ranching#gold_chicken), ![](/chickens/robot.png)[Robot](https://wiki.monkestation.com/en/jobs/service/Ranching#robot_chicken)
+   <td colspan=2> <center> Food Information | <center> Mutation Requirements |
+     | | <center> Disliked Food  | <center> Favorite Food <td rowspan = 2 colspan=1> **Required Floor:** Grass <br> **Required Happiness** 25
+     | | ![wrench.png](/wrench.png) TBA| ![wrench.png](/wrench.png) TBA|
+     
 # Tables
 
 ## Stat Gain per Chemical Unit
