@@ -2,7 +2,7 @@
 title: Geothermal Power
 description: OSHAN MAN POWER
 published: true
-date: 2023-09-21T23:24:07.238Z
+date: 2023-09-23T02:38:14.826Z
 tags: guides
 editor: markdown
 dateCreated: 2023-09-21T23:24:07.238Z
