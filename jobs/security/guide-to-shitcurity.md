@@ -2,7 +2,7 @@
 title: Guide to Shitcurity
 description: Following the advice here to the latter isn't a great idea...
 published: true
-date: 2023-09-24T21:14:24.120Z
+date: 2023-09-24T23:53:33.105Z
 tags: guides, memes, security
 editor: markdown
 dateCreated: 2023-09-24T20:48:46.720Z
@@ -14,7 +14,7 @@ Basically, whenever Security is doing something that in real life would get them
 
 Also expect people to accuse you of being this even if you're doing an alright job. There is no way to win.
 
-**Lots of times shitcurity officers may not be breaking rules. What makes most people shitcurity is a lack of understanding that certain actions can end/ruin a person's entire round. Be nice! Instead of cremating a traitor, permabrig or borg them! **
+**Lots of times shitcurity officers may not be breaking rules. What makes most people shitcurity is a lack of understanding that certain actions can end/ruin a person's entire round. Be nice! Instead of cremating a traitor, permabrig or borg them!**
 
 # The Rules of Shitcurity
 
