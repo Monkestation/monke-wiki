@@ -2,8 +2,8 @@
 title: Guide to Medicine
 description: Doctors, start here...
 published: true
-date: 2023-09-24T05:10:55.414Z
-tags: guides, medical, doctor
+date: 2023-09-25T06:20:06.284Z
+tags: doctor, guides, medical
 editor: markdown
 dateCreated: 2023-09-24T05:10:55.414Z
 ---
