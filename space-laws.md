@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-10-02T21:51:15.543Z
+date: 2023-10-02T22:41:48.513Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -17,11 +17,11 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 
 | Code | MXX - Modifier | 0XX - Infraction | 1XX - Minor | 2XX - Medium | 3XX - Major | 4XX - Felony | XXX - Capital |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 01  | Clear Danger |     | Assault | Aggravated Assault | Larceny | Grand Larceny | Prime Murder/Mass Murder |
+| 01  | Clear Danger |     | Assault | Aggravated Assault | Larceny | Grand Larceny | Genetic Mutilation  |
 | 02  | Elevated Sentencing |     | Pickpocketing | Theft | Sabotage | Grand Sabotage | Insurrection |
 | 03  | Self Defense | Superficial Vandalism | Minor Vandalism | Major Vandalism | High Conspiracy | Espionage | Biological Terror |
 | 04  | Non Compos Mentis |     | Vigilantism | Conspiracy | Hostile Activity | Possession, Corporate Secrets | Priority Threat |
-| 05  | Griseo Maris |     |     | Hostile Agent | Dangerous Contraband | Murder |     |
+| 05  | Griseo Maris |     |     | Hostile Agent | Dangerous Contraband | Murder |  Prime Murder/Mass Murder   |
 | 06  | Resisting Arrest | Drug Possession | Illegal Distribution | Contraband Possession | Inciting a Riot |     |     |
 | 07  | Escaped Prisoner | Disorderly Conduct | Disturbing the Peace | Rioting | Manslaughter |     |     |
 | 08  |     | Creating a Hazard | Negligence | High Negligence | Trespass, Secure Areas |     |     |
@@ -29,7 +29,7 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 | 10  |     |     | Breaking and Entering | Breaking and Entering, Dangerous Areas | Dereliction |     |     |
 | 11  |     | Disruptive Communications | Discriminatory Language | Insubordination | Corporate Fraud |     |     |
 | 12  |     |     | Fine Evasion | Fraud | Identity Theft |     |     |
-| 13  |     |     |     | Genetic Mutilation |     |     |     |
+| 13  |     |     |     |	|     |     |     |
 {.test} 
 
 ---
@@ -223,7 +223,7 @@ All of these crimes carry a **5 minute** sentence or a 500 point target at the L
 | 210 | ![BNE danger.png](https://static.miraheze.org/monkestationwiki/thumb/7/78/BNE_danger.png/95px-BNE_danger.png) | **Breaking and Entering, Inherently Dangerous Areas** | To trespass into an area which may lead to the injury of self or others using forcible entry. | Generally this will lead to injury. See breaking and entering, and apply any of the areas for Trespassing to dangerous areas. |
 | 211 | ![Insubord.png](https://static.miraheze.org/monkestationwiki/thumb/3/33/Insubord.png/98px-Insubord.png) | **Insubordination** | To knowingly disobey a lawful order from a superior. | Obey your heads of staff if they instruct you to do something within the scope of your job. This crime can normally be accompanied by a demotion at the discretion of the relevant head of staff. |
 | 212 | ![Dreamseeker JYtsg049js.png](https://static.miraheze.org/monkestationwiki/thumb/2/27/Dreamseeker_JYtsg049js.png/96px-Dreamseeker_JYtsg049js.png) | **Fraud** | To misrepresent ones intention in the interest of gaining property or money from another individual. | Lying to someone about a cargo bounty, for example. Be honest with your intentions. Don't stretch this, gaining items which normally wouldn't be considered theft likely aren't worth charging under fraud. |
-| 213 | ![Genetic Mutilation.png](https://static.miraheze.org/monkestationwiki/thumb/a/af/Genetic_Mutilation.png/95px-Genetic_Mutilation.png) | **Genetic Mutilation** | To purposefully modify an individual’s genetic code without consent, or with intent to harm. | Generally this is purposefully irradiating people, and typically it will be the geneticist getting demoted shortly after. |
+
 
 ## Major Crimes
 
@@ -265,9 +265,10 @@ Only the **Captain, HoS, and Warden** can authorize a **Permanent Sentence**.
 Only the **Captain** can authorize an **Execution** or **Forced Cyborgization**.
 | Code |     | Crime | Description | Notes |
 | --- | --- | --- | --- | --- |
-| 501 | ![Prime murder.png](https://static.miraheze.org/monkestationwiki/thumb/a/a3/Prime_murder.png/95px-Prime_murder.png) | **Prime Murder/Mass Murder** | To commit the act of murder, with clear intent to kill, and clear intent or to have materially take steps to prevent the revival of the victim or to kill three more more individuals | **This includes debraining or decapacitating a corpse with purpose other than cloning.** |
+| 501 | ![Genetic Mutilation.png](https://static.miraheze.org/monkestationwiki/thumb/a/af/Genetic_Mutilation.png/95px-Genetic_Mutilation.png) | **Genetic Mutilation** | To purposefully modify an individual’s genetic code without consent, or with intent to harm. | Generally this is purposefully irradiating people, and typically it will be the geneticist getting demoted shortly after. |
 | 502 | ![Insurection.png](https://static.miraheze.org/monkestationwiki/thumb/d/db/Insurection.png/96px-Insurection.png) | **Insurrection** | **To knowingly lead a mob of individuals in a manner which seeks to unseat the current chain of command, or otherwise revolt against Nanotrasen.** | **Heads of any revolutionary or anarchist movements are here.** |
 | 503 | ![BioTerror.png](https://static.miraheze.org/monkestationwiki/thumb/6/68/BioTerror.png/96px-BioTerror.png) | **Biological Terror** | **To knowingly release, cause, or otherwise cause the station to become affected by a disease, plant, or other biological form which may spread uncontained and or cause serious physical harm**. | **Don't immediately lynch the virologist, but an investigation might be a good idea.** |
 | 504 | ![EOTCmoment.png](https://static.miraheze.org/monkestationwiki/thumb/5/5f/EOTCmoment.png/96px-EOTCmoment.png) | **Priority Threat** | **To be a high priority threat to the station.** | **To be a member of any of the following organizations: Hostile boarding parties, Wizards, Changeling Hiveminds, cults, A member of a bloodsucker clan, or other non-authorized religious practitioners (heretics).** |
+| 505 | ![Prime murder.png](https://static.miraheze.org/monkestationwiki/thumb/a/a3/Prime_murder.png/95px-Prime_murder.png) | **Prime Murder/Mass Murder** | To commit the act of murder, with clear intent to kill, and clear intent or to have materially take steps to prevent the revival of the victim or to kill three more more individuals | **This includes debraining or decapacitating a corpse with purpose other than cloning.** |
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
