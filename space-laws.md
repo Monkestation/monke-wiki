@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-10-02T22:57:27.538Z
+date: 2023-10-02T23:00:10.465Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -37,13 +37,14 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 # General info
 
 1.  Confiscated items must be placed in evidence, not left on the brig floor or your personal use, until they can be returned to their rightful owners.
-2.  Security is prohibited from using most Syndicate contraband.
+2.  Security is prohibited from using most Syndicate contraband outside of dire situations.
 3.  Intent is important in determining the level of some crimes. If intent can’t be determined, the lesser charge should be given.
 4.  Criminals who commit multiple crimes may have charges stacked. The sentences for multiple crimes should run consecutively, not concurrently.
     -   Charges in the same row should not be stacked for the same count; instead, charge the crew member with the highest applicable offense *per count*.
 5.  If a crew member is de-converted from revolutionary or cult groups, all charges related to their time in the organization should be dropped, and they should be given a mindshield (if possible).
 6.  The warden is responsible for ensuring that all prisoners are safe and that the brig is secure. Failure to do this can result in demotion.
 7.  A crew member cannot be held for more than 10 minutes without being processed. If 10 minutes elapses and no evidence is provided, the crew member should be set free.
+8. officers are expected to know space law. officers who are seen to not know the law can be demoted (and possibly even face adminstrative issues)
 
 ## **Arresting a Head of Staff**
 
