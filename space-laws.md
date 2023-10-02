@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-10-02T21:49:18.017Z
+date: 2023-10-02T21:51:15.543Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -17,7 +17,7 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 
 | Code | MXX - Modifier | 0XX - Infraction | 1XX - Minor | 2XX - Medium | 3XX - Major | 4XX - Felony | XXX - Capital |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 01  | Clear Danger |     | Assault | Aggravated Assault | Larceny | Grand Larceny | Prime Murder |
+| 01  | Clear Danger |     | Assault | Aggravated Assault | Larceny | Grand Larceny | Prime Murder/Mass Murder |
 | 02  | Elevated Sentencing |     | Pickpocketing | Theft | Sabotage | Grand Sabotage | Insurrection |
 | 03  | Self Defense | Superficial Vandalism | Minor Vandalism | Major Vandalism | High Conspiracy | Espionage | Biological Terror |
 | 04  | Non Compos Mentis |     | Vigilantism | Conspiracy | Hostile Activity | Possession, Corporate Secrets | Priority Threat |
