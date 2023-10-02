@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-10-02T21:45:14.008Z
+date: 2023-10-02T21:46:54.891Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -153,11 +153,11 @@ There are a few circumstances where deadly force is permissible:
 
 In general, if it is possible to capture personnel non-lethally you should. If you do not, expect to have to justify yourself to Internal Affairs to not get fired and to administrators to not be job banned.
 
-## Enemy of the corporation and Accessory
+## Priority Threat and Accessory
 
 Accessory: Accessory charges can be given to anyone who assists a criminal in committing a crime or escaping from security. The sentence for accessory charges can be the same as the original criminal up to and including execution, though the HoS and warden are allowed to give a lesser charge. Intent or knowledge of the original crime is not needed. This can also be applied to crew members who are masters of golems or pAIs if those creations commit a significant enough crime. 
 
-Priority threats currently include: Bloodsuckers, The Changeling Hivemind, Heretics, Revolutionary's, The Cult of Nar'Sie, and Clockwork cultists. Deconversion should always be the top priority whenever possible. Execution of revolutionaries and cultists is only authorized when deconversion is not possible or poses too significant of a risk. For enemies of the corporation who pose too great a threat to detain, immediate execution is authorized.
+Priority threats currently include: Bloodsuckers, The Changeling Hivemind, Heretics, Revolutionary's, The Cult of Nar'Sie, and Clockwork cultists. Deconversion should always be the top priority whenever possible. Execution of revolutionaries and cultists is only authorized when deconversion is not possible or poses too significant of a risk. For Threats who pose too great a threat to detain, immediate execution is authorized.
 
 # Glossary of Crimes
 
