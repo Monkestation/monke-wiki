@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-09-16T20:58:36.289Z
+date: 2023-10-02T21:45:14.008Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -149,7 +149,7 @@ There are a few circumstances where deadly force is permissible:
 -   Criminals in hostile environments such as space, fire, or plasma leaks also fall into this category, as do criminals believed to be in possession of high explosives. Ranged lethal force is the only reasonable option in these conditions.
 -   Armed and Dangerous - if a suspect is in possession of weapons, including stun weapons, and you have reasonable suspicion that they will use these against you, lethal force is permitted. However, it is still preferable to attempt to detain them non-lethally.
     -   Unauthorized personnel in the armory are considered to be armed and dangerous by default. Maximum force is permitted to subdue such targets.
--   Multiple Hostiles - it can be extremely difficult to detain multiple hostiles. As a last resort, you may deploy your baton in a harmful manner to thin the crowd.
+-   Multiple Hostiles - it can be extremely difficult to detain multiple hostiles. As a last resort, you may deploy your baton in a harmful manner or fire into the crowd with lethal arms to thin the crowd.
 
 In general, if it is possible to capture personnel non-lethally you should. If you do not, expect to have to justify yourself to Internal Affairs to not get fired and to administrators to not be job banned.
 
