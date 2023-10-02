@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-10-02T22:41:48.513Z
+date: 2023-10-02T22:57:27.538Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -21,15 +21,15 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 | 02  | Elevated Sentencing |     | Pickpocketing | Theft | Sabotage | Grand Sabotage | Insurrection |
 | 03  | Self Defense | Superficial Vandalism | Minor Vandalism | Major Vandalism | High Conspiracy | Espionage | Biological Terror |
 | 04  | Non Compos Mentis |     | Vigilantism | Conspiracy | Hostile Activity | Possession, Corporate Secrets | Priority Threat |
-| 05  | Griseo Maris |     |     | Hostile Agent | Dangerous Contraband | Murder |  Prime Murder/Mass Murder   |
-| 06  | Resisting Arrest | Drug Possession | Illegal Distribution | Contraband Possession | Inciting a Riot |     |     |
-| 07  | Escaped Prisoner | Disorderly Conduct | Disturbing the Peace | Rioting | Manslaughter |     |     |
-| 08  |     | Creating a Hazard | Negligence | High Negligence | Trespass, Secure Areas |     |     |
-| 09  |     |     | Trespass | Trespass, Dangerous Areas | Breaking and Entering, Secure Areas |     |     |
-| 10  |     |     | Breaking and Entering | Breaking and Entering, Dangerous Areas | Dereliction |     |     |
-| 11  |     | Disruptive Communications | Discriminatory Language | Insubordination | Corporate Fraud |     |     |
-| 12  |     |     | Fine Evasion | Fraud | Identity Theft |     |     |
-| 13  |     |     |     |	|     |     |     |
+| 05  | Griseo Maris |     |  Disturbing the Peace   | Hostile Agent | Dangerous Contraband | Murder |  Prime Murder/Mass Murder   |
+| 06  | Resisting Arrest | | Negligence | Contraband Possession | Inciting a Riot |     |     |
+| 07  | Escaped Prisoner | Disorderly Conduct | Trespass | Rioting | Manslaughter |     |     |
+| 08  |     | Creating a Hazard | Breaking and Entering | High Negligence | Trespass, Secure Areas |     |     |
+| 09  |     |     |  Discriminatory Language | Trespass, Dangerous Areas | Breaking and Entering, Secure Areas |     |     |
+| 10  |     |     |  Fine Evasion| Breaking and Entering, Dangerous Areas | Dereliction |     |     |
+| 11  |     | Disruptive Communications | | Insubordination | Corporate Fraud |     |     |
+| 12  |     |     |  | Fraud | Identity Theft |     |     |
+| 13  |     |     |     |	Drug Possession|   Drug Distribution |      |      |
 {.test} 
 
 ---
@@ -182,7 +182,6 @@ All of these crimes are punished with a monetary fine. 
 | Code |     | Crime | Description | Notes |
 | --- | --- | --- | --- | --- |
 | 003 | ![Superficial Vandalism.png](https://static.miraheze.org/monkestationwiki/thumb/e/e2/Superficial_Vandalism.png/95px-Superficial_Vandalism.png) | **Superficial Vandalism** | To deface the station or property of another individual. | Minor damage that can be repaired with space cleaner or other cosmetic only damage. |
-| 006 | ![Drug Possesion.png](https://static.miraheze.org/monkestationwiki/thumb/b/b0/Drug_Possesion.png/95px-Drug_Possesion.png) | **Drug Possession** | The possession of illegal drugs in quantities appropriate for personal use. | A pill or two of drugs is reasonable for recreational use, anything more is probably charged as distribution |
 | 007 | ![Disorderly.png](https://static.miraheze.org/monkestationwiki/thumb/9/92/Disorderly.png/95px-Disorderly.png) | **Disorderly Conduct** | To conduct ones self in a way unsuitable for the retention of one’s position. | Minorly disruptive behavior that isn't otherwise illegal, such as drunkenly harassing a crewmember. |
 | 008 | ![CreateHazard.png](https://static.miraheze.org/monkestationwiki/thumb/e/e6/CreateHazard.png/95px-CreateHazard.png) | **Creating a Hazard** | To create a situation which may lead to the harm of others during normal operation in that department. | Minor unsafe behavior can also be charged under this crime. |
 | 011 | ![DisruptiveComms.png](https://static.miraheze.org/monkestationwiki/thumb/d/dd/DisruptiveComms.png/95px-DisruptiveComms.png) | **Disruptive Comms** | To knowingly disrupt or needlessly populate a radio frequency with the intent to be a nuisance to users of that frequency. | Radio spam bad. *I'm looking at you, circuit makers.* |
@@ -197,15 +196,14 @@ All of these crimes carry a **3 minute** sentence. 
 | 102 | ![Pickpocketing.png](https://static.miraheze.org/monkestationwiki/0/04/Pickpocketing.png) | **Pickpocketing** | To steal items from another’s person. | Small or easily replaceable items should be charged with this, otherwise consider a higher class of theft. |
 | 103 | ![Vandalism.PNG](https://static.miraheze.org/monkestationwiki/4/4d/Vandalism.PNG) | **Minor Vandalism** | To damage, destroy, or permanently deface non-critical furniture, vendors, or personal property. | Large amounts of irreparable damage should be charged with Major Vandalism, Damage to critical infrastructure may be a form of Sabotage. |
 | 104 | ![Vigilantism.png](https://static.miraheze.org/monkestationwiki/thumb/6/61/Vigilantism.png/95px-Vigilantism.png) | **Vigilantism** | To perform the responsibilities and duties of the security department without approval or due cause to act. | Validhunting bad. Let the redshirts do their job. |
-| 106 | ![Narcotics Distribution.PNG](https://static.miraheze.org/monkestationwiki/c/c7/Narcotics_Distribution.PNG) | **Illegal Distribution** | The possession of dangerous or illegal drugs/equipment in a quantity greater than that which is reasonable for personal consumption. | You should probably try to determine intent from additional evidence before charging someone with this. |
-| 107 | ![DisPeace.png](https://static.miraheze.org/monkestationwiki/thumb/6/63/DisPeace.png/96px-DisPeace.png) | **Disturbing the Peace** | To knowingly organize a movement which disrupts the normal operations of a department. | Establishing a peaceful strike or otherwise disrupting standard department order without attachment to criminal entities. |
-| 108 | ![Negligent.png](https://static.miraheze.org/monkestationwiki/thumb/0/08/Negligent.png/95px-Negligent.png) | **Negligence** | To be negligent in one’s duty to an extent that it may cause harm, illness, or other negative effect, to another. | This is the charge for the doctor that accidentally pumps pentetic acid into an oozeling, or a scientist who accidentally floods toxins with room temperature CO2 or N2O. |
-| 109 | ![Trespassing.png](https://static.miraheze.org/monkestationwiki/b/ba/Trespassing.png) | **Trespass** | To be in an area which a person has either not purposefully been admitted to, does not have access, or has been asked to leave by someone who has access to that area. | Being in an area, or having access to an area is not permission to that area. This crime covers non forcible entry into areas, such as following someone through a door. |
-| 110 | ![BandE.PNG](https://static.miraheze.org/monkestationwiki/0/00/BandE.PNG) | **Breaking and Entering** | To trespass into an area using a method of forcible entry. | This is a variant of trespass, but instead of tailgating someone or gaining access the individual had to break or disable something to enter, such as hacking an airlock. |
-| 111 | ![FuckCats.png](https://static.miraheze.org/monkestationwiki/thumb/3/36/FuckCats.png/96px-FuckCats.png) | **Discriminatory Language** | To use language which demeans, generalizes, or otherwise de-personafies the individual at which it is targeted. | *Note that actual, OOC racism is not acceptable under the rules.* |
-| 112 | ![FineEvasion.png](https://static.miraheze.org/monkestationwiki/thumb/f/f9/FineEvasion.png/95px-FineEvasion.png) | **Fine Evasion** | To purposefully avoid or refuse to pay a legal fine. | A reasonable time and notification should be given to the plaintiff. |
+| 105 | ![DisPeace.png](https://static.miraheze.org/monkestationwiki/thumb/6/63/DisPeace.png/96px-DisPeace.png) | **Disturbing the Peace** | To knowingly organize a movement which disrupts the normal operations of a department. | Establishing a peaceful strike or otherwise disrupting standard department order without attachment to criminal entities. |
+| 106 | ![Negligent.png](https://static.miraheze.org/monkestationwiki/thumb/0/08/Negligent.png/95px-Negligent.png) | **Negligence** | To be negligent in one’s duty to an extent that it may cause harm, illness, or other negative effect, to another. | This is the charge for the doctor that accidentally pumps pentetic acid into an oozeling, or a scientist who accidentally floods toxins with room temperature CO2 or N2O. |
+| 107 | ![Trespassing.png](https://static.miraheze.org/monkestationwiki/b/ba/Trespassing.png) | **Trespass** | To be in an area which a person has either not purposefully been admitted to, does not have access, or has been asked to leave by someone who has access to that area. | Being in an area, or having access to an area is not permission to that area. This crime covers non forcible entry into areas, such as following someone through a door. |
+| 108| ![BandE.PNG](https://static.miraheze.org/monkestationwiki/0/00/BandE.PNG) | **Breaking and Entering** | To trespass into an area using a method of forcible entry. | This is a variant of trespass, but instead of tailgating someone or gaining access the individual had to break or disable something to enter, such as hacking an airlock. |
+| 109 | ![FuckCats.png](https://static.miraheze.org/monkestationwiki/thumb/3/36/FuckCats.png/96px-FuckCats.png) | **Discriminatory Language** | To use language which demeans, generalizes, or otherwise de-personafies the individual at which it is targeted. | *Note that actual, OOC racism is not acceptable under the rules.* |
+| 110 | ![FineEvasion.png](https://static.miraheze.org/monkestationwiki/thumb/f/f9/FineEvasion.png/95px-FineEvasion.png) | **Fine Evasion** | To purposefully avoid or refuse to pay a legal fine. | A reasonable time and notification should be given to the plaintiff. |
 
-## _Misdemeanor Crimes_
+## Medium Crimes_
 
 All of these crimes carry a **5 minute** sentence or a 500 point target at the Labor Camp, optional for the suspect you are arresting. 
 
@@ -223,6 +221,7 @@ All of these crimes carry a **5 minute** sentence or a 500 point target at the L
 | 210 | ![BNE danger.png](https://static.miraheze.org/monkestationwiki/thumb/7/78/BNE_danger.png/95px-BNE_danger.png) | **Breaking and Entering, Inherently Dangerous Areas** | To trespass into an area which may lead to the injury of self or others using forcible entry. | Generally this will lead to injury. See breaking and entering, and apply any of the areas for Trespassing to dangerous areas. |
 | 211 | ![Insubord.png](https://static.miraheze.org/monkestationwiki/thumb/3/33/Insubord.png/98px-Insubord.png) | **Insubordination** | To knowingly disobey a lawful order from a superior. | Obey your heads of staff if they instruct you to do something within the scope of your job. This crime can normally be accompanied by a demotion at the discretion of the relevant head of staff. |
 | 212 | ![Dreamseeker JYtsg049js.png](https://static.miraheze.org/monkestationwiki/thumb/2/27/Dreamseeker_JYtsg049js.png/96px-Dreamseeker_JYtsg049js.png) | **Fraud** | To misrepresent ones intention in the interest of gaining property or money from another individual. | Lying to someone about a cargo bounty, for example. Be honest with your intentions. Don't stretch this, gaining items which normally wouldn't be considered theft likely aren't worth charging under fraud. |
+| 213 | ![Drug Possesion.png](https://static.miraheze.org/monkestationwiki/thumb/b/b0/Drug_Possesion.png/95px-Drug_Possesion.png) | **Drug Possession** | The possession of illegal drugs for personal use. |anything more then a pill or two is charged as distribution |
 
 
 ## Major Crimes
@@ -243,6 +242,7 @@ These crimes carry a service at the Labor Camp, with a 1000 point target or a **
 | 311 | ![Derelictrom.png](https://static.miraheze.org/monkestationwiki/thumb/5/5a/Derelictrom.png/95px-Derelictrom.png) | **Dereliction** | To willfully abandon an obligation that is critical to the station’s continued operation. | Engineer didn't set up power? Doctor's doing botany and not treating the five corpses in medbay? Miners not providing materials for station objectives? That all goes here. |
 | 312 | ![CorpoFraud.png](https://static.miraheze.org/monkestationwiki/thumb/3/3d/CorpoFraud.png/100px-CorpoFraud.png) | **Corporate Fraud** | To misrepresent one’s intention in the interest of gaining property or money from Nanotrasen, or to gain or give property or money from Nanotrasen without proper authorization. | If you receive money to order something for a department don't pocket that money. |
 | 313 | ![IdTheftttt.png](https://static.miraheze.org/monkestationwiki/thumb/2/2b/IdTheftttt.png/96px-IdTheftttt.png) | **Identity Theft** | To assume the identity of another individual. | This can include utilizing someone else's PDA in order to impersonate them. |
+| 314 | ![Narcotics Distribution.PNG](https://static.miraheze.org/monkestationwiki/c/c7/Narcotics_Distribution.PNG) | **Drug Distribution** | The possession of dangerous or illegal drugs in a quantity greater than that which is reasonable for personal consumption. | You should probably consult your boss before charging someone with this. |
 
 ## Felonies
 
