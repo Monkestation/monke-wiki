@@ -2,7 +2,7 @@
 title: SOP
 description: Standard Operating Procedure
 published: true
-date: 2023-10-08T08:16:09.734Z
+date: 2023-10-08T17:14:31.017Z
 tags: guides, sop, space law
 editor: markdown
 dateCreated: 2023-10-02T20:57:36.034Z
@@ -108,8 +108,21 @@ These are expectations of individual crew or departments as appropriate.
 
 ## All Department Heads
 
-- Demote personnel that are not meeting your or Nanotrasen's expectations of conduct. Termination of employment (by vitrue of firing their ID card) while they are a non-prisoner is to be a last resort measure and will require either a Message to CentCom (via Captain) or by Fax to NT Legal or appropriate "administrator's fax" directly.
+- Demote personnel that are not meeting your or Nanotrasen's expectations of conduct. Demotion is by firing the ID card to strip it of its trim and its permissions.
 - Manage your department. If something happens and it was your departments responsibility, failure to uphold this shall result in **you** being responsible for it. (ie. Genetecist handing out mutations without proper clearances, such as Hulk).
 - If you, the department heads, feel that the Captain is not doing their job, you are to explain this, in writing, to CentCom via Fax with signatures. Refer to Space Law regarding arrests of Heads or Captain.
+- You may use security powers in order to handle law and order on the station. However, once you have made the active decision in doing so, you **must** follow Space Law in its entirety. If not, anyone that you bust may request an appeal for their alleged wrongdoing and can result in a very lengthy, if not mandatory, court proceeding depending on the severity of misconduct. Severe cases of misconduct will result in a demotion to Clown.
 
 ## Assistants
+
+- Your job is to assist other positions, get your space legs, learn how to use your hands, etc. Greytiding is a punishable offense, so don't do it. Even better, get a job from the HOP as they will know what is in need and can get you setup on something that is helpful to the station as a whole.
+
+## Chief Engineer
+
+- Your first priority will be to ensure that the station is structurally sound.
+- Your second priority will be to ensure that the station has sufficient power.
+- To reiterate an above point, you're responsible for engineering and its personnel.
+
+## Research Director
+
+- Given how large and wide the Science department can be, making use of your cameras may be able 
