@@ -2,14 +2,14 @@
 title: SOP
 description: Standard Operating Procedure
 published: true
-date: 2023-10-08T19:05:10.328Z
+date: 2023-10-08T19:24:25.146Z
 tags: guides, sop, space law
 editor: markdown
 dateCreated: 2023-10-02T20:57:36.034Z
 ---
 
 # Standard Operating Procedure
-This page details the expectations of what all personnel aboard Monkestation is to do during a number of events that may occur over the course of a shift. Not all possible events that occur will be discussed but this will give you a level of "minimum expectations" so that all personnel can be on the same page when disrupting events occur.
+This page is a reference for those that do not know of the typical things that should be done during a normal shift. It's intended to give ideas but not an explicit requirement.
 
 # Alert Levels
 ## <font color="green">Code Green - All Clear</font>
