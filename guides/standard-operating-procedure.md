@@ -2,7 +2,7 @@
 title: SOP
 description: Standard Operating Procedure
 published: true
-date: 2023-10-08T17:14:31.017Z
+date: 2023-10-08T17:30:59.041Z
 tags: guides, sop, space law
 editor: markdown
 dateCreated: 2023-10-02T20:57:36.034Z
@@ -115,7 +115,7 @@ These are expectations of individual crew or departments as appropriate.
 
 ## Assistants
 
-- Your job is to assist other positions, get your space legs, learn how to use your hands, etc. Greytiding is a punishable offense, so don't do it. Even better, get a job from the HOP as they will know what is in need and can get you setup on something that is helpful to the station as a whole.
+- Your job is to assist other positions, get your space legs, learn how to use your hands, etc. Greytiding is a punishable offense, so don't do it. Even better, get a job from the HOP as they will know what is in need and can get you setup on something that is helpful to the station as a whole. Who knows, you might learn something that you actually wanna do.
 
 ## Chief Engineer
 
@@ -125,4 +125,15 @@ These are expectations of individual crew or departments as appropriate.
 
 ## Research Director
 
-- Given how large and wide the Science department can be, making use of your cameras may be able 
+- Given how large and wide the Science department can be, making use of your cameras may allow you to be able to review all of the operations in the department.
+- Xenobio should be getting authorization to conduct any operations that isn't feeding and breeding slimes.
+- Robotics can issue mechs to those that request it, but if there's not a "good reason" for a mech to be given out, you're absolutely fine to reject a request for a mech.
+
+## Head of Security
+
+- You're second in command. Act like it.
+- Read and understand Space Law. If there's questions or you need clarification, ask.
+
+## Head of Personnel
+
+- Your PDA also can act as the same as the terminal in your office if you don't need anything in there to handle a request. Remember, it is all just requests. You can reject any request from any non-Head if you feel that the request is unreasonable.
