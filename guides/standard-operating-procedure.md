@@ -2,7 +2,7 @@
 title: SOP
 description: Standard Operating Procedure
 published: true
-date: 2023-10-08T17:30:59.041Z
+date: 2023-10-08T18:28:01.842Z
 tags: guides, sop, space law
 editor: markdown
 dateCreated: 2023-10-02T20:57:36.034Z
@@ -131,8 +131,9 @@ These are expectations of individual crew or departments as appropriate.
 
 ## Head of Security
 
-- You're second in command. Act like it.
+- You're below the CE in Chain of Command. You've got better things to deal with than command related issues anyway.
 - Read and understand Space Law. If there's questions or you need clarification, ask.
+- You're the Warden if there is no Warden.
 
 ## Head of Personnel
 
