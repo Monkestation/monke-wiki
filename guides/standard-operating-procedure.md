@@ -2,7 +2,7 @@
 title: SOP
 description: Standard Operating Procedure
 published: true
-date: 2023-10-08T18:28:01.842Z
+date: 2023-10-08T19:05:10.328Z
 tags: guides, sop, space law
 editor: markdown
 dateCreated: 2023-10-02T20:57:36.034Z
@@ -94,47 +94,3 @@ The station's self destruct mechanism has been engaged due to overwhelming threa
 - Destroy all extraterrestrial sources on the station.
 - Round up all forms of extraterrestrial lifeforms and contain or terminate them.
 - If extraterrestrial forces cannot be defeated, arm and detonate the Nuclear Fission Explosive to ensure their suppression.
-
-# Personnel
-
-These are expectations of individual crew or departments as appropriate.
-
-## Captain
-
-- Get dat fukken disk.
-- Don't fukken die with dat fukken disk.
-- You are the last one on the station that should be handling a situation. If there is someone else available that is appropriate, they should be the ones handling it.
-- If a Department Head is failing to handle situations in their departments to the best of their ability, you may demote said department heads within reason. Provide a copy of the arrest warrant to CentCom for documentation.
-
-## All Department Heads
-
-- Demote personnel that are not meeting your or Nanotrasen's expectations of conduct. Demotion is by firing the ID card to strip it of its trim and its permissions.
-- Manage your department. If something happens and it was your departments responsibility, failure to uphold this shall result in **you** being responsible for it. (ie. Genetecist handing out mutations without proper clearances, such as Hulk).
-- If you, the department heads, feel that the Captain is not doing their job, you are to explain this, in writing, to CentCom via Fax with signatures. Refer to Space Law regarding arrests of Heads or Captain.
-- You may use security powers in order to handle law and order on the station. However, once you have made the active decision in doing so, you **must** follow Space Law in its entirety. If not, anyone that you bust may request an appeal for their alleged wrongdoing and can result in a very lengthy, if not mandatory, court proceeding depending on the severity of misconduct. Severe cases of misconduct will result in a demotion to Clown.
-
-## Assistants
-
-- Your job is to assist other positions, get your space legs, learn how to use your hands, etc. Greytiding is a punishable offense, so don't do it. Even better, get a job from the HOP as they will know what is in need and can get you setup on something that is helpful to the station as a whole. Who knows, you might learn something that you actually wanna do.
-
-## Chief Engineer
-
-- Your first priority will be to ensure that the station is structurally sound.
-- Your second priority will be to ensure that the station has sufficient power.
-- To reiterate an above point, you're responsible for engineering and its personnel.
-
-## Research Director
-
-- Given how large and wide the Science department can be, making use of your cameras may allow you to be able to review all of the operations in the department.
-- Xenobio should be getting authorization to conduct any operations that isn't feeding and breeding slimes.
-- Robotics can issue mechs to those that request it, but if there's not a "good reason" for a mech to be given out, you're absolutely fine to reject a request for a mech.
-
-## Head of Security
-
-- You're below the CE in Chain of Command. You've got better things to deal with than command related issues anyway.
-- Read and understand Space Law. If there's questions or you need clarification, ask.
-- You're the Warden if there is no Warden.
-
-## Head of Personnel
-
-- Your PDA also can act as the same as the terminal in your office if you don't need anything in there to handle a request. Remember, it is all just requests. You can reject any request from any non-Head if you feel that the request is unreasonable.
