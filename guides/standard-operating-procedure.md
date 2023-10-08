@@ -2,8 +2,8 @@
 title: SOP
 description: Standard Operating Procedure
 published: true
-date: 2023-10-02T20:57:36.034Z
-tags: guides, space law, sop
+date: 2023-10-08T08:16:09.734Z
+tags: guides, sop, space law
 editor: markdown
 dateCreated: 2023-10-02T20:57:36.034Z
 ---
@@ -76,7 +76,7 @@ The station's self destruct mechanism has been engaged due to overwhelming threa
 
 ## Viral Outbreak
 
-- If severe viral strain is on board the station, the Chief Medical Officer is required to quarantine infected parts of the station with the help of security.
+- If a severe viral strain is on board the station, the Chief Medical Officer is required to quarantine infected parts of the station with the help of security.
 - All infected crew are to be isolated in Virology or Medbay.
 - Sterile masks/Internals and gloves are mandatory for medical personnel and recommended for crew.
 - Quarantine must be maintained until the outbreak is contained and resolved.
@@ -92,5 +92,24 @@ The station's self destruct mechanism has been engaged due to overwhelming threa
 
 - Station Command is to prevent infection from spreading to Central Command by ensuring the emergency shuttle is not called until the threat is contained or terminated.
 - Destroy all extraterrestrial sources on the station.
-- Round up all forms of extraterrestrial lifeforms and contain or terminate them, do not terminate if there is a chance of containment.
+- Round up all forms of extraterrestrial lifeforms and contain or terminate them.
 - If extraterrestrial forces cannot be defeated, arm and detonate the Nuclear Fission Explosive to ensure their suppression.
+
+# Personnel
+
+These are expectations of individual crew or departments as appropriate.
+
+## Captain
+
+- Get dat fukken disk.
+- Don't fukken die with dat fukken disk.
+- You are the last one on the station that should be handling a situation. If there is someone else available that is appropriate, they should be the ones handling it.
+- If a Department Head is failing to handle situations in their departments to the best of their ability, you may demote said department heads within reason. Provide a copy of the arrest warrant to CentCom for documentation.
+
+## All Department Heads
+
+- Demote personnel that are not meeting your or Nanotrasen's expectations of conduct. Termination of employment (by vitrue of firing their ID card) while they are a non-prisoner is to be a last resort measure and will require either a Message to CentCom (via Captain) or by Fax to NT Legal or appropriate "administrator's fax" directly.
+- Manage your department. If something happens and it was your departments responsibility, failure to uphold this shall result in **you** being responsible for it. (ie. Genetecist handing out mutations without proper clearances, such as Hulk).
+- If you, the department heads, feel that the Captain is not doing their job, you are to explain this, in writing, to CentCom via Fax with signatures. Refer to Space Law regarding arrests of Heads or Captain.
+
+## Assistants
