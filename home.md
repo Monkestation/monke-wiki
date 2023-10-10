@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-09-10T01:17:40.302Z
+date: 2023-10-10T19:32:57.685Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -83,6 +83,7 @@ Do not argue in OOC. You will eat an OOC ban. Do not SALT in OOC chat during a r
 > If you wish to teach new players, you must use our Discord voice channels and accept that admins may choose to listen in to prevent actual metagaming.
 {.is-info}
 
+Joining a round, then disconnecting shortly thereafter, be it at round start or otherwise, can be viewed as antag rolling. Antag rolling is held under this rule for purposes of enforcement. It should not have to be said, but it does need to be said.
 
 ## Rule 5: Streamer Rules
 
