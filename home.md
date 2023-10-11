@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-10-10T19:32:57.685Z
+date: 2023-10-11T00:55:35.532Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -129,7 +129,7 @@ In pops 20 or below. You are encouraged to not murder more than just your target
 
 This also excludes a solid RP reason (within the round) for seeking revenge. A clown who has had their shoes stolen by security, a chef continually getting harassed by assistants or a doctor that keeps getting shoved by crew as they work all have reasons to fight back.
 
-Ninjas, heretics, Revs, final objective traitors, Cultist with halos, doomsday AI Valid huntable! Yaaay! You are allowed to protect your crewmates if they are being assaulted, Jumped, or attacked Within your view. But only to protect. Not to pursue. You can protect your establishment with force if a violent person has visited after there has been an attack by said person.
+Ninjas, Heretics, Revs, final objective traitors, Cultist with halos, Delta AIs and Spiders: Valid huntable! Yaaay! You are allowed to protect your crewmates if they are being assaulted, Jumped, or attacked Within your view. But only to protect. Not to pursue. You can protect your establishment with force if a violent person has visited after there has been an attack by said person.
 
 > If there is a large-scale threat to the station, anyone is encouraged to participate in protecting the station. Large-scale threats are: Nuclear Operatives, Blobs, Xenomorphs and Wizards.
 {.is-info}
