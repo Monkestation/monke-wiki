@@ -2,7 +2,7 @@
 title: Bitrunner
 description: You're not a real job. Go get a real job.
 published: true
-date: 2023-10-15T06:42:51.433Z
+date: 2023-10-15T06:46:52.159Z
 tags: cargo, jobs, not a real job
 editor: markdown
 dateCreated: 2023-10-15T06:42:51.433Z
@@ -12,7 +12,7 @@ dateCreated: 2023-10-15T06:42:51.433Z
 
 | | SUPPLY STAFF |
 |---|---|
-| \[ job_image ]<br>Bitrunner | Access: Cargo Bay, Cargo Office, Bitrunning Den, Maintenance, Mineral Storage, mining mech access<br>Additional Access: Mining Station, Mining Office<br>Difficulty: Medium<br>Supervisors: Quartermaster<br>Duties:<br>Guides:<br>Alternate Titles: |
+| \[ job_image ]<br>Bitrunner | Access: Cargo Bay, Cargo Office, Bitrunning Den, Maintenance, Mineral Storage, mining mech access<br>Additional Access: Mining Station, Mining Office<br>Difficulty: Medium<br>Supervisors: Quartermaster<br>Duties: Link into the netverse to solve puzzles or fight virtual battles. Deliver loot and tech to the station. Don't fucking die, get a real job.<br>Guides: This is the guide<br>Alternate Titles: Bitdomain Technician, Data Retrieval Specialist, Netdiver, Pod Jockey, Union Bitrunner|
 
 A job that focuses on short, semi-offstation combat and puzzle solving to generate materials for the station. It emphasizes team play and can get considerably difficult depending on the domain chosen.
 
