@@ -2,7 +2,7 @@
 title: Guides
 description: The master guide index! If there's a guide, it exists here!
 published: true
-date: 2023-10-30T10:49:00.870Z
+date: 2023-10-30T10:50:26.927Z
 tags: guides
 editor: markdown
 dateCreated: 2023-09-11T08:01:35.079Z
