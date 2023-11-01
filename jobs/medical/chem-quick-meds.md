@@ -2,7 +2,7 @@
 title: Quick Meds!
 description: For those that just want instructions
 published: true
-date: 2023-10-31T23:35:17.799Z
+date: 2023-11-01T14:34:52.350Z
 tags: chemistry, guides, memes
 editor: markdown
 dateCreated: 2023-10-31T23:35:17.799Z
@@ -127,7 +127,7 @@ All recipes are in 5u increments, given as ratios as you go. Depending on the be
 - Acetone, Chlorine, Diethylamine, Hydrogen, Oxygen, Phenol (Makes Epi).
 
 ## Formaldehyde (No Organ Rot)
-- Ethanol, Oxygen, Silver (15u)
+- Ethanol, Oxygen, Silver, heat to 400K. (15u)
 
 ## Plastic
 > Frankly, every chemist should know this and this should be their first priority so that there's plastic to use to make things like metamaterial beakers, drapes, etc
