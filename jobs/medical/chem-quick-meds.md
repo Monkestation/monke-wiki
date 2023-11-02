@@ -2,7 +2,7 @@
 title: Quick Meds!
 description: For those that just want instructions
 published: true
-date: 2023-11-01T14:34:52.350Z
+date: 2023-11-02T04:04:43.688Z
 tags: chemistry, guides, memes
 editor: markdown
 dateCreated: 2023-10-31T23:35:17.799Z
@@ -15,25 +15,30 @@ All recipes are in 5u increments, given as ratios as you go. Depending on the be
 
 # Brute Meds
 ## Libital
+### Simple brute fix
 - Welding Fuel, Carbon, Hydrogen (Oil) (15u)
 - 3 Chlorine, 3 Water (Phenol) (45u)
 - Nitrogen, Oxygen to make Libital. (135u total)
 
 ## Helbital
+### Faster brute fix, no side effect when in hardcrit. Otherwise deals OXY damage
 - Carbon, Fluorine, Sugar (15u)
 
 ## Probital
+### Decent brutefix, deals stamina damage. If taken by mouth, makes healing peptides from food ate, boosting brute fix.
 - Welding Fuel, Carbon, Hydrogen (Oil) (15u)
 - Welding Fuel, Oxygen (Acetone) (45u)
 - 2 Acetone, Copper, Phosphorus (88u Probital, leftover crap)
 
 ## Salicyclic Acid
+### Super Brutefix beyond 25 damage, little under. 
 - Welding Fuel, Carbon, Hydrogen (Oil) (15u)
 - 3 Chlorine, 3 Water (Phenol) (45u)
 - Sodium, Carbon, Oxygen, Sulfuric Acid (225u total)
 
 # Burn Meds
 ## Aiuri
+
 - 3 Hydrogen, Nitrogen (Ammonia) (15u)
 - Ammonia, Sulfuric Acid, 2 Hydrogen (60u total)
 
