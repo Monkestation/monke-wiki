@@ -2,7 +2,7 @@
 title: Quick Meds!
 description: For those that just want instructions
 published: true
-date: 2023-11-02T04:04:43.688Z
+date: 2023-11-02T04:56:08.108Z
 tags: chemistry, guides, memes
 editor: markdown
 dateCreated: 2023-10-31T23:35:17.799Z
@@ -38,15 +38,17 @@ All recipes are in 5u increments, given as ratios as you go. Depending on the be
 
 # Burn Meds
 ## Aiuri
-
+### Burnfix, does eye damage
 - 3 Hydrogen, Nitrogen (Ammonia) (15u)
 - Ammonia, Sulfuric Acid, 2 Hydrogen (60u total)
 
 ## Lenturi
+### Stronger burnfix, stomach damage
 - 3 Hydrogen, Nitrogen (Ammonia) (15u)
 - Ammonia, Silver, Sulfur, Oxygen, Chlorine (75u total)
 
 ## Hercuri
+### Big burn fix, makes you cold as hell. More effective at 50+ burn, can remove fire.
 > Note: this is ONLY effective if put in a SPRAY BOTTLE, refill the existing ones in burn kits and keep the patient from going far as this will FREEZE them.
 {.is-info}
 
@@ -59,42 +61,49 @@ All recipes are in 5u increments, given as ratios as you go. Depending on the be
 - 3 Bromine, cool below 47K. (50u Hercuri with 5u ea Bromine and Lye left)
 
 ## Oxandrolone
+### Super Burnfix, 25+ most effective, little under.
 - Welding Fuel, Carbon, Hydrogen (Oil) (15u)
 - 3 Chlorine, 3 Water (Phenol) (45u)
 - 3 Carbon, Phenol, Hydrogen, Oxygen (270u total Oxandrolone, you will need to empty beaker a few times)
 
 # TOX Meds
 ## Multiver
+### TOXFix, purges chems from bloodstream, more TOXFix the more unique meds are in your body.
 - Sodium, Chloride, Water (Table Salt) (15u)
 - Welding Fuel, Carbon, Hydrogen (Oil) (15u, 30 total)
 - Heat past 480. (30u Multiver)
 
 ## Seiver
+### TOXFix that works on temps. 150K and below body temp does lots of TOXFix to irradiated patients
 - Aluminium, Nitrogen, Potassium, ensure above 320k for 15u
 
-## Syrinver
+## Syriniver
+### Super TOXFix. Tricky to use. Dilute to a 20/80 with water, then use IV or other injections due to Syriniver becoming Musiver quickly.
 (note: this requires Toxin, which may be purchased at a chem vendor)
 - 3 Hydrogen, Nitrogen (Ammonia) (15u)
 - 2 Ammonia, Nitrogen, 2 Oxygen, heat to 525+ (Nitrous Oxide, makes 25u)
 - Sulfur, Fluorine, Toxin, 2 Nitrous Oxide
 
 ## Higadrite
-> Note: This stops toxin damage buildup from liver failure. Does not stop other sources of toxin damage
+### This stops toxin damage buildup from liver failure. Does not stop other sources of toxin damage
 {.is-info}
 
 - 2 Phenol, Lithium
 
 # OXY Meds
 ## Tirimol
+### Good OXYFix drug that puts people to sleep as it heals, dealing stamina damage
 - Welding Fuel, Carbon, Hydrogen (Oil) (15u)
 - Welding Fuel, Oxygen (Acetone) (45u)
 - 2 Acetone, 3 Nitrogen, 1 Sulfuric Acid (catalyzer) (full acetone use nets 110u Tirimol)
 
 ## Convermol
+### Strong OXYFix that quickly clears suffocation while dealing TOX.
 - Welding Fuel, Carbon, Hydrogen (Oil) (15u)
 - Oil, Fluorine, Hydrogen, heat to 370+ (45u Convermol)
 
 ## Salbutamol
+### Super OXYFix. Slows suffocation cycles, no side effects!
 - Make Salicyclic Acid above (Brute Meds)
 - Salicyclic Acid, Lithium, Aluminium, Bromine, Ammonia
 
