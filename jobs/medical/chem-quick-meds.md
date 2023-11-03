@@ -2,7 +2,7 @@
 title: Quick Meds!
 description: For those that just want instructions
 published: true
-date: 2023-11-03T23:54:28.572Z
+date: 2023-11-03T23:54:31.249Z
 tags: chemistry, guides, memes
 editor: markdown
 dateCreated: 2023-10-31T23:35:17.799Z
