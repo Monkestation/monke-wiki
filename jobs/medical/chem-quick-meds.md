@@ -2,7 +2,7 @@
 title: Quick Meds!
 description: For those that just want instructions
 published: true
-date: 2023-11-02T04:56:08.108Z
+date: 2023-11-03T23:54:28.572Z
 tags: chemistry, guides, memes
 editor: markdown
 dateCreated: 2023-10-31T23:35:17.799Z
@@ -126,6 +126,13 @@ All recipes are in 5u increments, given as ratios as you go. Depending on the be
 
 ## Antihol (Alcohol purge)
 - Multiver, Copper, Ethanol
+
+## Synthflesh
+- Welding Fuel, Carbon, Hydrogen (Oil) (15u)
+- 3 Chlorine, 3 Water (Phenol) (45u)
+- Nitrogen, Oxygen to make Libital. (135u total)
+- (Beaker 2) Pour in some Libital.
+- (Beaker 2) Carbon, Blood (acquired from almost anyone) in equal parts with Libital to make Synthflesh.
 
 ## Epinepherine
 > Note: There's usually quite a few bottles of the stuff lying around. BUT it doesn't hurt to know how to put this together if you somehow burn it all. You'll want at least 2 beakers for this unless you got BS beakers
