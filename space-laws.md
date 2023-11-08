@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-10-02T23:00:25.956Z
+date: 2023-11-08T22:27:30.548Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -18,7 +18,7 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 | Code | MXX - Modifier | 0XX - Infraction | 1XX - Minor | 2XX - Medium | 3XX - Major | 4XX - Felony | XXX - Capital |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01  | Clear Danger |     | Assault | Aggravated Assault | Larceny | Grand Larceny | Genetic Mutilation  |
-| 02  | Elevated Sentencing |     | Pickpocketing | Theft | Sabotage | Grand Sabotage | Insurrection |
+| 02  | Elevated Sentencing |     | Pickpocketing | Theft | Sabotage | Grand Sabotage | Sedition |
 | 03  | Self Defense | Superficial Vandalism | Minor Vandalism | Major Vandalism | High Conspiracy | Espionage | Biological Terror |
 | 04  | Non Compos Mentis |     | Vigilantism | Conspiracy | Hostile Activity | Possession, Corporate Secrets | Priority Threat |
 | 05  | Griseo Maris |     |  Disturbing the Peace   | Hostile Agent | Dangerous Contraband | Murder |  Prime Murder/Mass Murder   |
@@ -267,7 +267,7 @@ Only the **Captain** can authorize an **Execution** or **Forced Cyborgization**.
 | Code |     | Crime | Description | Notes |
 | --- | --- | --- | --- | --- |
 | 501 | ![Genetic Mutilation.png](https://static.miraheze.org/monkestationwiki/thumb/a/af/Genetic_Mutilation.png/95px-Genetic_Mutilation.png) | **Genetic Mutilation** | To purposefully modify an individual’s genetic code without consent, or with intent to harm. | Generally this is purposefully irradiating people, and typically it will be the geneticist getting demoted shortly after. |
-| 502 | ![Insurection.png](https://static.miraheze.org/monkestationwiki/thumb/d/db/Insurection.png/96px-Insurection.png) | **Insurrection** | **To knowingly lead a mob of individuals in a manner which seeks to unseat the current chain of command, or otherwise revolt against Nanotrasen.** | **Heads of any revolutionary or anarchist movements are here.** |
+| 502 | ![Insurection.png](https://static.miraheze.org/monkestationwiki/thumb/d/db/Insurection.png/96px-Insurection.png) | **Sedition** | **To knowingly work against the intrests of nanotrasen.** | **Heads of any revolutionary or anarchist movements are here.** |
 | 503 | ![BioTerror.png](https://static.miraheze.org/monkestationwiki/thumb/6/68/BioTerror.png/96px-BioTerror.png) | **Biological Terror** | **To knowingly release, cause, or otherwise cause the station to become affected by a disease, plant, or other biological form which may spread uncontained and or cause serious physical harm**. | **Don't immediately lynch the virologist, but an investigation might be a good idea.** |
 | 504 | ![EOTCmoment.png](https://static.miraheze.org/monkestationwiki/thumb/5/5f/EOTCmoment.png/96px-EOTCmoment.png) | **Priority Threat** | **To be a high priority threat to the station.** | **To be a member of any of the following organizations: Hostile boarding parties, Wizards, Changeling Hiveminds, cults, A member of a bloodsucker clan, or other non-authorized religious practitioners (heretics).** |
 | 505 | ![Prime murder.png](https://static.miraheze.org/monkestationwiki/thumb/a/a3/Prime_murder.png/95px-Prime_murder.png) | **Prime Murder/Mass Murder** | To commit the act of murder, with clear intent to kill, and clear intent or to have materially take steps to prevent the revival of the victim or to kill three more more individuals | **This includes debraining or decapacitating a corpse with purpose other than cloning.** |
