@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-11-08T22:27:30.548Z
+date: 2023-11-12T19:52:33.016Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -99,7 +99,8 @@ With specific regard to Hostile Agents, as per code 205, Nanotrasen Security div
     -   Plasmamen shouldn't be stripped of their uniform, helmet and gloves as there is no prisoner equivalent available and should keep their plasma internals.
 3.  Prisoners must be brought to the Prisoner Transfer room.
 4.  It is advised, but not required, to have a Brig Physician in attendance to verify death. A chaplain may be present to give last rites.
-5.  Authorization must be given by the Captain. If a Captain is not assigned, dead, missing, or otherwise rendered incapable of providing authorization, the Acting Captain may authorize an execution in their stead. Should the Captain and Acting Captain be unable to provide authorization, it must come from Central Command. Without authorization, executions are murder.
+5.  Authorization must be given by the Head of Security or Captain. If either is not assigned, dead, missing, or otherwise rendered incapable of providing authorization, the Acting Captain or Acting Head of Security may authorize an execution in their stead. Should the Captain and Acting Captain be unable to provide authorization, it must come from Central Command. Without authorization, executions are murder.
+    -   The Captain or Acting Captain can veto an execution at any time for any reason he see fit. Proceeding with an execution after a Captain veto is murder.
 6.  Though not obligatory, it is recommended that all executed prisoners be considered for borgification post-execution.
 7.  Update the security and medical records of the executed prisoner.
 
