@@ -2,7 +2,7 @@
 title: Botanist
 description: This is the Captain speaking, a reward will be issued for whoever brings in the Botanist who littered the hallways with miniature banana peels, thank you.
 published: true
-date: 2023-11-29T21:42:47.161Z
+date: 2023-11-29T21:44:06.369Z
 tags: botany, jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T20:43:22.865Z
@@ -18,14 +18,14 @@ dateCreated: 2023-09-09T20:43:22.865Z
 
 # QUICK AND DIRTY GUIDE
 
-Whether you're a budding botanist main or got the role by accident, the basics of Monkestation botany setup will always be the same.
+Whether you're a budding botanist main or got the role by accident, the basics of Monkestation botany setup will always be the same. - As presented by Seeb.
 
 ### OH FUCK, I'M A BOTANIST, HELP
 
 The go-to setup for Monkestation botany is a simple process:
 1) Take a high-nutriment plant seed from the MegaSeed vendor and remove all reagent genes in it but nutriment using the dna manipulator. Any plant with nutriment will work, but pumpkins and watermelons are the best, particularly due to having Perennial Growth that allows for multiple harvests.
 2) Use the two round-start biocubes from the composter to speed up your plant's growth. Put your first first few harvests into the composter until it lights up green, indicating you can make more cubes. (You can also put seeds in the composter!)
-2a) Put any other available food or plants you can find in the biogenerator and generate biomass while you wait on your first plant. You can also hack the Nutrimax vendor for ammonia and diethylamine bottles.
+- Put any other available food or plants you can find in the biogenerator and generate biomass while you wait on your first plant. You can also hack the Nutrimax vendor for ammonia and diethylamine bottles.
 3) Once you have enough biomass in the composter for more cubes, begin feeding the biogenerator your harvests (and maybe plant a second feed plant) to generate biomass for chems.
 4) Load your plants with ammonia to speed up its growth until it's instantly harvestable. Adding diethylamine will fix any botched harvests due to yield being 0, and saltpetre will increase the amount of biomass your harvested crops generate.
 5) Repeat biocubing your trays and filling them with chems (in this order: ammonia, diethylamine, saltpetre) until you've reached a few thousand biomass in both the biogen and composter.
