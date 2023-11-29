@@ -2,7 +2,7 @@
 title: Botanist
 description: This is the Captain speaking, a reward will be issued for whoever brings in the Botanist who littered the hallways with miniature banana peels, thank you.
 published: true
-date: 2023-09-23T21:45:06.869Z
+date: 2023-11-29T21:42:47.161Z
 tags: botany, jobs, service, wip
 editor: markdown
 dateCreated: 2023-09-09T20:43:22.865Z
@@ -10,16 +10,48 @@ dateCreated: 2023-09-09T20:43:22.865Z
 
 # Botanist
 
-|                             | SERVICE STAFF                                                                                   |
-|-----------------------------|----------------------------------------------------------------------------------------------|
-| \[ job_image ]<br>job title | Access:<br>Additional Access:<br>Difficulty:<br>Supervisors:<br>Duties:<br>Guides:<br>Alternate Titles: Hydroponicist, Gardener, Botanical Researcher, Herbalist, Florist, Rancher|
-
-## Main 
-Talk about the primary parts of the job here.
+| | SERVICE STAFF |
+|----|------|
+| \[ job_image ]<br>Botanist | Access: Hydroponics, Morgue<br>Additional Access: Bar, Kitchen<br>Difficulty: Medium <br>Supervisors: Head of Personnel<br>Duties: Grow plants, mutate them, grow less than legal stuff<br>Guides: This page is it<br>Alternate Titles: Hydroponicist, Gardener, Botanical Researcher, Herbalist, Florist, Rancher|
 
 
-### Sub-categories
-Talk about the subcategories here. Use many for different parts of the job that need to be here and not on a separate guide page.
+
+# QUICK AND DIRTY GUIDE
+
+Whether you're a budding botanist main or got the role by accident, the basics of Monkestation botany setup will always be the same.
+
+### OH FUCK, I'M A BOTANIST, HELP
+
+The go-to setup for Monkestation botany is a simple process:
+1) Take a high-nutriment plant seed from the MegaSeed vendor and remove all reagent genes in it but nutriment using the dna manipulator. Any plant with nutriment will work, but pumpkins and watermelons are the best, particularly due to having Perennial Growth that allows for multiple harvests.
+2) Use the two round-start biocubes from the composter to speed up your plant's growth. Put your first first few harvests into the composter until it lights up green, indicating you can make more cubes. (You can also put seeds in the composter!)
+2a) Put any other available food or plants you can find in the biogenerator and generate biomass while you wait on your first plant. You can also hack the Nutrimax vendor for ammonia and diethylamine bottles.
+3) Once you have enough biomass in the composter for more cubes, begin feeding the biogenerator your harvests (and maybe plant a second feed plant) to generate biomass for chems.
+4) Load your plants with ammonia to speed up its growth until it's instantly harvestable. Adding diethylamine will fix any botched harvests due to yield being 0, and saltpetre will increase the amount of biomass your harvested crops generate.
+5) Repeat biocubing your trays and filling them with chems (in this order: ammonia, diethylamine, saltpetre) until you've reached a few thousand biomass in both the biogen and composter.
+
+With any luck, you can reach a sufficient amount of biomass within 5-10 minutes.
+
+### WHAT THE FUCK DO THESE LIGHTS ON THE TRAY MEAN?
+
+The first leftmost light indicates plant health. Diethylamine (and saltpetre, less so) can heal your plants if they're dying.
+The second light in the middle indicates nutrient level. Plants need chems to live, and any normal chem like ammonia, diethylamine, etc.  will keep this level up.
+- This light also has a red, flashing overlay indicating high pest, weed, or toxicity level. It's a good idea to use only the cultivator to handle weeds, and diethylamine to kill pests. Using pest-killer chems will kill your plants quickly.
+The third blue light in the middle indicates water level. If it's flashing or dark blue, water your damn plants- it's not called "hydroponics" for nothing.
+The last rightmost light indicates whether your plant can be harvested- green means good!
+
+
+### HOW DO I MAKE FUNNY PLANT MUTATION?
+
+Refer to the Botanical Lexicon. Our botany uses a stat and chem-based system instead of the "pour mutagen, get weird plant" system other codebases use. If you want a specific plant, you can ctrl+f in the book to search for what you want, and observe what stats are required to reach them.
+As a rule of thumb:
+- Saltpetre = higher potency, lower speed
+- Diethylamine = higher yield
+- Ammonia = higher production speed
+- Enduro-gro = Higher endurance, lower potency AND yield
+- EZ Nutriment = higher lifespan
+
+The Monkestation wiki has complete reference for what chems affect plants in different ways. Some plants that require LOWER stat thresholds may require messing around with the dna manipulator to put lower-stat disks on higher-stat plants. Experiment!
 
 # Mutations
 ##  
