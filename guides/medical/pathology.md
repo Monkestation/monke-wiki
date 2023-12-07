@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T19:24:48.326Z
+date: 2023-12-07T19:37:12.449Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -45,6 +45,62 @@ dateCreated: 2023-12-07T18:26:32.438Z
 |![screenshot_2023-12-07_135825.png](/screenshot_2023-12-07_135825.png) | Disease Splicer | This is responsible for creating disease disks and splicing them into diseases |
 |![screenshot_2023-12-07_135831.png](/screenshot_2023-12-07_135831.png) | Centrifuge | Creates vaccines and removes other diseases from a blood sample | 
 |![screenshot_2023-12-07_135835.png](/screenshot_2023-12-07_135835.png) | Incubator | Incubates Disease dishes to grow or hinder diseases |
+
+# How to Virus
+> First things first, you are going to want to find some infected blood, late joins and mice have these. To see whos infected turn on your science goggles and refer the the disease spread types and you to see whos infected
+{.is-info}
+
+> Expect to be tried as a war criminal if you make your disease airborne spread, for good viruses blood spread is what you want.
+{.is-warning}
+
+> Bring the blood sample back to your lab and throw it into the isolator and isolate this may take some time, so its best advised to go find more diseases in the mean time.
+{.is-info}
+
+> Bring the disease to the incbuator after giving it some virus food to grow, afterwards bring it to the analyzer to analyze it
+{.is-info}
+
+> You now have an analyzed disease, it splits into two sections from here. Modification and Curing.
+{.is-success}
+
+## Modification
+> You will need a sample of this virus for every symptom you want to extract, using a syringe on the virus dish will let you get 2 syringes of blood out of it.
+{.is-warning}
+
+> Take the symptoms you want out of the virus using the splicer and create some disease disks for later.
+
+> Using the disease we want to spread slot the symptoms into the stage you want.
+
+> Incubating the disease will raise or lower its strength robustness and infectability
+{.is-info}
+
+> If you aren't an antag re-analyze your virus so its in the database and medical knows what it is, or you will have a mob at your door
+{.is-warning}
+
+> You've now made a virus, and are ready to release it into the world!
+{.is-success}
+
+## Curing
+In the virus label there will be something called the virus antigens, if you are using the Antibody Scanner it will look like this.
+![asdas.png](/asdas.png)
+Assuming the virus is analyzed you will see the notches over antigens those are what is needed to cure the virus.
+
+> If you just see a line its not analyzed and will need to be analyzed
+{.is-info}
+
+You will need to raise the antigens to the topmost line in order to cure it, there are a few ways to do this.
+1. Vaccines
+2. Medication
+3. Rest
+4. Burn it
+5. Chicken Noodle Soup
+
+Medication is spaceacillian and other antipathogenics.
+Chicken Noodle Soup acts as a really low level anti-pathogenic so it most likely won't cure anything except low level viruses.
+
+> Its advised to raise your antigens to a certain point like 35-45 and than getting virology to create a vaccine, this wont take nearly as long and will help cure other people aswell.
+
+> If you followed any of the steps before this you should have cured the disease, but be careful other diseases will lower antigens, and can make you vulnerable to this disease again!
+{.is-success}
 
 # Machines
 
