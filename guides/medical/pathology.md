@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T19:37:12.449Z
+date: 2023-12-07T19:39:31.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -64,6 +64,8 @@ dateCreated: 2023-12-07T18:26:32.438Z
 
 ## Modification
 > You will need a sample of this virus for every symptom you want to extract, using a syringe on the virus dish will let you get 2 syringes of blood out of it.
+{.is-info}
+
 {.is-warning}
 
 > Take the symptoms you want out of the virus using the splicer and create some disease disks for later.
@@ -82,6 +84,8 @@ dateCreated: 2023-12-07T18:26:32.438Z
 ## Curing
 In the virus label there will be something called the virus antigens, if you are using the Antibody Scanner it will look like this.
 ![asdas.png](/asdas.png)
+> Each notch represts a stage in the virus hitting each notch means that stage won't trigger, IE: the first notch is the first symptom.
+
 Assuming the virus is analyzed you will see the notches over antigens those are what is needed to cure the virus.
 
 > If you just see a line its not analyzed and will need to be analyzed
