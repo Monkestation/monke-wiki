@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T18:54:52.763Z
+date: 2023-12-07T18:55:36.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -24,7 +24,7 @@ dateCreated: 2023-12-07T18:26:32.438Z
 # Disease Images and you
 | Image | Name | Description |
 | --- | --- | --- |
-|![image.png](/image.png) | Blood Contact | Blood pools, Injecting blood, bloodied items, bloodied surgery tools.|
+|![image.png](/image.png) | Blood Contact | Blood pools, Injecting blood, bloodied items, bloodied surgery tools, ingesting blood, eating infected meats.|
 |![screenshot_2023-12-07_134128.png](/screenshot_2023-12-07_134128.png) | Skin Contact | Touching items and mobs will spread the disease.|
 |![screenshot_2023-12-07_135239.png](/screenshot_2023-12-07_135239.png) |Airborne Spread | Breathing these clouds in will spread it, infection chance increases lifespan of clouds.|
 ---
