@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T18:55:36.887Z
+date: 2023-12-07T18:55:55.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -21,7 +21,7 @@ dateCreated: 2023-12-07T18:26:32.438Z
 > Chemistry's job is no longer to cure viruses its now entirely up to you the pathologist.
 {.is-warning}
 
-# Disease Images and you
+# Disease spread types and you
 | Image | Name | Description |
 | --- | --- | --- |
 |![image.png](/image.png) | Blood Contact | Blood pools, Injecting blood, bloodied items, bloodied surgery tools, ingesting blood, eating infected meats.|
@@ -29,4 +29,4 @@ dateCreated: 2023-12-07T18:26:32.438Z
 |![screenshot_2023-12-07_135239.png](/screenshot_2023-12-07_135239.png) |Airborne Spread | Breathing these clouds in will spread it, infection chance increases lifespan of clouds.|
 ---
 
-# Your New Tools
+# Your New Machines
