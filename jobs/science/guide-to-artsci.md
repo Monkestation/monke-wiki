@@ -2,7 +2,7 @@
 title: Guide to Artifact Science
 description: Art sci! Now our own Monke flavor... with death!
 published: true
-date: 2023-12-03T18:57:10.028Z
+date: 2023-12-07T23:30:18.820Z
 tags: artifacts, forced cyborgization, jobs, science
 editor: markdown
 dateCreated: 2023-12-01T04:44:04.023Z
@@ -22,7 +22,7 @@ For the sake of your own safety, the safety of others and the safety of Central 
 
 And that's all you'll need to begin with! Keep in mind this list does not fully prepare you for all the dangers you may face and as such it is advised you keep looking at the wall of text in front of you. I mean you're a scientist already (I hope), so you should be good at this whole reading thing... Right?
 # Fuckin' space rocks, how do they work?
-Now I can already see you looking at those artifacts that the lab has pre-prepared, practically foaming at the mouth and ready to touch throw yourself at them like the deranged scientsist with a death wish that you are but **HOLD IT**.
+Now I can already see you looking at those artifacts that the lab has pre-prepared, practically foaming at the mouth and ready to throw yourself at them like the deranged scientsist with a death wish that you are but **HOLD IT**.
 
 There are ways to go about this that don't involve you becoming a cyborg for the rest of forever!
 
