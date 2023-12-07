@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T19:11:12.392Z
+date: 2023-12-07T19:21:03.077Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -51,6 +51,10 @@ Growth is how much our virus dish has grown, at 100% it can be analyzed
 Volume is the amount of reagents inside the virus dish.
 The Mutate variables are how much the dishes symptoms are mutated every process
 
+> Virus Food increases dish and virus growth, water on the other hand lowers growth and lowers multipliers.
+{.is-info}
+
+
 ## Disease Splicer
 The disease is made up of a few parts
 ![screenshot_2023-12-07_140733.png](/screenshot_2023-12-07_140733.png)
@@ -64,4 +68,18 @@ Using the symptom in your memory bank you can burn the symptom onto the disease 
 
 > You do not need to burn it into the same stage you took it from, you can have a disease with 4 of the same symptom.
 {.is-info}
+
+## Centrifuge
+> Unlike other machines the centrifuges processing speed is entirely dependant on the vial count and volumes of the vials, it performs best with all vials having the same reagent count.
+{.is-info}
+
+The centrifuge if where you create vaccines, you can also isolate a specific virus from a blood sample.
+To make a vaccine the blood sample in question needs to have a certain amount of the specific antigen in the blood, the amount of time to create the vaccine varies greatly and if at low concentrations can take upwards of 20 minutes to create a vaccine.
+
+## Disease Analyzer
+This machine only analyzes diseases, it requires the dish to be 100% grown so you may need to use the incubator. After doing so it will attach a label to the dish that when examined will give details about the virus, aswell as adding it to the Database. That looks like this.
+![screenshot_2023-12-07_141925.png](/screenshot_2023-12-07_141925.png)
+
+> Changes made to the virus will not auto update you will need to re-analyze the virus for the effects to update in the database.
+{.is-warning}
 
