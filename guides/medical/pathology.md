@@ -2,14 +2,14 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T19:21:03.077Z
+date: 2023-12-07T19:22:05.392Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
 ---
 
 # Important Information
-> Living mice contain viruses, so no need to kill them its useful to keep them to breed them to have a steady source of virus dishes
+> Living mice contain viruses, so no need to kill them its useful to keep them to breed them to have a steady source of virus dishes, using a syringe on a mouse will get some of the infected blood.
 {.is-info}
 
 > Wear a Bio-Suit. Contact diseases spread like wildfire just touching items can spread it, wear a bio suit or you and everything you hold dear will become infected.
@@ -83,3 +83,5 @@ This machine only analyzes diseases, it requires the dish to be 100% grown so yo
 > Changes made to the virus will not auto update you will need to re-analyze the virus for the effects to update in the database.
 {.is-warning}
 
+## Pathogenic Isolator
+The pathogenic isolator creates a virus dish out of a blood sample. Thats about it.
