@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2023-10-11T00:55:35.532Z
+date: 2023-12-07T20:43:43.623Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -65,25 +65,30 @@ Insults that are not intended to be sexual are allowed, such as; Deez Nuts, Ligm
 
 ## Rule 4: No Metagaming
 
-Out of game communications, cliques that mysteriously show up to silently save someone and usage of out of game information such as a stream to discover antagonist status are not permitted.
-
-> However, we highly encourage teaching friends as we know SS13 is a very difficult game. Should you need to use out of game communications for that purpose, we simply ask that you make an adminhelp during rounds that you are teaching someone this way. Give the name of the person/people you are teaching in the adminhelp.
+> We highly encourage teaching friends as we know SS13 is a very difficult game. Should you need to use out of game communications for that purpose, we simply ask that you make an adminhelp during rounds that you are teaching someone this way. Give the name of the person/people you are teaching in the adminhelp. If you wish to teach new players, you must use our Discord voice channels and accept that admins may choose to listen in to prevent actual metagaming. Plus, the admins may be able to provide some additional assistance if they're bored!
 {.is-info}
 
+> Out of game communications, cliques that mysteriously show up to silently save someone and usage of out of game information such as a stream to discover antagonist status are not permitted.
+{.is-danger}
 
-Metagrudging is the act of acting upon previous round info, such as refusing to heal someone because they were an antagonist last round.  
+
+> Usage of bugs or exploits, either a known issue or otherwise, can and will be punished severely, up to and including a permanent ban on the first offense depending on factors involved in the discovery of the bug or exploit. If you have a suspicion that something is not functioning correctly, AHELP and use the REPORT ISSUE button located at the top right of the client in order to provide necessary information so it may be properly handled.
+{.is-danger}
+
+
+> Metagrudging is the act of acting upon previous round info, such as refusing to heal someone because they were an antagonist last round. 
 This is not permitted.
+{.is-warning}
 
 > Do not speak about current round information in the OOC chat channel.
 {.is-warning}
 
+> Do not argue in OOC. You will eat an OOC ban. Do not SALT in OOC chat during a round. You will get an OOC ban. Take complaints to the discord. AFTER THE ROUND. We understand that not everything is fun or not all rounds are the best but do not take it with you.
+{.is-warning}
 
-Do not argue in OOC. You will eat an OOC ban. Do not SALT in OOC chat during a round. You will get an OOC ban. Take complaints to the discord. AFTER THE ROUND. We understand that not everything is fun or not all rounds are the best but do not take it with you.
+> Joining a round, then disconnecting shortly thereafter, be it at round start or otherwise, can be viewed as antag rolling. Antag rolling is held under this rule for purposes of enforcement. It should not have to be said, but it does need to be said.
+{.is-danger}
 
-> If you wish to teach new players, you must use our Discord voice channels and accept that admins may choose to listen in to prevent actual metagaming.
-{.is-info}
-
-Joining a round, then disconnecting shortly thereafter, be it at round start or otherwise, can be viewed as antag rolling. Antag rolling is held under this rule for purposes of enforcement. It should not have to be said, but it does need to be said.
 
 ## Rule 5: Streamer Rules
 
