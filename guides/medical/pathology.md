@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T19:22:05.392Z
+date: 2023-12-07T19:24:48.326Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -41,6 +41,10 @@ dateCreated: 2023-12-07T18:26:32.438Z
 | Image | Name | Description |
 | --- | --- | --- |
 |![screenshot_2023-12-07_135813.png](/screenshot_2023-12-07_135813.png) | Disease Analyzer | Anaylzes Virus Dishes if their growth is at 100%, adds disease to database. |
+|![screenshot_2023-12-07_135819.png](/screenshot_2023-12-07_135819.png) | Pathogenic Isolator | The pathogenic isolator creates a virus dish out of a blood sample |
+|![screenshot_2023-12-07_135825.png](/screenshot_2023-12-07_135825.png) | Disease Splicer | This is responsible for creating disease disks and splicing them into diseases |
+|![screenshot_2023-12-07_135831.png](/screenshot_2023-12-07_135831.png) | Centrifuge | Creates vaccines and removes other diseases from a blood sample | 
+|![screenshot_2023-12-07_135835.png](/screenshot_2023-12-07_135835.png) | Incubator | Incubates Disease dishes to grow or hinder diseases |
 
 # Machines
 
