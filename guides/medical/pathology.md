@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T18:26:32.438Z
+date: 2023-12-07T18:40:29.013Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -20,3 +20,11 @@ dateCreated: 2023-12-07T18:26:32.438Z
 
 > Chemistry's job is no longer to cure viruses its now entirely up to you the pathologist.
 {.is-warning}
+
+# Disease Images and you
+| Image | Name | Description |
+| --- | --- | --- |
+|![image.png](/image.png) | Blood Contact | Disease Spreads using blood as the medium. IE: Blood pools, Injecting blood, bloodied items, bloodied surgery tool|
+---
+
+# Your New Tools
