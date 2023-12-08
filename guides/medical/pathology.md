@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-07T21:36:08.572Z
+date: 2023-12-08T22:33:18.219Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -43,7 +43,7 @@ dateCreated: 2023-12-07T18:26:32.438Z
 |![screenshot_2023-12-07_135813.png](/screenshot_2023-12-07_135813.png) | Disease Analyzer | Anaylzes Virus Dishes if their growth is at 100%, adds disease to database. |
 |![screenshot_2023-12-07_135819.png](/screenshot_2023-12-07_135819.png) | Pathogenic Isolator | The pathogenic isolator creates a virus dish out of a blood sample |
 |![screenshot_2023-12-07_135825.png](/screenshot_2023-12-07_135825.png) | Disease Splicer | This is responsible for creating disease disks and splicing them into diseases |
-|![screenshot_2023-12-07_135831.png](/screenshot_2023-12-07_135831.png) | Centrifuge | Creates vaccines and removes other diseases from a blood sample | 
+|![screenshot_2023-12-07_135831.png](/screenshot_2023-12-07_135831.png) | Centrifuge | Creates vaccines and isolates diseases to a dish the better version of the isolator. | 
 |![screenshot_2023-12-07_135835.png](/screenshot_2023-12-07_135835.png) | Incubator | Incubates Disease dishes to grow or hinder diseases |
 
 # How to Virus
@@ -134,6 +134,9 @@ Using the symptom in your memory bank you can burn the symptom onto the disease 
 {.is-info}
 
 ## Centrifuge
+> This is the machine that you should be getting virus dishes from its faster than the isolator can do four at once and can be upgraded.
+{.is-warning}
+
 > Unlike other machines the centrifuges processing speed is entirely dependant on the vial count and volumes of the vials, it performs best with all vials having the same reagent count.
 {.is-info}
 
