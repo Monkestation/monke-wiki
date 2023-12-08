@@ -2,7 +2,7 @@
 title: Guide to Artifact Science
 description: Art sci! Now our own Monke flavor... with death!
 published: true
-date: 2023-12-07T23:30:18.820Z
+date: 2023-12-08T03:49:57.887Z
 tags: artifacts, forced cyborgization, jobs, science
 editor: markdown
 dateCreated: 2023-12-01T04:44:04.023Z
@@ -75,4 +75,8 @@ Knowing these isn't really important unless you plan on selling your artifacts t
 # Meteor Magnet
 Alright so you've read this far, I'm assuming you're all out of the labs starter artifacts now. Fortunately there's a way of getting more that *doesn't* involve you needing to scavenge maintenance for the ones that occasionally appear in there.
 
-That being the meteor magnet! Though nobody seems to understand how it works so I'll explain it in a way that doesn't involve needing to use your brain. (When I inevitably finish this guide oh god.)
+That being the meteor magnet! Though nobody seems to understand how it works so I'll explain it in a way that doesn't involve needing to use your brain.
+
+The first thing you'll want to do is send a ping (obviously using the big bold PING button), which will then show you an azimuth. Walk the X-Axis either forward or backward, depending on if the Azimuth goes down or up (you want it to get to 0).
+
+Typically if you go over the required coordinate on the X axis, the Azimuth will be set to 180, so you'll know then to start walking the X axis back by single digits.
