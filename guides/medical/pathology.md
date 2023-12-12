@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-08T22:33:18.219Z
+date: 2023-12-12T07:14:31.899Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -53,7 +53,7 @@ dateCreated: 2023-12-07T18:26:32.438Z
 > Expect to be tried as a war criminal if you make your disease airborne spread, for good viruses blood spread is what you want.
 {.is-warning}
 
-> Bring the blood sample back to your lab and throw it into the isolator and isolate this may take some time, so its best advised to go find more diseases in the mean time.
+> Bring the blood sample back to your lab and throw it into the centrifuge and isolate this may take some time, so its best advised to go find more diseases in the mean time.
 {.is-info}
 
 > Bring the disease to the incbuator after giving it some virus food to grow, afterwards bring it to the analyzer to analyze it
@@ -149,6 +149,3 @@ This machine only analyzes diseases, it requires the dish to be 100% grown so yo
 
 > Changes made to the virus will not auto update you will need to re-analyze the virus for the effects to update in the database.
 {.is-warning}
-
-## Pathogenic Isolator
-The pathogenic isolator creates a virus dish out of a blood sample. Thats about it.
