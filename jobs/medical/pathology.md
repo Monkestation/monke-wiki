@@ -2,8 +2,8 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-15T00:38:55.418Z
-tags: 
+date: 2023-12-15T00:53:50.147Z
+tags: guides, medical, disease, pathologist
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
 ---
