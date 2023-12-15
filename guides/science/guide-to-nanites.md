@@ -2,8 +2,8 @@
 title: Guide to Nanites
 description: Old stuff made new again!
 published: true
-date: 2023-09-23T02:02:17.725Z
-tags: guides, nanites
+date: 2023-12-15T00:38:16.770Z
+tags: guides, nanites, science
 editor: markdown
 dateCreated: 2023-09-23T02:02:17.725Z
 ---
