@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2023-12-06T20:59:07.607Z
+date: 2023-12-15T22:29:08.730Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -175,7 +175,7 @@ Circumstances that may be applied to incidents or crimes depending on circumstan
 | M04 | **Non Compos Mentis** | Those of unstable mind should be referred to medical treatment or, if required, forced cryogenic storage. | English: Insanity. This is intended to be applied to IC hypnosis, mind control, or otherwise actual incapacitation. *IC 'insanity' is not an excuse for high crimes.* |
 | M05 | **Griseo Maris** | Coordinated behavior by those with no clear assigned duty which interrupts the normal function of any one department may lead to sentencing for any crimes committed during such actions to be increased in severity by one level for punishment. | English: Grey Tide. Go be useful you fucks. |
 | M06 | **Resisting Arrest** | Knowingly resisting attempts at legal detention by members of the security team. It is advised that these individuals should have their sentences increased the recommended 20% of total duration. | Running will only increase your sentence. |
-| M07 | **Escaped Prisoner/Attempting Escape** | Someone who has escaped their cell should be recaptured and returned to the brig. Their timer should be reset to the full length of the original sentence. If they attempted to escape the timer should be reset to half of the original time | Escaping will only delay the inevitable. |
+| M07 | **Escaped Prisoner/Attempting Escape** | Someone who has escaped their cell should be recaptured and returned to the brig. Their timer should be reset to the full length of the original sentence. If they attempted to escape the timer should be reset to half of the original time. Perma inmates who escape permabrig or attempt to while using force are eligible for Capital punishment | Escaping will only delay the inevitable. |
 
 ## _Infractions_
 
