@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-19T08:06:58.475Z
+date: 2023-12-19T08:07:17.675Z
 tags: disease, guides, medical, pathologist
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -177,7 +177,7 @@ This machine only analyzes diseases, it requires the dish to be 100% grown so yo
 | 1     | Gluttony's Blessing              | Turns the target into a morph                                                       | Harmful        | YES         |
 | 1     | Gondola Transformation           | Turns the target into a gondola                                                     | Harmful        | YES         |
 | 1     | Severe Anxiety                   | Causes the host to suffer from severe anxiety                                       | Annoying       | YES         |
-# Stage 2
+## Stage 2
 | Stage | Name                          | Description                                                                                                                            | Overall Effect | Restricted? |
 |-------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|
 | 2     | Facial Hypertrichosis         | Causes the infected to spontaneously grow a beard, regardless of gender. Only affects humans.                                          | Flavor         | No          |
