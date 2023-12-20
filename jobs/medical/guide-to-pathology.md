@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-20T17:40:48.890Z
+date: 2023-12-20T18:13:31.443Z
 tags: disease, guides, medical, pathologist
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -40,11 +40,10 @@ dateCreated: 2023-12-07T18:26:32.438Z
 # Your New Machines
 | Image | Name | Description |
 | --- | --- | --- |
-|![screenshot_2023-12-07_135813.png](/screenshot_2023-12-07_135813.png) | Disease Analyzer | Anaylzes Virus Dishes if their growth is at 100%, adds disease to database. |
-|![screenshot_2023-12-07_135819.png](/screenshot_2023-12-07_135819.png) | Pathogenic Isolator | The pathogenic isolator creates a virus dish out of a blood sample |
+|![screenshot_2023-12-07_135813.png](/screenshot_2023-12-07_135813.png) | Disease Analyzer | Anaylzes Virus Dishes if their growth is at 100%, adds disease to database.<br>Parts: 3 Scanning Modules, 1 Micro Laser, 1 Manipulator |
 |![screenshot_2023-12-07_135825.png](/screenshot_2023-12-07_135825.png) | Disease Splicer | This is responsible for creating disease disks and splicing them into diseases |
-|![screenshot_2023-12-07_135831.png](/screenshot_2023-12-07_135831.png) | Centrifuge | Creates vaccines and isolates diseases to a dish the better version of the isolator. | 
-|![screenshot_2023-12-07_135835.png](/screenshot_2023-12-07_135835.png) | Incubator | Incubates Disease dishes to grow or hinder diseases |
+|![screenshot_2023-12-07_135831.png](/screenshot_2023-12-07_135831.png) | Centrifuge | Creates vaccines and isolates diseases to a dish the better version of the isolator.<br>Parts: 3 Manipulators | 
+|![screenshot_2023-12-07_135835.png](/screenshot_2023-12-07_135835.png) | Incubator | Incubates Disease dishes to grow or hinder diseases<br>Parts: 2 Scanning Module, 1 Matter Pin, 2 Micro Lasers |
 
 # How to Virus
 > First things first, you are going to want to find some infected blood, late joins and mice have these. To see whos infected turn on your science goggles and refer the the disease spread types and you to see whos infected
