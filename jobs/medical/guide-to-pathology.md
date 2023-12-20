@@ -2,7 +2,7 @@
 title: Guide To Pathology
 description: A basic guide to our pathology system as it differs from tg's version
 published: true
-date: 2023-12-19T08:07:17.675Z
+date: 2023-12-20T17:40:48.890Z
 tags: disease, guides, medical, pathologist
 editor: markdown
 dateCreated: 2023-12-07T18:26:32.438Z
@@ -232,3 +232,29 @@ This machine only analyzes diseases, it requires the dish to be 100% grown so yo
 | 3     | Metabolic Boost              | The virus causes the host's metabolism to accelerate rapidly, making them process chemicals twice as fast but also causing increased hunger.                                                                                                                                                                                                                                                                             | Helpful        | No          |
 | 3     | Bad Adrenaline               | If left untreated, the subject will suffer from lethargy, dizziness and periodic loss of consciousness.                                                                                                                                                                                                                                                                                                                  | Annoying       | Yes         |
 | 3     | DNA Degradation              | Attacks the infected's DNA, causing it to break down.                                                                                                                                                                                                                                                                                                                                                                    | Deadly         | Yes         |
+
+## Stage 4
+| Stage | Name                     | Description                                                                                                                                                                   | Overall Effect | Restricted |
+|-------|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------|
+| 4     | Space Adaptation Effect  | Heals the infected from the effects of space exposure, should they remain in a vacuum                                                                                         | Helpful        | No         |
+| 4     | Creosote Syndrome        | Causes the infected to synthesize a wafer thin mint                                                                                                                           | Harmful        | No         |
+| 4     | Dead Ear Syndrome        | Kills the infected's aural senses                                                                                                                                             | Hindrance      | No         |
+| 4     | Toxification Syndrome    | A more advanced version of Hyperacidity, causing the infected to rapidly generate toxins.                                                                                     | Deadly         | No         |
+| 4     | Reverse Pattern Syndrome | Attacks the infected's DNA, causing rapid spontaneous mutation, and inhibits the ability for the infected to be affected by cryogenics                                        | Deadly         | No         |
+| 4     | Longevity Syndrome       | Grants functional immortality to the infected so long as the symptom is active. Heals broken bones and healing external damage. Creates a backlash if cured.                  | Helpful        | No         |
+| 4     | Fragile Person Syndrome  | Attacks the infected's body structure, making it more fragile.                                                                                                                | Hindrance      | No         |
+| 4     | Fizzle Effect            | Causes an ill, though harmless, sensation to the infected's throat.                                                                                                           | Flavor         | No         |
+| 4     | Delightful Effect        | A more powerful version of Full Glass. Makes the infected feel delightful.                                                                                                    | Helpful        | No         |
+| 4     | Arachnogenesis Effect    | Causes the infected's stomach to begin producing creatures of the arachnid variety.                                                                                           | Harmful        | No         |
+| 4     | Blattogenesis Effect     | Causes the infected's stomach to begin producing creatures of the blattid variety.                                                                                            | Hindrance      | No         |
+| 4     | Gregarious Impetus       | Infests the social structures of the infected's brain, causing them to feel better in crowds of other potential victims, and punishing them for being alone                   | Hindrance      | No         |
+| 4     | Magnitis                 | This disease disrupts the magnetic field of the body, making it act as if a powerful magnet.                                                                                  | Harmful        | No         |
+| 4     | Retrotransposis          | This symptom transplants the genetic code of the initial vector into new hosts                                                                                                | Harmful        | No         |
+| 4     | Lizarditis               | Turns you into a lizard                                                                                                                                                       | Annoying       | No         |
+| 4     | Mothification            | Turns you into a Moth                                                                                                                                                         | Annoying       | No         |
+| 4     | Retrovirus               | A DNA-altering retrovirus that scrambles the structural and unique enzymes of a host constantly                                                                               | Annoying       | No         |
+| 4     | The Rhumba Beat          | Chick Chicky Boom!                                                                                                                                                            | Deadly         | No         |
+| 4     | Inorganic Biology        | The virus can survive and replicate even in an inorganic environment, increasing its resistance and infection rate.                                                           | Flavor         | No         |
+| 4     | Necrotic Metabolism      | The virus is able to thrive and act even within dead hosts.                                                                                                                   | Flavor         | No         |
+| 4     | Myocardial Infarction    | If left untreated, the subject will die.                                                                                                                                      | Deadly         | Yes        |
+| 4     | Sneezing?                | The virus causes irritation of the nasal cavity, making the host sneeze occasionally. Sneezes from this symptom will spread the virus in a 4 meter cone in front of the host. | Harmful        | Yes        |
