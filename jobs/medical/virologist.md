@@ -2,7 +2,7 @@
 title: Virologist
 description: Someone started having the sniffles? Get the flamer. -Head of Security
 published: true
-date: 2023-12-10T19:01:56.794Z
+date: 2023-12-21T00:50:59.689Z
 tags: jobs, medical, wip
 editor: markdown
 dateCreated: 2023-09-09T20:15:20.810Z
@@ -26,7 +26,7 @@ Bare minimum requirements: If an epidemic breaks out aboard the station, don't b
 
 Unlike Robert Nevile, you will not have a huge kick-ass adventure while making diseases. You will sit in your lab and likely fuck up constantly. Just make sure the Chemist or the Chief Medical Officer are around (and attentive) or you won't be able to cure uncommon diseases and might have an outbreak. Curing diseases is ~~typically first done by chemists, but it's your job to turn cured blood into a vaccine, which is a much more effective treatment~~ strictly your responsibility, but there's a lot new stuff involved here too.
 
-> Look at the new [guide to pathology](/guides/medical/pathology) because this job page is old as fuck and I'll just be replacing it anyway by hand due to it being a whole new job and system.
+> Look at the new [guide to pathology](/guides/medical/guide-to-pathology) because this job page is old as fuck and I'll just be replacing it anyway by hand due to it being a whole new job and system.
 {.is-success}
 
 
