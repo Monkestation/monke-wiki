@@ -2,7 +2,7 @@
 title: Security Officer
 description: "Who watches the watchmen?" We do, too. We watch each other.
 published: true
-date: 2023-09-15T08:25:06.241Z
+date: 2023-12-25T01:52:37.646Z
 tags: jobs, security, wip
 editor: markdown
 dateCreated: 2023-09-09T19:24:02.964Z
@@ -34,7 +34,7 @@ TL; DR:
 - Go patrolling and keep your eyes and ears open.
 - Refer any evidence to the Detective for forensic scanning.
 - Detain any criminals you may come across in the act!
-- Don't become shitcurity. Seriously. Everyone will hate you if you do.
+- Don't become [shitcurity](https://wiki.monkestation.com/en/jobs/security/guide-to-shitcurity). Seriously. Everyone will hate you if you do.
 - ~~Crush your enemies. See them driven before you.~~
 
 # Know Your Place
@@ -53,37 +53,14 @@ Well, this page is designed to turn you from angry, bitter waste of supplies int
 Each officer is given an assignment when they join the game. Most will be assigned to guard a department. Department guards are given a small security office along with limited access and are able to use that department's radio channel. Department guards are also marked with color-coded armbands. While they are not required to remain at their post, it is their responsibility to protect it.
 
 Like general Security Officers, department guards report directly to the Head of Security. However, they should generally follow the wishes of the head of the department they are guarding. Guards may be dismissed from their post by the department head. 
+<p>
 
-### Medbay
-
-Department Head: Chief Medical Officer
-
-Additional Access: Medical
-
-Radio Key: .m
-### Research
-
-Department Head: Research Director
-
-Additional Access: Science
-
-Radio Key: .n
-
-### Engineering
-
-Department Head: Chief Engineer
-
-Additional Access: Construction Area, Engineering
-
-Radio Key: .e
-
-### Supply
-
-Department Head: Quartermaster
-
-Additional Access: Cargo Office, Mining
-
-Radio Key: .u
+|-|
+| | Department | Additional Access | Department Head | Radio Key |
+| <img src="/jobs/security/armband_med.png" width = 70 height = 70> | <p style="color:cyan;"> Medbay <p> | Medical | Chief Medical Officer | .m |
+| <img src="/jobs/security/armband_sci.png" width = 70 height = 70> | <p style="color:fuchsia;"> Research <p> | Science | Research Director | .n |
+| <img src="/jobs/security/armband_eng.png" width = 70 height = 70> | <p style="color:gold;"> Engineering <p> | Engineering, Construction Area | Chief Engineer | .e|
+|  <img src="/jobs/security/armband_cargo.png" width = 70 height = 70>| <p style="color:saddlebrown;"> Supply <p> | Cargo Office, Mining | Quartermaster | .u |
 
 # Security Offices
 
