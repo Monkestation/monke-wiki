@@ -2,7 +2,7 @@
 title: Security Officer
 description: "Who watches the watchmen?" We do, too. We watch each other.
 published: true
-date: 2023-12-25T01:52:37.646Z
+date: 2023-12-25T02:34:41.207Z
 tags: jobs, security, wip
 editor: markdown
 dateCreated: 2023-09-09T19:24:02.964Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-09T19:24:02.964Z
 
 | | SECURITY STAFF |
 |:---:|--------------------|
-| \[ job_image ]<br>Security Officer | Access: Security, Brig, Holding Cells, Courtroom, Maintenance, Weapon Permit<br>Additional Access: Morgue, Det's Office<br>Difficulty: Hard<br>Supervisors: Head of Security<br>Duties: Protect company assets, follow the Standard Operating Procedure, eat donuts<br>Guides: Guide to security, Standard Operating Procedure, [Space Law](/space-laws), Security Items<br>Alternate Titles: Security Operative, Security Cadet, Peacekeeper |
+| \[ job_image ]<br>Security Officer | Access: Security, Brig, Holding Cells, Courtroom, Maintenance, Weapon Permit<br>Additional Access: Morgue, Det's Office<br>Difficulty: Hard<br>Supervisors: Head of Security<br>Duties: Protect company assets, follow the Standard Operating Procedure, eat donuts<br>Guides: [Guide to security](https://wiki.monkestation.com/en/jobs/security/guide-to-security), Standard Operating Procedure, [Space Law](/space-laws), Security Items<br>Alternate Titles: Security Operative, Security Cadet, Peacekeeper |
 
 Welcome to Security. Chances are that you have been assigned this job because it was the only available position other than Assistant. Since you'd rather not end up a corpse, or doubt the prospects of reassignment, you've chosen the Few, the Red, and the Despised.
 
