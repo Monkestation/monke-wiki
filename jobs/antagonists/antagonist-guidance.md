@@ -2,8 +2,8 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2023-12-28T01:19:02.861Z
-tags: antagonist, rules, admins
+date: 2023-12-28T03:07:53.805Z
+tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
 ---
@@ -25,13 +25,13 @@ First off, who's who!
 | Space Dragon       | Y              | N                   | High Threat, can end a round quickly if played well                                                                                                                                                         |
 | Space Pirates      | Y              | N                   | Pirates are there for a purpose: LOOT! Any killin' outside a plunderin' and defendin' yer haul ain't looked on wisely!                                                                                      |
 | Xenomorphs         | Y              | N                   | Xenos.                                                                                                                                                                                                      |
-| Nightmares         | Y              | N                   | Nightmares exist to spread darkness. This usually involves a lot of murder, especially since they visibly look like a ling because of shit TG code/sprites|
+| Nightmares         | N              | Y                   | Nightmares exist to spread darkness. If the worst they do is break lights, that's just vandalism. If they're breaking APCs, they're 100% valid.|
 | Nuclear Operatives | Y              | N                   | Includes standard Operatives, Lone Operative and Clown Operatives. Enemy of the Corporation Status                                                                                                          |
 | Spiders            | Y              | N                   | Depending on populations, a spider infestation can overwhelm a station, hence always valid.                                                                                                                 |
 | Ninja              | Y              | N                   | Enemy of the Corporation: Spider Clan                                                                                                                                                                       |
 | Heretic            | Y, See Notes   | Y, See Notes        | Always valid with Sec. Visibly a Heretic is valid. Ascended Heretic is valid. Escalation with NON TARGETS are required until ascension. No explicit required escalation with a named target for objectives. |
 | Malf AI            | N, See Notes   | Y, See Notes        | Delta AI is valid for whole crew to hunt.                                                                                                                                                                   |
-| Bloodsucker        | Y, See Notes   | N                   | Bloodsuckers are valid only to security.                             |
+| Bloodsucker        | Y              | N                   | Straight valid.  |
 | Revenant           | Y              | N                   | Revenants can be fought by anyone that happens to catch them.                                                                                                                                               |
 | Morph              | Y              | N                   | Morphs can either be just a nuisance or an assistant to a round ending threat depending on circumstances.                                                                                                   |
 | Slasher            | Y              | N                   | As of the time of this table, the Slasher doesn't have explicit goals in mind. But they are valid.                                                                                                          |
@@ -51,8 +51,6 @@ As a general rule of thumb, Security (and anyone formally deputized by Security)
 
 Now for some more specific guidance regarding Security's relationship with some types of antagonists:
 
-
-- **Bloodsuckers** are valid to security and security only.
 - **Heretics** are always valid to security, regardless of status.
 
 ## Perception is Reality
@@ -96,3 +94,5 @@ For purposes of completing contracts, the **Contractors** are not required to es
 **Paradox Clones** are simply just in the wrong place at the wrong time. We don't know if they are all explicitly wanting 
 
 **Prisoners** are not antagonists on their own. If you don't have another kind of antagonist, you will require significantly more escalation before you can get violent. Remember: you're lower than scum and the AI can ignore you unless you are actively dying.
+
+**Assistants** are not antagonists on their own. If you don't have a proper valid antagonist status and you do antagonist things, expect to be treated like one per *perception is reality* and be permanently round removed for being an antagonist.
