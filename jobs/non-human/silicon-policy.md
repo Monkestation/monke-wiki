@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2023-12-28T01:20:35.822Z
+date: 2023-12-28T03:09:43.736Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -84,3 +84,4 @@ Quite simply, if they're on the manifest, they are crew. It's frankly a far more
 
 ## Simplebots
 - Whatever bot you take up, that's the job you are doing. You can be playful and cheerful and all of that. While you may have sentience, an AI may have you go forth and do the simple tasks you are capable of doing. If you refuse to do so, the AI may, at its discretion, purge you in order to take back indirect control.
+- As a simple bot, you have no real autonomy otherwise. You are property and thus the only protection is vandalism/destruction of station property. Understand this principle.
