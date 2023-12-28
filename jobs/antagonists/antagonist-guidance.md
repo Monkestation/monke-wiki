@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2023-12-28T03:08:37.637Z
+date: 2023-12-28T03:10:24.431Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -10,6 +10,8 @@ dateCreated: 2023-12-28T01:19:02.861Z
 
 # Antagonist Guidance
 If you are coming here, you are looking for some guidance on whether something is ok or something is not ok, at least as far as server rules and admin opinion is concerned. This shall serve as a resource for both admins and for players in order to gauge what they want to do and whether they have gotten to that point or not.
+
+But remember... *being an antagonist is a privledge, not a right*.
 
 First off, who's who!
 
