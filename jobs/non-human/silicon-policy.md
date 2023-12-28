@@ -2,13 +2,11 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2023-12-28T01:20:24.098Z
-tags: ai, pai, silicons, cyborgs
+date: 2023-12-28T01:20:35.822Z
+tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
 ---
-
-============ NEW SILICON POLICY===============
 
 # Silicon Policy
 
