@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2023-12-28T03:10:24.431Z
+date: 2023-12-28T22:18:20.850Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -93,7 +93,9 @@ For purposes of completing contracts, the **Contractors** are not required to es
 
 **Florida Man** does what Florida Man does. What is that? Nobody really knows.
 
-**Paradox Clones** are simply just in the wrong place at the wrong time. We don't know if they are all explicitly wanting 
+**Paradox Clones** are simply just in the wrong place at the wrong time. We don't know if they are all explicitly wanting to kill who they are... or aren't... yeah, don't try to think about it too hard.
+
+**Ashwalkers**, you get to have some special guidance here on this page. Considering that depending on the events of a given round, you may either be friendly with the station or outright at war with them, you really should be starting at a distrustful level with the station goers. You **must** defend your tendril. If you do not do this, you will face consequences of the dark gods of Lavaland.
 
 **Prisoners** are not antagonists on their own. If you don't have another kind of antagonist, you will require significantly more escalation before you can get violent. Remember: you're lower than scum and the AI can ignore you unless you are actively dying.
 
