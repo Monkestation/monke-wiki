@@ -2,8 +2,8 @@
 title: Guide to construction
 description: Always under construction
 published: true
-date: 2023-12-31T09:29:29.793Z
-tags: engineering, construction, building, things
+date: 2023-12-31T23:43:23.437Z
+tags: building, construction, engineering, things
 editor: markdown
 dateCreated: 2023-12-31T09:29:29.793Z
 ---
@@ -231,4 +231,18 @@ The Easy Way:
 - Set it to walls, windows, floors, whatever you desire.
 - Click to build. Watch your matter consumption. Refill with **iron or glass**. You may also make matter cartridges to some extent.
 
-Now that the easy way, 
+Now that the easy way, and now the hard way.
+
+You'll need the following:
+
+- iron sheets (for girders)
+- wrench
+- plasteel sheets (for reinforced walls)
+
+Now, to start building by hand:
+
+- Use **iron sheets** to build girders.
+- Anchor the girder with a **wrench** if you build an unanchored girder.
+- Use **iron sheets** on the girder to build regular wall. You may substitute virtually **any material** to build a material wall.
+- For reinforced walls, use **plasteel sheets** on the girders to reinforce it. (1 sheet)
+- On a reinforced girder, use **plasteel sheets** to finish the reinforced wall. (2 sheets)
