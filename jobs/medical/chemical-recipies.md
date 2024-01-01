@@ -2,7 +2,7 @@
 title: Chemical Recipies
 description: The wide WORLD of CHEMICALS!!!
 published: true
-date: 2024-01-01T21:41:47.693Z
+date: 2024-01-01T21:49:56.252Z
 tags: chemistry, medical, wip
 editor: markdown
 dateCreated: 2024-01-01T21:41:47.693Z
@@ -10,6 +10,10 @@ dateCreated: 2024-01-01T21:41:47.693Z
 
 > This page lacks the actual RECIPIES part. <br> This is for the most part straight from the /tg/ wiki
 {.is-danger}
+
+> \[chemist] **Tippo Felangus, the Chemist says:** <br>
+"Hey mate, welcome to Chemistry. This is one of the few jobs where you can make a man heal back up to full health one second and make him explode the next. <br>
+Sound too complicated? Naw, this stuff is really simple to make. All you have to do is pour some of this Potassium into a beaker of water, like so..."
 
 # Active Pure Chemicals
 A.K.A. what happens when you eat or splash these. Their metabolism rate is 0.4u per tick/cycle unless said otherwise. Unmentioned dispensable chemicals don't have any effects. Plasma and uranium require you to grind mineral sheets to acquire. 
