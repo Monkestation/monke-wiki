@@ -2,11 +2,15 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-01T03:57:57.199Z
+date: 2024-01-01T20:52:52.419Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
 ---
+
+> This page is not formally adopted policy as of 1/1/24. If you found this, neat: most of the things here are still more or less the current view of antagonists. If you want to provide feedback, write it down.
+{.is-warning}
+
 
 # Antagonist Guidance
 If you are coming here, you are looking for some guidance on whether something is ok or something is not ok, at least as far as server rules and admin opinion is concerned. This shall serve as a resource for both admins and for players in order to gauge what they want to do and whether they have gotten to that point or not.
@@ -17,33 +21,33 @@ First off, who's who!
 
 ## The Table
 
-| Antagonist         | Valid Huntable | Escalation Required | Notes                                                                                                                                                                                                       |
-|--------------------|----------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Wizard             | Y              | N                   | Defined enemy of the Corporation: The Wizard Federation                                                                                                                                                     |
-| Head Revolutionary | Y              | N                   | Sec can hunt you down at any time                                                                                                                                                                           |
-| Blood Cultist      | Y, See Notes   | N, See Notes        | The Cults should focus on conversions and avoid murder unless the murder is required. Halos on Blood Cultists are 100% valid.                                                                               |
-| Clockwork Cultist  | Y, See Notes   | N, See Notes        | The Cults should focus on conversions and avoid murder unless the murder is required.                                                                                                                        |
-| Blob               | Y              | N                   | Station Ending Threat                                                                                                                                                                                       |
-| Space Dragon       | Y              | N                   | High Threat, can end a round quickly if played well                                                                                                                                                         |
-| Space Pirates      | Y              | N                   | Pirates are there for a purpose: LOOT! Any killin' outside a plunderin' and defendin' yer haul ain't looked on wisely!                                                                                      |
-| Xenomorphs         | Y              | N                   | Xenos.                                                                                                                                                                                                      |
+| Antagonist         | Valid Huntable | Escalation Required | Notes  |
+|--------------------|----------------|---------------------|------|
+| Wizard             | Y              | N                   | Defined enemy of the Corporation: The Wizard Federation|
+| Head Revolutionary | Y              | N                   | Sec can hunt you down at any time|
+| Blood Cultist      | Y, See Notes   | N, See Notes        | The Cults should focus on conversions and avoid murder unless the murder is required. Halos on Blood Cultists are 100% valid.|
+| Clockwork Cultist  | Y, See Notes   | N, See Notes        | The Cults should focus on conversions and avoid murder unless the murder is required.|
+| Blob               | Y              | N                   | Station Ending Threat|
+| Space Dragon       | Y              | N                   | High Threat, can end a round quickly if played well|
+| Space Pirates      | Y              | N                   | Pirates are there for a purpose: LOOT! Any killin' outside a plunderin' and defendin' yer haul ain't looked on wisely!|
+| Xenomorphs         | Y              | N                   | Xenos.|
 | Nightmares         | N              | Y                   | Nightmares exist to spread darkness. If the worst they do is break lights, that's just vandalism. If they're breaking APCs, they're 100% valid.|
-| Nuclear Operatives | Y              | N                   | Includes standard Operatives, Lone Operative and Clown Operatives. Enemy of the Corporation Status                                                                                                          |
-| Spiders            | Y              | N                   | Depending on populations, a spider infestation can overwhelm a station, hence always valid.                                                                                                                 |
-| Ninja              | Y              | N                   | Enemy of the Corporation: Spider Clan                                                                                                                                                                       |
+| Nuclear Operatives | Y              | N                   | Includes standard Operatives, Lone Operative and Clown Operatives. Enemy of the Corporation Status|
+| Spiders            | Y              | N                   | Depending on populations, a spider infestation can overwhelm a station, hence always valid.|
+| Ninja              | Y              | N                   | Enemy of the Corporation: Spider Clan|
 | Heretic            | Y, See Notes   | Y, See Notes        | Always valid with Sec. Visibly a Heretic is valid. Ascended Heretic is valid. Escalation with NON TARGETS are required until ascension. No explicit required escalation with a named target for objectives. |
-| Malf AI            | N, See Notes   | Y, See Notes        | Delta AI is valid for whole crew to hunt.                                                                                                                                                                   |
+| Malf AI            | N, See Notes   | Y, See Notes        | Delta AI is valid for whole crew to hunt.|
 | Bloodsucker        | Y              | N                   | Straight valid.  |
-| Revenant           | Y              | N                   | Revenants can be fought by anyone that happens to catch them.                                                                                                                                               |
-| Morph              | Y              | N                   | Morphs can either be just a nuisance or an assistant to a round ending threat depending on circumstances.                                                                                                   |
-| Slasher            | Y              | N                   | As of the time of this table, the Slasher doesn't have explicit goals in mind. But they are valid.                                                                                                          |
-| Traitor            | N              | Y                   | Traitors that complete final objective are valid. Traitors otherwise aren't validhuntable but can still be dealt with via escalation.                                                                       |
+| Revenant           | Y              | N                   | Revenants can be fought by anyone that happens to catch them.|
+| Morph              | Y              | N                   | Morphs can either be just a nuisance or an assistant to a round ending threat depending on circumstances.|
+| Slasher            | Y              | N                   | As of the time of this table, the Slasher doesn't have explicit goals in mind. But they are valid.|
+| Traitor            | N              | Y                   | Traitors that complete final objective are valid. Traitors otherwise aren't validhuntable but can still be dealt with via escalation.|
 | Regal Rat          | Y              | N                   | Technically valid in that they can cause nothing but trouble for the crew. Crew's choice if they want to have a "peaceful" rat king.|
-| Fugitives          | N, See Notes   | Y                   | The Hunters sent to find you do not have to escalate as they are there to do just that. The crew don't have to help them or even you either.                                                                |
-| Abductors          | Y              | N                   | Can't exactly escalate with or as an alien, now can you?                                                                                                                                                    |
-| Obsessed           | N              | Y                   | Follow your objectives and try to give the folk you're dealing with some sense you're not there for senseless grief. Otherwise, have fun doing a Who's Who!                                                   |
-| Paradox Clone      | ???            | ???                 | Probably the strangest entry on the list. The only objective in the code is to murder and replace, but not all will do that, hence the unknown rating                                                       |
-| Florida Man        | ???            | ???                 | Florida Man does as Florida Man wants. Can be right here at the bottom of the list where it belongs or a higher threat than the Cults and Wizards.    
+| Fugitives          | N, See Notes   | Y                   | The Hunters sent to find you do not have to escalate as they are there to do just that. The crew don't have to help them or even you either.|
+| Abductors          | Y              | N                   | Can't exactly escalate with or as an alien, now can you?|
+| Obsessed           | N              | Y                   | Follow your objectives and try to give the folk you're dealing with some sense you're not there for senseless grief. Otherwise, have fun doing a Who's Who!|
+| Paradox Clone      | ???            | ???                 | Probably the strangest entry on the list. The only objective in the code is to murder and replace, but not all will do that, hence the unknown rating|
+| Florida Man        | ???            | ???                 | Florida Man does as Florida Man wants. Can be right here at the bottom of the list where it belongs or a higher threat than the Cults and Wizards.|
 
 To discuss the table here, we list off the various antagonists, whether they can be validhunted or not by the *crew*, wether the *antagonist must have some amount of escalation*, and some additional notes. This is just the tip of the iceburg but helps clarify most things for the majority of players. If this is where your need for information ends, congrats. If you need more, read on further.
 
