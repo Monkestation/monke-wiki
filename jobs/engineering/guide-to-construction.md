@@ -2,7 +2,7 @@
 title: Guide to construction
 description: Always under construction
 published: true
-date: 2024-01-01T21:30:14.474Z
+date: 2024-01-01T21:31:38.553Z
 tags: building, construction, engineering, things
 editor: markdown
 dateCreated: 2023-12-31T09:29:29.793Z
