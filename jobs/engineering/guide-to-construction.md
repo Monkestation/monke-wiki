@@ -2,7 +2,7 @@
 title: Guide to construction
 description: Always under construction
 published: true
-date: 2023-12-31T23:43:23.437Z
+date: 2024-01-01T21:30:14.474Z
 tags: building, construction, engineering, things
 editor: markdown
 dateCreated: 2023-12-31T09:29:29.793Z
@@ -223,6 +223,8 @@ Once the parts are in place, **screwdriver** it together. To disassemble, **scre
 
 # Basic Constructions
 
+
+
 We have two ways to go about at least the first bit: walls and floors.
 
 The Easy Way:
@@ -231,7 +233,13 @@ The Easy Way:
 - Set it to walls, windows, floors, whatever you desire.
 - Click to build. Watch your matter consumption. Refill with **iron or glass**. You may also make matter cartridges to some extent.
 
-Now that the easy way, and now the hard way.
+Now that the easy way, and now the hard way
+
+## Floors
+- If there is a neighboring tile that is still a valid floor, you can simply place a **floor tile** in the empty space without girders and a floor will be placed. Otherwise, use **iron rods** then **floor tile**.
+
+
+## Walls
 
 You'll need the following:
 
@@ -246,3 +254,45 @@ Now, to start building by hand:
 - Use **iron sheets** on the girder to build regular wall. You may substitute virtually **any material** to build a material wall.
 - For reinforced walls, use **plasteel sheets** on the girders to reinforce it. (1 sheet)
 - On a reinforced girder, use **plasteel sheets** to finish the reinforced wall. (2 sheets)
+
+## APCs
+Busted APCs are gonna be a bread and butter sort of thing that you will inevitably fix often.
+We'll start off with deconstruction, because odds are its fucked, then we'll go into building a replacement.
+
+- Look at the busted APC. If the cover is completely destroyed, move on. If it is not, use an appropriate tool to bust off the cover.
+- Remove the floor tile immediately in front of the APC/
+- Remove the power cell with your **hand**.
+- Cut the terminal connection with **wirecutters**.
+- Use a **screwdriver** on the potentially destroyed board
+- **Crowbar** out the board.
+- Use a **welder** to remove the damaged/destroyed frame off the wall.
+
+To rebuild:
+
+- Use 2 iron sheets to build an **APC Frame**. Stick it on the wall.
+- Remove the floor tile in front of the APC, if not already done.
+- Place a new **APC Module** and then **screwdriver** it into place.
+- Use 5 **wires** to build a terminal connection for the APC.
+- Place a **power cell** into the APC.
+- **Crowbar** the cover closed.
+- **Turn on** the main breaker and any other breakers as needed.
+
+## Air Alarms
+Another bread and butter construction, though these are broken just less frequently.
+
+Deconstruction:
+
+- Open the cover with a **screwdriver**.
+- Snip all the wires with a **wirecutter**.
+- Remove the wiring with **wirecutters**.
+- **Crowbar** out the control board.
+- Use a **wrench** to pull the frame off the wall.
+
+Construction:
+
+- Place an **Air Alarm Frame** on the wall. (2 sheets)
+- Place an **Air Alarm Electronics** board in the frame.
+- **Wire** the air alarm. (5 pieces)
+- **Screwdriver** the cover closed.
+- Configure the settings of the air alarm as needed.
+
