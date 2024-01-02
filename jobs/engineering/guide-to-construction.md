@@ -2,7 +2,7 @@
 title: Guide to construction
 description: Always under construction
 published: true
-date: 2024-01-02T00:56:20.006Z
+date: 2024-01-02T04:40:10.412Z
 tags: building, construction, engineering, things
 editor: markdown
 dateCreated: 2023-12-31T09:29:29.793Z
@@ -15,6 +15,8 @@ dateCreated: 2023-12-31T09:29:29.793Z
 
 
 So, you're probably lost on building something. Well, let's get some work done.
+
+An important note: If you are doing work on structural elements like doors, windows, walls and the like, use the deconstruction
 
 # Computers
 
@@ -345,4 +347,12 @@ Construction:
 - Assemble a **firelock frame**.
 - Place the **firelock circuitry** in the frame
 - Bolt into place with a **wrench**.
+
+## Airlocks
+
+The Easy Way: Use an **RCD**.
+
+The Hard Way:
+
+
 
