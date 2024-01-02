@@ -2,7 +2,7 @@
 title: Guide to construction
 description: Always under construction
 published: true
-date: 2024-01-02T04:40:10.412Z
+date: 2024-01-02T05:22:09.081Z
 tags: building, construction, engineering, things
 editor: markdown
 dateCreated: 2023-12-31T09:29:29.793Z
@@ -354,5 +354,19 @@ The Easy Way: Use an **RCD**.
 
 The Hard Way:
 
+Deconstruction:
+- **Weld** the door shut
+- **Screwdriver** the maintenance panel open
+- **Cut** the power to the doors without dropping the bolts.
+- **Crowbar** out the airlock electronics.
+- **Cut** the wiring from the door.
+- **Unbolt** the frame from the door.
+- **Unweld** the frame.
 
+Construction:
+- Assemble an **airlock frame**, move into position.
+- **Bolt** the frame to the floor.
+- **Wire** the frame up.
+- Add the **airframe electronics**. Ensure the electronics are properly configured for access control.
+- Finish the airlock with a **screwdriver**.
 
