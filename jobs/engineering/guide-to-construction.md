@@ -2,7 +2,7 @@
 title: Guide to construction
 description: Always under construction
 published: true
-date: 2024-01-01T21:31:38.553Z
+date: 2024-01-02T00:56:20.006Z
 tags: building, construction, engineering, things
 editor: markdown
 dateCreated: 2023-12-31T09:29:29.793Z
@@ -295,4 +295,54 @@ Construction:
 - **Wire** the air alarm. (5 pieces)
 - **Screwdriver** the cover closed.
 - Configure the settings of the air alarm as needed.
+
+## Light Fixtures
+
+Most lights will follow the same pattern of construction, regardless if they're stick lights on a wall, bulbs on a wall or even floor lights.
+
+Deconstruction:
+- Remove the **lightbulb**.
+- **Screwdriver** the frame open.
+- Remove the **light battery**.
+- Use **wirecutters** to remove the wiring.
+- Use a **wrench** to deconstruct the frame.
+
+Construction: 
+- Build a **light fixture frame** and place it on a wall.
+- Add **wiring** to the frame.
+- (Optional but a good idea) Place a **light battery** into the frame.
+- **Screwdriver** the frame closed.
+- Stick a light in.
+
+## Fire Alarms
+
+Simple machine.
+
+Deconstruction:
+
+- **Screwdriver** open the cover.
+- **Cut** the wires.
+- **Crowbar** out the electronics.
+- **Wrench** the frame off the wall.
+
+Construction:
+
+- Build a **fire alarm frame** and place it on the wall.
+- Add **fire alarm electronics**.
+- Add **wires**.
+- **Screwdriver** it shut.
+
+## Firelocks
+
+Deconstruction:
+- **Weld** the firelock shut.
+- **Unscrew** the floor bolts.
+- **Unwrench** the floor bolts. This makes the firelock movable.
+- **Crowbar** the circuits out.
+- **Weld** the firelock frame apart.
+
+Construction:
+- Assemble a **firelock frame**.
+- Place the **firelock circuitry** in the frame
+- Bolt into place with a **wrench**.
 
