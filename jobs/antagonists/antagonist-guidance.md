@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-01T20:52:52.419Z
+date: 2024-01-05T23:08:55.195Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -41,7 +41,7 @@ First off, who's who!
 | Revenant           | Y              | N                   | Revenants can be fought by anyone that happens to catch them.|
 | Morph              | Y              | N                   | Morphs can either be just a nuisance or an assistant to a round ending threat depending on circumstances.|
 | Slasher            | Y              | N                   | As of the time of this table, the Slasher doesn't have explicit goals in mind. But they are valid.|
-| Traitor            | N              | Y                   | Traitors that complete final objective are valid. Traitors otherwise aren't validhuntable but can still be dealt with via escalation.|
+| Traitor/Contractor | N              | Y                   | Traitors that complete final objective are valid. Traitors otherwise aren't validhuntable but can still be dealt with via escalation.|
 | Regal Rat          | Y              | N                   | Technically valid in that they can cause nothing but trouble for the crew. Crew's choice if they want to have a "peaceful" rat king.|
 | Fugitives          | N, See Notes   | Y                   | The Hunters sent to find you do not have to escalate as they are there to do just that. The crew don't have to help them or even you either.|
 | Abductors          | Y              | N                   | Can't exactly escalate with or as an alien, now can you?|
