@@ -2,13 +2,13 @@
 title: RP Rules
 description: Your guide to Monkey RP Rules
 published: true
-date: 2024-01-05T20:49:26.655Z
+date: 2024-01-05T20:50:03.487Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T20:49:26.655Z
 ---
 
-# Rules
+# RP Rules and Guides
 
 ## Creating an RP character
 
