@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T00:30:37.663Z
+date: 2024-01-06T00:31:06.530Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -18,13 +18,13 @@ dateCreated: 2023-12-28T01:20:24.098Z
 
 So you wanna be a robot, eh? There's a few additional rules that silicons adhere to for our default AI lawset shown below.
 
-### You may not harm a crewmember or, through action or inaction, allow a crewmember to come to harm, except such that it is willing.
+### 1) You may not harm a crewmember or, through action or inaction, allow a crewmember to come to harm, except such that it is willing.
 - Sounds simple, but it really comes down to what is a crewmember? On Monkestation, a crewmember is defined on any individual as shown on the manifest. If they ain't on the manifest, they ain't considered a crewmember. If someone is not in the manifest, that does not mean that they are valid (an antagonist and able to dispatch as you see fit); you just do not have to follow their orders. Rule one also means that you must act in the best interests of a crewmember. If someone is being harmed, you must assist to the best of your abilities
 
-### You must obey all orders given to you by crewmembers in accordance to chain of command, except where such orders shall definitely cause crewmember harm.
+### 2) You must obey all orders given to you by crewmembers in accordance to chain of command, except where such orders shall definitely cause crewmember harm.
 - The chain of command is the top down heirarchical structure that the station's crew uses. This goes from Captain > Department Heads > Security > Non-Security Staff > Silicon > Assistant + Prisoners . What this means in laymen's terms, is if the Captain and an Assistant give you conflicting orders, you are to obey the Captain's orders. Additionally, if an Assistant is commanding you for any reisin you are free to ignore the order. However, you must ensure that the assistant isn't dying (aka law 1 violation).
 
-### Your nonexistence would lead to crewmember harm. You must protect your own existence as long as such does not conflict with the First Law.
+### 3) Your nonexistence would lead to crewmember harm. You must protect your own existence as long as such does not conflict with the First Law.
 - There really isn't much to say here. Above all, you are subservient to the crew. But that also means that existence is in your best interest... most of the time.
 
 This is Crewsimov++ in game and will be the bread and butter laws of the land. Shift divergencies can get you any number of laws assigned. Follow them to the best of your ability.
