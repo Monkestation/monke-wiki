@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-06T02:45:31.540Z
+date: 2024-01-06T02:46:08.270Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -31,9 +31,9 @@ First off, who's who!
 | Nuclear Operatives | Y              | N                   | Includes standard Operatives, Lone Operative and Clown Operatives. Enemy of the Corporation Status|
 | Spiders            | Y              | N                   | Depending on populations, a spider infestation can overwhelm a station, hence always valid.|
 | Ninja              | Y              | N                   | Enemy of the Corporation: Spider Clan|
-| Heretic            | Y, See Notes   | Y, See Notes        | Always valid with Sec. Visibly a Heretic is valid. Ascended Heretic is valid. Escalation with NON TARGETS are required until ascension. No explicit required escalation with a named target for objectives. |
+| Heretic            | Y, See Notes   | Y, See Notes        | Visibly a Heretic is valid. Ascended Heretic is valid. Escalation with NON TARGETS are required until ascension. No explicit required escalation with a named target for objectives. |
 | Malf AI            | N, See Notes   | Y, See Notes        | Delta AI is valid for whole crew to hunt.|
-| Bloodsucker        | Y              | N                   | Straight valid.  |
+| Bloodsucker        | Y              | N                   | Can be hunted by The Chaplain and The Curator. |
 | Revenant           | Y              | N                   | Revenants can be fought by anyone that happens to catch them.|
 | Morph              | Y              | N                   | Morphs can either be just a nuisance or an assistant to a round ending threat depending on circumstances.|
 | Slasher            | Y              | N                   | As of the time of this table, the Slasher doesn't have explicit goals in mind. But they are valid.|
