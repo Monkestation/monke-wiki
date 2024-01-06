@@ -2,7 +2,7 @@
 title: RP Rules
 description: Your guide to Monkey RP Rules
 published: true
-date: 2024-01-05T20:50:03.487Z
+date: 2024-01-06T03:16:02.526Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T20:49:26.655Z
@@ -60,7 +60,7 @@ Collaborative Storytelling:
 - Seek out compromises that align with your character's values and objectives.
 
 ## Yes And...
-Remember to "Yes, And" to build upon the contributions of others and further enrich the collaborative storytelling experience.
+Consider "Yes, And" to build upon the contributions of others and further enrich the collaborative storytelling experience.
 
 - "Yes": This signifies acceptance and agreement. It encourages participants to acknowledge and accept the reality or ideas presented by their fellow collaborators. Instead of dismissing or negating what someone has introduced, saying "Yes" opens the door to collaboration.
 - "And": This represents expansion and contribution. After accepting someone else's contribution (the "Yes" part), participants are encouraged to add something new or build upon the existing idea. This fosters a continuous flow of creativity and allows the narrative or scene to evolve organically.
