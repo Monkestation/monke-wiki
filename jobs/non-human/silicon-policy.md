@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T00:41:09.000Z
+date: 2024-01-06T00:47:03.673Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -109,6 +109,9 @@ The laws in their order of precedence:
 
 | Who? | Crew or Not Crew? |
 |---|---|
+| Anyone on the Manifest | Crew |
+| Cultists | Crew |
+| Paradox Clone | Crew |
 | Pirates | Not Crew |
 | Ninjas | Not Crew |
 | Nukies | Not Crew |
@@ -118,6 +121,3 @@ The laws in their order of precedence:
 | Xenomorphs | Not Crew |
 | Spiders | Not Crew |
 | Venus Human Traps | Not Crew |
-| Cultists | Crew |
-| Paradox Clone | Crew |
-| Anyone on the Manifest | Crew |
