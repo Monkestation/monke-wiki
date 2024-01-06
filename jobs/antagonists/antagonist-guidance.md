@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-06T03:29:51.291Z
+date: 2024-01-06T23:45:54.357Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -44,6 +44,7 @@ Hunting antagonists as non-security or as a job that isn't allowed to hunt down 
 | Revenant           | Y              | N                   | Revenants can be fought by anyone that happens to catch them.|
 | Morph              | Y              | N                   | Morphs can either be just a nuisance or an assistant to a round ending threat depending on circumstances.|
 | Slasher            | N              | Y                   | Slashers are spooky |
+| Changeling         | N              | Y                   | You're not a murderbone antagonist. Get over it. |
 | Traitor/Contractor | N              | Y                   | Traitors that complete final objective are valid. Traitors otherwise aren't validhuntable but can still be dealt with via escalation.|
 | Regal Rat          | Y              | Y                   |  |
 | Fugitives          | N, See Notes   | Y                   | The Hunters sent to find you do not have to escalate as they are there to do just that. The crew don't have to help them or even you either.|
