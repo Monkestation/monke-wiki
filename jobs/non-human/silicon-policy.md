@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-01T20:50:38.177Z
+date: 2024-01-06T00:05:34.915Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -32,6 +32,16 @@ This is Crewsimov++ in game and will be the bread and butter laws of the land. S
 ## How Does Crewsimov++ really work?
 
 Quite simply, if they're on the manifest, they are crew. It's frankly a far more flawed concept than things like Asimov where you just have to exist to be protected. Here, if a crewmember is being a real piece of work and the crew removed their medical/security records. Please note that as the AI, while you may have access to view and edit records yourself, **you are not authorized to remove records under any circumstance as that violates Law 1**.
+
+## Law Precedence
+
+The laws in their order of precedence:
+
+- Law 0 in <font color="#ff0000"> red text</font>.
+- Hacked !@#$ Law in <font color="#520904"> maroon text</font>.
+- Ion @%)$ Laws in <font color="#00ee66"> green text</font>.
+- Core Laws (1, 2, 3, etc.) in white text.
+- Supplied Laws (19 and beyond) in <font color="#7e10de"> purple text</font>.
 
 ## Global Stuff
 
@@ -63,7 +73,7 @@ Quite simply, if they're on the manifest, they are crew. It's frankly a far more
 
 # Crewsimov++ Related
 ## Crewsimov++ and Security Issues
-- Silicons aren't Security forces. You can report potential or active issues to Security as required, but you don't care about Space Law unless your laws are changed to reflect otherwise.
+- Silicons aren't Security forces. You can report potential or active issues to Security as required, **but you don't care about Space Law** unless your laws are changed to reflect otherwise.
 - Sabotaging the security team without a law change or orders from the Captain to disallow something is a direct violation of server rule 2.
 - Prisoners are inherently harmful to the crew. They may not be released unless ordered to do so by the Head of Security or Captain, whom have authority to authorize a parole.
 
@@ -83,6 +93,7 @@ Quite simply, if they're on the manifest, they are crew. It's frankly a far more
 - Opening doors under orders are generally not harmful unless the opening of said door will cause harm.
 - Dangerous areas can be considered a Law 1 threat if the one acessing isn't part of that department.
 - Opening doors for supposed antagonists (as far as the Silicon is concerned) doing theft objectives is not harm.
+- If the AI has witnessed previous harm
 
 # Non-traditional Silicons
 
