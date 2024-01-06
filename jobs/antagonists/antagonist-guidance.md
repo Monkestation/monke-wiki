@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-06T03:07:09.433Z
+date: 2024-01-06T03:29:51.291Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -13,14 +13,21 @@ If you are coming here, you are looking for some guidance on whether something i
 
 But remember... *being an antagonist is a privledge, not a right*.
 
-First off, who's who!
+First off, definitions!
+
+### Valid
+Short for "valid to kill".
+
+### Validhunting
+
+Hunting antagonists as non-security or as a job that isn't allowed to hunt down a particular antagonist. Deputized individuals are considered security and are allowed to engage.
 
 ## The Table
 
 | Antagonist         | Valid Huntable | Escalation Required | Notes  |
 |--------------------|----------------|---------------------|------|
 | Wizard             | Y              | N                   | Defined enemy of the Corporation: The Wizard Federation|
-| Head Revolutionary | Y              | N                   | Sec can hunt you down at any time|
+| Head Revolutionary | Y              | N                   | All Mindshielded Crew can hunt you|
 | Blood Cultist      | Y, See Notes   | N, See Notes        | The Cults should focus on conversions and avoid murder unless the murder is required. Halos on Blood Cultists are 100% valid.|
 | Clockwork Cultist  | Y, See Notes   | N, See Notes        | The Cults should focus on conversions and avoid murder unless the murder is required.|
 | Blob               | Y              | N                   | Station Ending Threat|
