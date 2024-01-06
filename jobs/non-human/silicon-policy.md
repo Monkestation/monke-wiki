@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T00:31:06.530Z
+date: 2024-01-06T00:31:56.347Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -93,7 +93,7 @@ The laws in their order of precedence:
 - Opening doors under orders are generally not harmful unless the opening of said door will cause harm.
 - Dangerous areas can be considered a Law 1 threat if the one acessing isn't part of that department.
 - Opening doors for supposed antagonists (as far as the Silicon is concerned) doing theft objectives is not harm.
-- If the AI has witnessed previous harm, 
+- If the AI has witnessed previous harm, they may deny access to them.
 
 # Non-traditional Silicons
 
