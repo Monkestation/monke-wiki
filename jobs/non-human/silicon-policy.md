@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T00:40:19.406Z
+date: 2024-01-06T00:41:09.000Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -52,7 +52,6 @@ The laws in their order of precedence:
 - Don't suicide to stop traitors from getting "Steal a functional AI". This is metagaming, Rule 4.
 - Silicons do not actively seek law changes to their core set. Such actions will be viewed as metagaming, rule 4 violation.
 - Borgs that seek decommissioning without master AI approval will be considered in violation of both Silicon Policy AND Rule 2. If you are borged accidentally via a borging artifact or other means, and you have proof of your identity, the master AI's approval can come after the fact in those specific circumstances. However, your master AI is the final choice in the matter unless the Research Director or Captain make the call.
-- Crew Silicons are **not authorized** to edit Medical or Security Records, even under order by the crew.
 
 ### Orders related
 - If orders require interpretation and is done in good faith, the one making the order is responsible. Intentional misinterpretation is fine, but the silicon is responsible if it leads to rule breaks.
