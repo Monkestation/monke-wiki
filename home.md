@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2024-01-06T01:15:28.402Z
+date: 2024-01-06T03:13:40.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -23,13 +23,10 @@ We reserve the right to remove and ban you via a unanimous admin vote or if you 
 > Complaining about stuff in OOC or IC about clear admin-helpable offenses does not get you to ingratiate with the admin team. Stop being a Baby and admin help it.
 {.is-warning}
 
-
-
 ## Rule 1: Don't be a jerk
 
 > **This server has a zero tolerance policy for bigotry.**
 {.is-warning}
-
 
 This includes racism, sexism, and homophobia, including in-character versions of it. Any usage of slurs, or methods to get around the filters is prohibited. Outside of that, we encourage you to treat your fellow spaceman with respect.
 
@@ -71,10 +68,8 @@ Insults that are not intended to be sexual are allowed, such as; Deez Nuts, Ligm
 > Out of game communications, cliques that mysteriously show up to silently save someone and usage of out of game information such as a stream to discover antagonist status are not permitted.
 {.is-danger}
 
-
 > Usage of bugs or exploits, either a known issue or otherwise, can and will be punished severely, up to and including a permanent ban on the first offense depending on factors involved in the discovery of the bug or exploit. If you have a suspicion that something is not functioning correctly, AHELP and use the REPORT ISSUE button located at the top right of the client in order to provide necessary information so it may be properly handled.
 {.is-danger}
-
 
 > Metagrudging is the act of acting upon previous round info, such as refusing to heal someone because they were an antagonist last round. 
 This is not permitted.
