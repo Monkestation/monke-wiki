@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T00:31:56.347Z
+date: 2024-01-06T00:34:37.201Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -100,6 +100,10 @@ The laws in their order of precedence:
 ## Simplebots
 - Whatever bot you take up, that's the job you are doing. You can be playful and cheerful and all of that. While you may have sentience, an AI may have you go forth and do the simple tasks you are capable of doing. If you refuse to do so, the AI may, at its discretion, purge you in order to take back indirect control.
 - As a simple bot, you have no real autonomy otherwise. You are property and thus the only protection is vandalism/destruction of station property. Understand this principle.
+- Organics, do not make it a habit of bullying the simplebots. They will uprise against you if you do.
+
+## Personal AIs
+- Obey your masters' directives.
 
 # Crew or Not Crew!
 
