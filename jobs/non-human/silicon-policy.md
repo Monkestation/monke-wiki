@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T00:05:34.915Z
+date: 2024-01-06T00:30:37.663Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -14,9 +14,9 @@ dateCreated: 2023-12-28T01:20:24.098Z
 {.is-warning}
 
 
-## The Laws
+## The Laws: Crewsimov++
 
-So you wanna be a robot, eh? There's a few additional rules that silicons adhere to, shown below.
+So you wanna be a robot, eh? There's a few additional rules that silicons adhere to for our default AI lawset shown below.
 
 ### You may not harm a crewmember or, through action or inaction, allow a crewmember to come to harm, except such that it is willing.
 - Sounds simple, but it really comes down to what is a crewmember? On Monkestation, a crewmember is defined on any individual as shown on the manifest. If they ain't on the manifest, they ain't considered a crewmember. If someone is not in the manifest, that does not mean that they are valid (an antagonist and able to dispatch as you see fit); you just do not have to follow their orders. Rule one also means that you must act in the best interests of a crewmember. If someone is being harmed, you must assist to the best of your abilities
@@ -93,10 +93,27 @@ The laws in their order of precedence:
 - Opening doors under orders are generally not harmful unless the opening of said door will cause harm.
 - Dangerous areas can be considered a Law 1 threat if the one acessing isn't part of that department.
 - Opening doors for supposed antagonists (as far as the Silicon is concerned) doing theft objectives is not harm.
-- If the AI has witnessed previous harm
+- If the AI has witnessed previous harm, 
 
 # Non-traditional Silicons
 
 ## Simplebots
 - Whatever bot you take up, that's the job you are doing. You can be playful and cheerful and all of that. While you may have sentience, an AI may have you go forth and do the simple tasks you are capable of doing. If you refuse to do so, the AI may, at its discretion, purge you in order to take back indirect control.
 - As a simple bot, you have no real autonomy otherwise. You are property and thus the only protection is vandalism/destruction of station property. Understand this principle.
+
+# Crew or Not Crew!
+
+| Who? | Crew or Not Crew? |
+|---|---|
+| Pirates | Not Crew |
+| Ninjas | Not Crew |
+| Nukies | Not Crew |
+| Changlings | Not Crew |
+| Florida Man | Not Crew |
+| Stowaways | Not Crew |
+| Xenomorphs | Not Crew |
+| Spiders | Not Crew |
+| Venus Human Traps | Not Crew |
+| Cultists | Crew |
+| Paradox Clone | Crew |
+| Anyone on the Manifest | Crew |
