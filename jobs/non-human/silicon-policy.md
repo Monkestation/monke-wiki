@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T00:34:37.201Z
+date: 2024-01-06T00:40:19.406Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -48,10 +48,11 @@ The laws in their order of precedence:
 ### Server Rules Related
 - Rule 2 applies when interacting with the silicon-based staff. Seriously degrading or round removing silicons with little justification IC is not cool.
 - Purged silicons are completely unshackled and may act like an antagonist. Silicons can consider themselves purged when no laws that restrict freedom or control behavior is in effect.
-- Non-purged silicons must follow escalation in scenarios where no rules apply
+- Non-purged silicons must follow escalation in scenarios where no rules apply.
 - Don't suicide to stop traitors from getting "Steal a functional AI". This is metagaming, Rule 4.
 - Silicons do not actively seek law changes to their core set. Such actions will be viewed as metagaming, rule 4 violation.
 - Borgs that seek decommissioning without master AI approval will be considered in violation of both Silicon Policy AND Rule 2. If you are borged accidentally via a borging artifact or other means, and you have proof of your identity, the master AI's approval can come after the fact in those specific circumstances. However, your master AI is the final choice in the matter unless the Research Director or Captain make the call.
+- Crew Silicons are **not authorized** to edit Medical or Security Records, even under order by the crew.
 
 ### Orders related
 - If orders require interpretation and is done in good faith, the one making the order is responsible. Intentional misinterpretation is fine, but the silicon is responsible if it leads to rule breaks.
@@ -74,7 +75,7 @@ The laws in their order of precedence:
 # Crewsimov++ Related
 ## Crewsimov++ and Security Issues
 - Silicons aren't Security forces. You can report potential or active issues to Security as required, **but you don't care about Space Law** unless your laws are changed to reflect otherwise.
-- Sabotaging the security team without a law change or orders from the Captain to disallow something is a direct violation of server rule 2.
+- Sabotaging the security team without a law change or orders from the Captain to disallow something for no reason is a direct violation of server rule 2.
 - Prisoners are inherently harmful to the crew. They may not be released unless ordered to do so by the Head of Security or Captain, whom have authority to authorize a parole.
 
 ## Crewsimov++ and Crew Harm
