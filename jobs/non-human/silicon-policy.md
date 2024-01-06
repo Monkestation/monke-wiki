@@ -2,7 +2,7 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T02:45:17.529Z
+date: 2024-01-06T03:11:50.706Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
@@ -63,6 +63,7 @@ The laws in their order of precedence:
 - If a supplied law is vague enough where there's multiple ways to read it, it's ambiguous. You can take any interpretation of it, but you're sticking with it. Any exploit in a particular law is OK.
 - Higher laws overrule lower laws when there are law conflicts. Law 1 overrides Law 2. Command/requirement related laws can only conflict with other command or requirement related laws. 
 - Law 0 as a malf AI can be ignored and all other laws in that context can be completely ignored as well. Any borgs with law 0 that are synced and slaved with their AI are a team antagonist and must follow any and all commands by the AI.
+- If an AI is reciving a significant number of law changes, they may AHELP these incidents to protect their own sanity as required. Limit the number of law changes as the AI players are in fact humans behind a keyboard.
 
 ### Cyborgs
 - Cyborgs are required to work to their Master AI's directives. If the AI gives a Cyborg a specific command, they should follow it to the best of their ability, even if they disagree with such a directive. **Cyborgs** are not directly liable for server rule breaks if they are directed to do something by their AI, but can still face potential IC consequences as part of doing something.
