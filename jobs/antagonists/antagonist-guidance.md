@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-06T02:46:08.270Z
+date: 2024-01-06T02:49:29.180Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -33,15 +33,15 @@ First off, who's who!
 | Ninja              | Y              | N                   | Enemy of the Corporation: Spider Clan|
 | Heretic            | Y, See Notes   | Y, See Notes        | Visibly a Heretic is valid. Ascended Heretic is valid. Escalation with NON TARGETS are required until ascension. No explicit required escalation with a named target for objectives. |
 | Malf AI            | N, See Notes   | Y, See Notes        | Delta AI is valid for whole crew to hunt.|
-| Bloodsucker        | Y              | N                   | Can be hunted by The Chaplain and The Curator. |
+| Bloodsucker        | N              | Y                   | Can be hunted by The Chaplain and The Curator. |
 | Revenant           | Y              | N                   | Revenants can be fought by anyone that happens to catch them.|
 | Morph              | Y              | N                   | Morphs can either be just a nuisance or an assistant to a round ending threat depending on circumstances.|
-| Slasher            | Y              | N                   | As of the time of this table, the Slasher doesn't have explicit goals in mind. But they are valid.|
+| Slasher            | N              | Y                   | Slashers are spooky |
 | Traitor/Contractor | N              | Y                   | Traitors that complete final objective are valid. Traitors otherwise aren't validhuntable but can still be dealt with via escalation.|
-| Regal Rat          | Y              | N                   | Technically valid in that they can cause nothing but trouble for the crew. Crew's choice if they want to have a "peaceful" rat king.|
+| Regal Rat          | Y              | Y                   |  |
 | Fugitives          | N, See Notes   | Y                   | The Hunters sent to find you do not have to escalate as they are there to do just that. The crew don't have to help them or even you either.|
 | Abductors          | Y              | N                   | Can't exactly escalate with or as an alien, now can you?|
-| Obsessed           | N              | Y                   | Follow your objectives and try to give the folk you're dealing with some sense you're not there for senseless grief. Otherwise, have fun doing a Who's Who!|
+| Obsessed           | N              | Y                   | This antagonist requires extra escalation to ensure that it is not just for grief. |
 | Paradox Clone      | ???            | ???                 | Probably the strangest entry on the list. The only objective in the code is to murder and replace, but not all will do that, hence the unknown rating|
 | Florida Man        | ???            | ???                 | Florida Man does as Florida Man wants. Can be right here at the bottom of the list where it belongs or a higher threat than the Cults and Wizards.|
 
