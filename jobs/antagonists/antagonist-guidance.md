@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-06T02:49:29.180Z
+date: 2024-01-06T03:07:09.433Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -44,6 +44,7 @@ First off, who's who!
 | Obsessed           | N              | Y                   | This antagonist requires extra escalation to ensure that it is not just for grief. |
 | Paradox Clone      | ???            | ???                 | Probably the strangest entry on the list. The only objective in the code is to murder and replace, but not all will do that, hence the unknown rating|
 | Florida Man        | ???            | ???                 | Florida Man does as Florida Man wants. Can be right here at the bottom of the list where it belongs or a higher threat than the Cults and Wizards.|
+| Maintenance Clown  | Y              | N                   | If you kill the wrong clown, you're might be in the wrong! |
 
 To discuss the table here, we list off the various antagonists, whether they can be validhunted or not by the *crew*, wether the *antagonist must have some amount of escalation*, and some additional notes. This is just the tip of the iceburg but helps clarify most things for the majority of players. If this is where your need for information ends, congrats. If you need more, read on further.
 
@@ -100,3 +101,9 @@ For purposes of completing contracts, the **Contractors** are not required to es
 **Prisoners** are not antagonists on their own. If you don't have another kind of antagonist, you will require significantly more escalation before you can get violent. Remember: you're lower than scum and the AI can ignore you unless you are actively dying.
 
 **Assistants** are not antagonists on their own. If you don't have a proper valid antagonist status and you do antagonist things, expect to be treated like one per *perception is reality* and be permanently round removed for being an antagonist.
+
+# Maintence, Antagonists and You!
+
+Maintenance should be a spooky and scary place to be in. If you are deep in maintenance tunnels, antagonists can get you a little easier than out in the open of the rest of the station. If you somehow find yourself in a trap and then an antagonist gets you, you'll have firmly walked into their trap!
+
+Antagonists: Feel free to do things like making traps, setting up elaborate schemes in order to *lure* people into maintenance. You can't just simply walk out, knock someone out, drag them in and then kill them. Whoever you wish to antagonize should be established in maintenance of their volition.
