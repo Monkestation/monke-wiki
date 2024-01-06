@@ -2,17 +2,13 @@
 title: Silicon Policy
 description: Yes there's extra guidance and rules
 published: true
-date: 2024-01-06T00:47:03.673Z
+date: 2024-01-06T02:45:17.529Z
 tags: ai, cyborgs, pai, silicons
 editor: markdown
 dateCreated: 2023-12-28T01:20:24.098Z
 ---
 
 # Silicon Policy
-
-> This page is not formally adopted policy as of 1/1/24. However, if you found this and you wanna work off of it, by all means go for it.
-{.is-warning}
-
 
 ## The Laws: Crewsimov++
 
@@ -55,6 +51,7 @@ The laws in their order of precedence:
 
 ### Orders related
 - If orders require interpretation and is done in good faith, the one making the order is responsible. Intentional misinterpretation is fine, but the silicon is responsible if it leads to rule breaks.
+
 
 ### Escalation with other silicons
 - Non-malf silicons shouldn't be round removed when things like a law reset or desync from AI is perfectly fine.
