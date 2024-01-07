@@ -2,8 +2,8 @@
 title: RP Rules
 description: Your guide to Monkey RP Rules
 published: true
-date: 2024-01-06T03:16:02.526Z
-tags: 
+date: 2024-01-07T22:32:15.429Z
+tags: guides, rules, roleplay
 editor: markdown
 dateCreated: 2024-01-05T20:49:26.655Z
 ---
@@ -73,6 +73,24 @@ Embarking on your first roleplaying (RP) adventure can be both exhilarating and 
 - Gauge the overall atmosphere of the round and adjust your roleplay style accordingly.
 - Be open to participating in both serious and lighthearted roleplay scenarios, contributing to the diverse experiences of different players.
 - Experiment with different roleplay approaches to discover what resonates best with you and your fellow players
+
+## Blackout Policy
+
+WIth respect to roleplay, this will also help to serve what things you remember during certain situations so that the playing field is as fair as possible.
+
+With respect to death and revival, there are going to be some expectations of how far you remember. The method of revival will help determine what you will remember. We'll start with the most restrictive memory requirements up to the least restrictive.
+
+| Method | Memory Limit |
+|---|---|
+| Cloning | Up to the most recent clone scan. |
+| Normal Revival | Anything up to small details of your death, but not identity of the murderer |
+| Antagonist Revivals | No limit |
+| Brain on MMI | No limit |
+
+Some specific notes regarding the revivals:
+
+- Certain antagonists have revivals built into their kits such as Changlings, Bloodsuckers and Nightmares, hence the reason for their having zero limit to memory is to help provide that for them.
+- Regarding clone-scans, if you're dead when scanned, you still won't remember anything about your death! You just won't!
 
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
