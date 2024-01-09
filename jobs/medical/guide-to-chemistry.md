@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Ho boy... be careful with this stuff or you might kill us all
 published: true
-date: 2024-01-09T04:50:55.906Z
+date: 2024-01-09T04:57:40.843Z
 tags: chemistry, guides, medical
 editor: markdown
 dateCreated: 2023-09-24T07:09:09.234Z
@@ -367,6 +367,8 @@ These are very basic chemicals that you'll use in a lot of other more complicate
 | Spewium |  |  | A powerful emetic, causes uncontrollable vomiting. May result in vomiting organs at high doses. |
 | Spray Tan | 1u Orange Juice, 1u Oil | any | A substance applied to the skin to darken the skin. |
 | Stable Plasma | 1u Plasma, 1u Stabilizing Agent (catalyst) | any | Non-flammable plasma locked into a liquid form that cannot ignite or become gaseous/solid. |
+| Strange Reagent | 1u Omnizine, 1u Holy Water, 1u Unstable Mutagen | any | A miracle drug capable of bringing the dead back to life. Works topically unless anotamically complex, in which case works orally. Cannot revive targets under -200% health. |
+| Stranger Reagent | | | A miracle drug capable of bringing the dead back to life. Works topically unless anotamically complex, in which case works orally. Cannot revive targets under -200% health. It appears to be pulsing with a warm pink light. | 
 | Sterilizine | 1u Ethanol, 1u Multiver, 1u Chlorine | any | Sterilizes wounds in preparation for surgery. |
 | Sugar |  |  | The organic compound commonly known as table sugar and sometimes called saccharose. This white, odorless, crystalline powder has a pleasing, sweet taste. |
 | Sulfonal | 1u Acetone, 1u Diethylamine, 1u Sulfur | any | A stealthy poison that deals minor toxin damage and eventually puts the target to sleep. |
@@ -386,5 +388,6 @@ These are very basic chemicals that you'll use in a lot of other more complicate
 | Tirimol | 3u Nitrogen, 2u Acetone, 1u Sulfuric Acid | 720k max | An oxygen deprivation medication that causes fatigue. Prolonged exposure causes the patient to fall asleep once the medicine metabolizes. |
 | Tranquility |  |  | A highly mutative liquid of unknown origin. |
 | Uranium |  |  | A jade-green metallic chemical element in the actinide series, weakly radioactive. |
+| Weed Killer | 1u Toxin, 4u Ammonia | any | A harmful toxic mixture to kill weeds. Do not ingest! |
 | Welding Fuel |  |  | Required for welders. Flammable. |
 | Wittel |  |  |  |
