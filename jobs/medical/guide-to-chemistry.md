@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Ho boy... be careful with this stuff or you might kill us all
 published: true
-date: 2024-01-09T04:57:40.843Z
+date: 2024-01-09T05:15:08.034Z
 tags: chemistry, guides, medical
 editor: markdown
 dateCreated: 2023-09-24T07:09:09.234Z
@@ -330,6 +330,7 @@ These are very basic chemicals that you'll use in a lot of other more complicate
 | Potassium |  |  | A soft, low-melting solid that can easily be cut with a knife. Reacts violently with water. |
 | Potassium Iodide | 1u Potassium, 1u Iodine | any | Heals low toxin damage while the patient is irradiated, and will halt the damaging effects of radiation. |
 | Probital | 1u Copper, 2u Acetone, 1u Phosphorus | 225-750k | Originally developed as a prototype-gym supliment for those looking for quick workout turnover, this oral medication quickly repairs broken muscle tissue but causes lactic acid buildup, tiring the patient. Overdosing can cause extreme drowsiness. An Influx of nutrients promotes the muscle repair even further. |
+| Prohol | | | Promotes alcoholic substances within the patients body, making their effects more potent. |
 | Protozine |  |  | A less environmentally friendly and somewhat weaker variant of omnizine. |
 | Psicodine | 2u Mannitol, 2u Water, 1u Impedrezene | any | Suppresses anxiety and other various forms of mental distress. Overdose causes hallucinations and minor toxin damage. |
 | Pump-Up | 5u Coffee, 2u Epinephrine | any | Take on the world! A fast acting, hard hitting drug that pushes the limit on what you can handle. |
