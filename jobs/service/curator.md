@@ -2,7 +2,7 @@
 title: Curator
 description: This belongs in the museum!
 published: true
-date: 2023-09-21T20:28:07.816Z
+date: 2024-01-09T07:58:51.922Z
 tags: curator, jobs, service
 editor: markdown
 dateCreated: 2023-09-09T20:54:11.064Z
@@ -105,6 +105,35 @@ The newscaster can also print out up to 15 newspapers, and can be refilled by ad
 # Languages
 
 As an academic, you studied even the most obscure languages known in the universe. You can innately understand secret cultspeak, robotic beeping, drone chatter, and can even interpret xenomorph hissing. What is seriously puzzling is that you can also speak those languages, which supports the theory that Curators are just failed wizards. 
+
+# DJ Operations!
+
+The station's Curator can also double up as a radio host! It's a new thing that we do here because it's fun and interactive! So, let's cover some things regarding the DJ Booth.
+
+- Cassette tapes: These tapes are the means to play music! We'll cover more in depth later.
+- Walkmans: A portable means to enjoy taped music. Fits in your pocket for ease of use.
+- Space Board of Music Postbox: This is how you get tapes approved (admin review).
+- Advanced Cassette Deck: The recording and splicing machine that is the heart of the system. We'll cover this later.
+- Radio Microphone: Speak in the vicinity of this machine and it will broadcast to the station's special Radio channel!
+- Cassette Player: The machine that you use in order to play music to the whole station at once... well, everyone with a radio headset on!
+
+## Building Tapes
+
+This is the section most people will be interested in: how do I make a tape and send it off to get approved. So, here we go.
+
+- When you pick up a tape, you'll wanna grab a pen and name it.
+- Place the tape into an Advanced Cassette Deck. There's a public one in the library if you're not the Curator.
+- You'll get a window that will let you remove songs, edit the design of the tape and add songs.
+- To add a song, get the youtube URL, example: https://www.youtube.com/watch?v=0pTnbc-U2YQ. The segment you want is after the = there, in which case the string will then be 0pTnbc-U2YQ. Place that into the TGUI box that appears after clicking ADD SONG and it'll add the track to the tape.
+- Each side of a tape can hold up to SEVEN SONGS. Flip the tape and you can add another whole SEVEN SONGS!
+- Once you're done, eject and off you go.
+
+After the tape is complete, you will take it and have at least 5000 Monkecoin in your balance to submit the tape for review. Here's a few tips to help give you a better chance of the admins giving the tape a pass.
+
+- Ensure all server rules are followed!
+- Keep the tracks under 10 minutes. This helps keep the potential buffers from causing issues with BYOND itself.
+- Keep things interesting: not everyone wants to hear ASMR tracks, despite your best intentions.
+- If you're REALLY unsure it doesn't hurt to ask ahead of time of a particular tape or not before you send it!
 
 # Tips
 
