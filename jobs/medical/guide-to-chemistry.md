@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Ho boy... be careful with this stuff or you might kill us all
 published: true
-date: 2024-01-09T00:39:25.248Z
+date: 2024-01-09T04:50:55.906Z
 tags: chemistry, guides, medical
 editor: markdown
 dateCreated: 2023-09-24T07:09:09.234Z
@@ -351,7 +351,7 @@ These are very basic chemicals that you'll use in a lot of other more complicate
 | Stabilized Saturn-X |  |  | A chemical extract originating from the Saturn-X compound, stabilized and safer for tactical use. After the recipe was discovered, it was planned to be put into mass production, but the program fell apart after its lead disappeared and was never seen again. |
 | Seiver | 1u Nitrogen, 1u Potassium, 1u Aluminium | any | A medicine that shifts functionality based on temperature. Hotter temperatures will heal more toxicity, while colder temperatures will heal larger amounts of toxicity but only while the patient is irradiated. Damages the heart. |
 | Seraka Extract |  |  | A deeply coloured oil present in small amounts in Seraka Mushrooms. Acts as an effective blood clotting agent, but has a low overdose threshold. |
-| Shakeium | 1u Vanilla Shake, 1u Corn Syrup, nullu Pwr Game | any | Causes violent shaking in consumers. |
+| Shakeium | 1u Vanilla Shake, 1u Corn Syrup, 3u Pwr Game | any | Causes violent shaking in consumers. |
 | Silicon |  |  | A tetravalent metalloid, silicon is less reactive than its chemical analog carbon. |
 | Silver |  |  | A soft, white, lustrous transition metal, it has the highest electrical conductivity of any element and the highest thermal conductivity of any metal. |
 | Smart Foaming Agent | 3u Foaming Agent, 1u Acetone, 1u Iron | any | An agent that yields metallic foam which conforms to area boundaries when mixed with light metal and a strong acid. |
