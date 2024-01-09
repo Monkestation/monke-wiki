@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Ho boy... be careful with this stuff or you might kill us all
 published: true
-date: 2024-01-09T05:15:08.034Z
+date: 2024-01-09T07:09:16.708Z
 tags: chemistry, guides, medical
 editor: markdown
 dateCreated: 2023-09-24T07:09:09.234Z
@@ -392,3 +392,25 @@ These are very basic chemicals that you'll use in a lot of other more complicate
 | Weed Killer | 1u Toxin, 4u Ammonia | any | A harmful toxic mixture to kill weeds. Do not ingest! |
 | Welding Fuel |  |  | Required for welders. Flammable. |
 | Wittel |  |  |  |
+
+## Mutation Toxins
+
+| Name | Description |
+|---|---|
+| Abductor Mutation Toxin | An alien toxin. |
+| Advanced Mutation Toxin | An advanced corruptive toxin produced by slimes. |
+| Android Mutation Toxin | A robotic toxin. |
+| Arachnid Mutation Toxin | A spidering toxin. |
+| Ash Mutation Toxin | An ashen toxin. |
+| Fly Mutation Toxin | An insectifying toxin. |
+| Golem Mutation Toxin | A crystal toxin. |
+| Imperfect Mutation Toxin | A jellyfying toxin. |
+| Lizard Mutation Toxin | A lizarding toxin. |
+| Moth Mutation Toxin | A glowing toxin. |
+| Mulligan Toxin | This toxin will rapidly change the DNA of humanoid beings. Commonly used by Syndicate spies and assassins in need of an emergency ID change. |
+| Plasma Mutation Toxin | A plasma-based toxin. |
+| Podperson Mutation Toxin | A vegetalizing toxin. |
+| Shadow Mutation Toxin | A dark toxin. |
+| Skeleton Mutation Toxin | A scary toxin. |
+| Stable Mutation Toxin | A humanizing toxin. |
+| Zombie Mutation Toxin | An undead toxin. |
