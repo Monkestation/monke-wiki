@@ -2,8 +2,8 @@
 title: Curator
 description: This belongs in the museum!
 published: true
-date: 2024-01-09T07:58:51.922Z
-tags: curator, jobs, service
+date: 2024-01-10T02:14:54.668Z
+tags: curator, jobs, service, dj, cassette, radio
 editor: markdown
 dateCreated: 2023-09-09T20:54:11.064Z
 ---
