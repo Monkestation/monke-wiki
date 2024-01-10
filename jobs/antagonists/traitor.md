@@ -2,7 +2,7 @@
 title: Traitor
 description: You're not workin' for the big guy, are ya?
 published: true
-date: 2023-09-12T11:39:22.434Z
+date: 2024-01-10T04:37:10.023Z
 tags: antagonist, jobs, wip
 editor: markdown
 dateCreated: 2023-09-09T22:13:06.131Z
@@ -12,6 +12,10 @@ dateCreated: 2023-09-09T22:13:06.131Z
 
 > Probably missing Monkestation specific stuff. Traitor mains, comment down on the parchment down below. -Dagoth Ur
 {.is-warning}
+
+> If you're just looking for the uplink page, look [here](/jobs/antagonists/traitor-uplink).
+{.is-info}
+
 
 
 | | SYNDICATE STAFF |
@@ -72,8 +76,6 @@ So you're a double agent. This mode functions a bit differently from normal Trai
 
 ## Contractors
 
-(completely removed from the codebase as of January 2022)
-
 Feel like taking on a challenge? Want to test your skills with the potential of greater rewards? By spending all of your starting telecrystals on a Contractor Kit in your uplink, you can take on bounties for the Syndicate and potentially earn more items and telecrystals than you otherwise would have access to alone.
 
 The Contractor Kit includes a special Contractor Baton to disable targets, a tablet computer for taking on contracts, some useful stealth gear, and some random trinkets. To fulfill a contract, bring a target crewmember dead or alive to a certain location on the station, and the Syndicate will extract them, rewarding you with telecrystals. You'll get more TC for live targets, and they'll be returned to the station after a delay, meaning the crew will know there's a contractor lurking about before too long.
@@ -131,7 +133,7 @@ Current final objectives are:
 
 # Your Tools
 
-Alright, you know your objectives! Time to accomplish those goals to get even more cool toys! The Syndicate treats you much better than Centcom: on your person, you will have an uplink containing a starting 20 telecrystals itching to be spent on traitory goods. The uplink will either be hidden in your PDA, Radio Headset, pen or a pre-installed uplink implant Implant Case.png(-4 starting TC). With a PDA uplink, you will be given a code consisting of a phonetic alphabet letter, and a three-digit number. The Headset uplink can be accessed by tuning it to a specific frequency, and the pen can be accessed by turning the head a certain number of degrees two times, like a safe.
+Alright, you know your objectives! Time to accomplish those goals to get even more cool toys! The Syndicate treats you much better than Centcom: on your person, you will have an uplink containing a starting 20 telecrystals itching to be spent on traitory goods. The uplink will either be hidden in your PDA, Radio Headset, pen or a pre-installed uplink implant (-4 starting TC). With a PDA uplink, you will be given a code consisting of a phonetic alphabet letter, and a three-digit number. The Headset uplink can be accessed by tuning it to a specific frequency, and the pen can be accessed by turning the head a certain number of degrees two times, like a safe.
 
 Check Syndicate Items for a more detailed description on the goods, but don't go racing off to order those items ASAP. Although it can be useful to get items early, holding off until you need the item also has merit, so 6 crystals don't get wasted on an doorjack when you find the captain's spare ID on that assistant you just killed. Some items require you to pool your telecrystals with other traitors; other items are role-specific, like the Clown Car.
 
