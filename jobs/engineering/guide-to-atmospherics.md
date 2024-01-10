@@ -2,8 +2,8 @@
 title: Guide to Atmospherics
 description: WE'RE CHOKING! HELP
 published: true
-date: 2023-09-25T21:44:30.567Z
-tags: engineering, guides, atmos
+date: 2024-01-10T05:15:21.965Z
+tags: atmos, engineering, guides
 editor: markdown
 dateCreated: 2023-09-25T21:44:30.566Z
 ---
@@ -433,7 +433,7 @@ Export price per mol: 10 credits
 
 TL;DR Gas flows from high pressure areas, to low pressure areas. Gas uses up more room when hot, less room when cold.
 
-Ideal gas law: ***PV = nRT***
+[Ideal gas law](https://en.wikipedia.org/wiki/Ideal_gas_law): ***PV = nRT***
 
 Where R (ideal, or universal, gas constant) = 8.31, the following are linked by this equation.
 
