@@ -2,13 +2,17 @@
 title: Nuclear Operative
 description: GIT DAT FUKKIN DISK
 published: true
-date: 2023-09-12T21:37:23.581Z
+date: 2024-01-10T04:38:20.654Z
 tags: antagonist, jobs, nukeops, wip
 editor: markdown
 dateCreated: 2023-09-10T00:02:03.097Z
 ---
 
 # Nuclear Operative
+
+> If you're just looking for the uplink page, look [here](jobs/antagonists/nukeop-uplink).
+{.is-info}
+
 
 | | SYNDICATE STAFF |
 |:---:|---|
