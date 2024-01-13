@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2024-01-13T19:35:51.105Z
+date: 2024-01-13T19:42:29.246Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
@@ -48,8 +48,8 @@ Refer to Glossary of Crimes at the end for a description of each crime.
 
 ## **Arresting a Head of Staff**
 
-1.  Warrants for heads of staff must be approved by the Head of Security, Captain, or Centcom.
-2.  Warrants for the Captain must be Agreed to by majority vote within the Heads of Staff unless the captain or head of staff has plainly committed a crime.
+1.  Warrants for heads of staff must be approved by the Head of Security, Captain, or Centcom unless they have clearly commited a crime.
+2.  Warrants for the Captain must be Agreed to by majority vote within the Heads of Staff unless the captain has plainly committed a crime.
 3.  Demotion of a command member and promotion of acting command must be approved by the captain.
 
 It can safely be assumed that a head of staff is threatening to arrest. Bring backup.
