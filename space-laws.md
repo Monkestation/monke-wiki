@@ -2,7 +2,7 @@
 title: Space Laws
 description: Here be the laws
 published: true
-date: 2024-01-13T19:42:29.246Z
+date: 2024-01-13T19:48:59.527Z
 tags: space law
 editor: markdown
 dateCreated: 2023-09-06T06:05:09.947Z
