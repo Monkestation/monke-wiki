@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-17T05:28:09.951Z
+date: 2024-01-17T05:57:16.068Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -52,7 +52,6 @@ Hunting antagonists as non-security or as a job that isn't allowed to hunt down 
 | Obsessed           | N              | Y                   | This antagonist requires extra escalation to ensure that it is not just for grief. |
 | Paradox Clone      | ???            | ???                 | Probably the strangest entry on the list. The only objective in the code is to murder and replace, but not all will do that, hence the unknown rating|
 | Florida Man        | ???            | ???                 | Florida Man does as Florida Man wants. Can be right here at the bottom of the list where it belongs or a higher threat than the Cults and Wizards.|
-| Maintenance Clown  | Y              | N                   | If you kill the wrong clown, you're might be in the wrong! |
 
 To discuss the table here, we list off the various antagonists, whether they can be validhunted or not by the *crew*, wether the *antagonist must have some amount of escalation*, and some additional notes. This is just the tip of the iceburg but helps clarify most things for the majority of players. If this is where your need for information ends, congrats. If you need more, read on further.
 
