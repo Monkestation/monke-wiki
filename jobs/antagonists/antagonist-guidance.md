@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-17T05:57:16.068Z
+date: 2024-01-17T05:57:53.900Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -71,13 +71,11 @@ This is a lesson that is learned by some through life experience and others neve
 Because of how varied and unique some of the antagonists may be, some additional guidance is provided here so one can make more smart decisions about how they wish to engage with their objectives (if they so choose) or otherwise to raise hell.
 
 ## Murderbone Specific Antagonists
-Applies to: **Wizards**, **Ninjas**, **Nuclear Operatives**, **Ascended Heretics**, **Spiders**, **Space Dragons**, **Blob**, **Nightmares**, **Xenos**
+Applies to: **Wizards**, **Ninjas**, **Nuclear Operatives**, **Ascended Heretics**, **Spiders**, **Space Dragons**, **Blob**, **Xenos**
 
 Everyone hates you. Everyone wants you dead. Nobody has to have a reason to after you as you're openly a threat. Handle things on how you see fit.
 
 **Flesh Spiders**: you are openly hostile to anything that isn't another Flesh Spider. Yes, even the changling that supposedly gave you life.
-
-**Nightmares**: If you want to convince the crew that you're not out to kill them and just simply want the lights off, you can do just that.
 
 ## Conversion-based Antagonists
 Applies to: **Cultists**, **The Revolution**, **Bloodsuckers**
@@ -89,7 +87,7 @@ Conversion antagonists should be more focused on converting those to their cause
 **Bloodsuckers** sit in a unique position in this category as, depending on your choice of Clan, you are going to want thralls in particular positions. Focusing on those particular positions is a helpful thing to do.
 
 ## Traitor-type Antagonists
-Applies to: **Traitors**, **Contractors**, **Changlings**, **Non-Ascended Heretics**.
+Applies to: **Traitors**, **Contractors**, **Changlings**, **Non-Ascended Heretics**,  **Nightmares**
 
 You have escalation requirements to meet if you're killing people. If they attack first, you can obviously defend yourself. That's not a problem.
 
@@ -98,6 +96,8 @@ For purposes of completing contracts, the **Contractors** are not required to es
 **Changlings**, we got extra information for you down here. If you're visibly a ling and you're running around doing very much visibily ling things, folk are gonna hunt you down if you're doing it around them. If you disappear back into the background and lose the hounds on your trail, you should back into a "stealth" status.
 
 **Non-Ascended Heretics** have a list of five individuals to sacrifice. Those sacrifice targets can be taken without escalation. Anyone else involved must still have escalation.
+
+**Nightmares**: If you want to convince the crew that you're not out to kill them and just simply want the lights off, you can do just that.
 
 ## Other Antagonists
 
