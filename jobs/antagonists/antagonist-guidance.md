@@ -2,7 +2,7 @@
 title: Antagonist Guidance
 description: Because sometimes one needs to have a bit more to avoid the bwoink.
 published: true
-date: 2024-01-06T23:45:54.357Z
+date: 2024-01-17T05:18:22.384Z
 tags: admins, antagonist, rules
 editor: markdown
 dateCreated: 2023-12-28T01:19:02.861Z
@@ -44,7 +44,7 @@ Hunting antagonists as non-security or as a job that isn't allowed to hunt down 
 | Revenant           | Y              | N                   | Revenants can be fought by anyone that happens to catch them.|
 | Morph              | Y              | N                   | Morphs can either be just a nuisance or an assistant to a round ending threat depending on circumstances.|
 | Slasher            | N              | Y                   | Slashers are spooky |
-| Changeling         | N              | Y                   | You're not a murderbone antagonist. Get over it. |
+| Changeling         | N, See Notes              | Y        | You're not a murderbone antagonist. Get over it. If you're visibly a changling (armblade for example), anyone and everyone CAN step in and kick the crap out of you. |
 | Traitor/Contractor | N              | Y                   | Traitors that complete final objective are valid. Traitors otherwise aren't validhuntable but can still be dealt with via escalation.|
 | Regal Rat          | Y              | Y                   |  |
 | Fugitives          | N, See Notes   | Y                   | The Hunters sent to find you do not have to escalate as they are there to do just that. The crew don't have to help them or even you either.|
@@ -95,6 +95,8 @@ Applies to: **Traitors**, **Contractors**, **Changlings**, **Non-Ascended Hereti
 You have escalation requirements to meet if you're killing people. If they attack first, you can obviously defend yourself. That's not a problem.
 
 For purposes of completing contracts, the **Contractors** are not required to escalate with their target for the kidnapping. Anyone else you must still escalate with.
+
+**Changlings**, we got extra information for you down here. If you're visibly a ling and you're running around doing very much visibily ling things, folk are gonna hunt you down if you're doing it around them. If you disappear back into the background and lose the hounds on your trail, you should back into a "stealth" status.
 
 **Non-Ascended Heretics** have a list of five individuals to sacrifice. Those sacrifice targets can be taken without escalation. Anyone else involved must still have escalation.
 
