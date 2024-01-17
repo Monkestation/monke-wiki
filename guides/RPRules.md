@@ -2,8 +2,8 @@
 title: RP Rules
 description: Your guide to Monkey RP Rules
 published: true
-date: 2024-01-07T22:32:15.429Z
-tags: guides, rules, roleplay
+date: 2024-01-17T05:27:04.341Z
+tags: guides, roleplay, rules
 editor: markdown
 dateCreated: 2024-01-05T20:49:26.655Z
 ---
@@ -76,7 +76,7 @@ Embarking on your first roleplaying (RP) adventure can be both exhilarating and 
 
 ## Blackout Policy
 
-WIth respect to roleplay, this will also help to serve what things you remember during certain situations so that the playing field is as fair as possible.
+With respect to roleplay, this will also help to serve what things you remember during certain situations so that the playing field is as fair as possible.
 
 With respect to death and revival, there are going to be some expectations of how far you remember. The method of revival will help determine what you will remember. We'll start with the most restrictive memory requirements up to the least restrictive.
 
