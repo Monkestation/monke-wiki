@@ -2,7 +2,7 @@
 title: Wiki Landing Page
 description: Important Info Lies here
 published: true
-date: 2024-01-06T03:13:40.408Z
+date: 2024-01-17T05:26:56.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:17:03.052Z
@@ -131,6 +131,8 @@ This also excludes a solid RP reason (within the round) for seeking revenge. A c
 
 Ninjas, Heretics, Revs, final objective traitors, Cultist with halos, Delta AIs and Spiders: Valid huntable! Yaaay! You are allowed to protect your crewmates if they are being assaulted, Jumped, or attacked Within your view. But only to protect. Not to pursue. You can protect your establishment with force if a violent person has visited after there has been an attack by said person.
 
+For more detailed information, please look at our [Antagonist Guidance](/jobs/antagonists/antagonist-guidance) page as this has more detailed discussion.
+
 > If there is a large-scale threat to the station, anyone is encouraged to participate in protecting the station. Large-scale threats are: Nuclear Operatives, Blobs, Xenomorphs and Wizards.
 {.is-info}
 
@@ -172,6 +174,17 @@ Dragging an admin's decision into other channels, Twitch, Discord, etc. will not
 ## Rule 12: You Must Roleplay
 
 You must roleplay. You must play a character. You must put in some effort.
+
+We also have a blackout policy. The details are:
+
+| Method | Memory Limit |
+|---|---|
+| Cloning | Up to the most recent clone scan. |
+| Normal Revival | Anything up to small details of your death, but not identity of the murderer |
+| Antagonist Revivals | No limit |
+| Brain on MMI | No limit |
+
+For details on some ideas of how to add in the RP, as well as detailed discussion of how the blackout policy works, please look at our [RP Rules](/guides/RPRules) page.
 
 # The Duke Themselves
 <iframe src="https://player.twitch.tv/?channel=thedukeofook&parent=wiki.monkestation.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
